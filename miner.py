@@ -58,7 +58,11 @@ def generate_pdf_text (pdf_path):
     fp.close()
     device.close()
     outfp.close()
-    return outfile
+
+    with open(outfile) as myFile:
+        file_text = myFile.read()
+
+    return file_text
 
 
 def load_template (template_path):
@@ -110,13 +114,9 @@ def process_template(template, text):
     return result
 
 
-pdf_file = "parseme/AL_cafr2010.pdf"
+pdf_file = "parseme/AL_cafr2011.pdf"
 template_file = "formats/AL_statewidenetassets.txt"
-# loaded_text = load_pdf_text(pdf_file)
-
-with open("parseme/processing/AL_cafr2010.pdf.txt", "r") as myFile:
-    loaded_text = myFile.read()
-
+loaded_text = generate_pdf_text(pdf_file)
 template = load_template(template_file)
 result = process_template(template,loaded_text)
 
