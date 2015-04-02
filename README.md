@@ -78,5 +78,5 @@ python --version
 ## Resources
 These are resources that were helpful while exploring:
 
-- I want [http://www.unixuser.org/~euske/python/pdfminer/programming.html](basic information on using pdfminer).
-- I want [http://denis.papathanasiou.org/2010/08/04/extracting-text-images-from-pdf-files/](a more complete example of a pdfminer parser).
+- I want [basic information on using pdfminer](http://www.unixuser.org/~euske/python/pdfminer/programming.html).
+- I want [a more complete example of a pdfminer parser](http://denis.papathanasiou.org/2010/08/04/extracting-text-images-from-pdf-files/).
