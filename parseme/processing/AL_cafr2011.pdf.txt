@@ -51285,6 +51285,8 @@ Rate
  
 
  
+
+ 
  
 
  
@@ -51369,8 +51371,6 @@ Head of Family
 Not Over $500 
 Over $500 But Not Over $3,000 
 Over $3,000 
-
- 
 
  
 

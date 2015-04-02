@@ -1,0 +1,4479 @@
+State of California  
+
+Comprehensive Annual 
+
+Financial Report 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+For the Fiscal Year Ended June 30, 2011 
+
+ Controller John Chiang 
+    California State Controller’s Office  
+
+ 
+
+STATE OF CALIFORNIA
+
+COMPREHENSIVE
+
+ANNUAL
+
+FINANCIAL REPORT
+
+For the Year Ended
+
+June 30, 2011
+
+Prepared by 
+
+The Office of the State Controller
+
+JOHN CHIANG
+
+California State Controller
+
+Contents
+
+INTRODUCTORY SECTION
+
+California State Controller’s Transmittal Letter….….….….….….….….….….….….….….….…
+
+Certificate of Achievement for Excellence in Financial Reporting….….….….….….….….….…
+
+Principal Officials of the State of California….….….….….….….….….….….….….….….….….
+
+Organization Chart of the State of California….….….….….….….….….….….….….….….….…
+
+FINANCIAL SECTION
+
+Independent Auditor’s Report….….….….….….….….….….….….….….….….….….….….….…
+
+Management’s Discussion and Analysis….….….….….….….….….….….….….….….….….…
+BASIC FINANCIAL STATEMENTS
+
+iii
+
+ix
+
+x
+
+xi
+
+3
+
+5
+
+GOVERNMENT-WIDE FINANCIAL STATEMENTS
+Statement of Net Assets….….….….….….….….….….….….….….….….….….….….….… 28
+
+Statement of Activities….….….….….….….….….….….….….….….….….….….….….….…
+FUND FINANCIAL STATEMENTS
+Balance Sheet – Governmental Funds….….….….….….….….….….….….….….….….…
+
+30
+
+34
+
+Reconciliation of the Governmental Funds Balance Sheet to
+
+the Statement of Net Assets….….….….….….….….….….….….….….….….….….….
+
+35
+
+Statement of Revenues, Expenditures, and Changes in Fund Balances –
+
+Governmental Funds….….….….….….….….….….….….….….….….….….….….….…
+
+36
+
+Reconciliation of the Statement of Revenues, Expenditures, and Changes in
+
+Fund Balances of Governmental Funds to the Statement of Activities….….….….…. 37
+
+Statement of Net Assets – Proprietary Funds….….….….….….….….….….….….….….…
+
+38
+
+Statement of Revenues, Expenses, and Changes in Fund Net Assets –
+
+Proprietary Funds….….….….….….….….….….….….….….….….….….….….….….…
+
+42
+
+Statement of Cash Flows – Proprietary Funds….….….….….….….….….….….….….….…
+
+44
+
+Statement of Fiduciary Net Assets – Fiduciary Funds and Similar
+
+Component Units….….….….….….….….….….….….….….….….….….….….….….…
+
+48
+
+Statement of Changes in Fiduciary Net Assets – Fiduciary Funds and
+
+Similar Component Units….….….….….….….….….….….….….….….….….….….….
+
+49
+
+DISCRETELY PRESENTED COMPONENT UNITS
+
+FINANCIAL STATEMENTS
+
+Statement of Net Assets – Discretely Presented Component Units –
+
+Enterprise Activity….….….….….….….….….….….….….….….….….….….….….….…
+
+52
+
+Statement of Activities – Discretely Presented Component Units –
+
+Enterprise Activity….….….….….….….….….….….….….….….….….….….….….….… 54
+
+State of California Comprehensive Annual Financial Report
+
+NOTES TO THE FINANCIAL STATEMENTS
+Notes to the Financial Statements – Index….….….….….….….….….….….….….….….…
+
+55
+
+Notes to the Financial Statements….….….….….….….….….….….….….….….….….….…
+
+59
+
+REQUIRED SUPPLEMENTARY INFORMATION
+
+Schedule of Funding Progress….….….….….….….….….….….….….….….….….….….… 172
+
+Infrastructure Assets Using the Modified Approach….….….….….….….….….….….….…
+
+174
+
+Budgetary Comparison Schedule –
+
+General Fund and Major Special Revenue Funds….….….….….….….….….….….…
+
+178
+
+Reconciliation of Budgetary Basis Fund Balances of the General Fund and the
+
+Major Special Revenue Funds to GAAP Basis Fund Balances….….….….….….….…180
+
+Notes to the Required Supplementary Information….….….….….….….….….….….….…
+
+180
+
+COMBINING  FINANCIAL STATEMENTS AND SCHEDULES –
+
+NONMAJOR AND OTHER FUNDS
+Nonmajor Governmental Funds….….….….….….….….….….….….….….….….….….….….…
+Combining Balance Sheet….….….….….….….….….….….….….….….….….….….….….
+
+185
+
+188
+
+Combining Statement of Revenues, Expenditures,
+
+and Changes in Fund Balances….….….….….….….….….….….….….….….….….… 194
+
+Budgetary Comparison Schedule – Budgetary Basis –
+
+Nonmajor Governmental Cost Funds….….….….….….….….….….….….….….….….
+Internal Service Funds….….….….….….….….….….….….….….….….….….….….….….….…
+Combining Statement of Net Assets….….….….….….….….….….….….….….….….….…
+
+200
+
+203
+
+204
+
+Combining Statement of Revenues, Expenses, and Changes in 
+
+Fund Net Assets….….….….….….….….….….….….….….….….….….….….….….….
+
+206
+
+Combining Statement of Cash Flows….….….….….….….….….….….….….….….….….…
+Nonmajor Enterprise Funds….….….….….….….….….….….….….….….….….….….….….…
+Combining Statement of Net Assets….….….….….….….….….….….….….….….….….…
+
+208
+
+213
+
+214
+
+Combining Statement of Revenues, Expenses, and Changes in
+
+Fund Net Assets….….….….….….….….….….….….….….….….….….….….….….….
+
+218
+
+Combining Statement of Cash Flows….….….….….….….….….….….….….….….….….…
+Private Purpose Trust Funds….….….….….….….….….….….….….….….….….….….….….…
+Combining Statement of Fiduciary Net Assets….….….….….….….….….….….….….….…
+
+220
+
+225
+
+226
+
+227
+
+Combining Statement of Changes in Fiduciary Net Assets….….….….….….….….….….…
+Fiduciary Funds and Similar Component Units – Pension and Other
+
+Employee Benefit Trust Funds….….….….….….….….….….….….….….….….….….….…
+Combining Statement of Fiduciary Net Assets….….….….….….….….….….….….….….…
+
+229
+
+232
+
+Combining Statement of Changes in Fiduciary Net Assets….….….….….….….….….….…234
+
+Contents
+
+Agency Funds….….….….….….….….….….….….….….….….….….….….….….….….….… 237
+238
+Combining Statement of Fiduciary Assets and Liabilities….….….….….….….….….….…
+
+Combining Statement of Changes in Fiduciary Assets and Liabilities….….….….….….…
+Nonmajor Component Units….….….….….….….….….….….….….….….….….….….….….…
+Combining Statement of Net Assets….….….….….….….….….….….….….….….….….…
+
+239
+
+241
+
+244
+
+Combining Statement of Activities..................................................................................... 248
+
+STATISTICAL SECTION
+
+Financial Trends….….….….….….….….….….….….….….….….….….….….….….….….….
+Schedule of Net Assets by Component.….….….….….….….….….….….….….….….….…
+
+253 
+254
+
+Schedule of Changes in Net Assets.….….….….….….….….….….….….….….….….….…
+
+256
+
+Schedule of Fund Balances – Governmental Funds.….….….….….….….….….….….….…
+
+260
+
+Schedule of Changes in Fund Balances – Governmental Funds.….….….….….….….….
+Revenue Capacity….….….….….….….….….….….….….….….….….….….….….….….….…
+Schedule of Revenue Base.….….….….….….….….….….….….….….….….….….….….…
+
+262
+
+265
+
+266
+
+Schedule of Revenue Payers by Industry/Income Level….….….….….….….….….….….
+
+270
+
+Schedule of Personal Income Tax Rates….….….….….….….….….….….….….….….….
+Debt Capacity….….….….….….….….….….….….….….….….….….….….….….….….….…
+Schedule of Ratios of Outstanding Debt by Type.….….….….….….….….….….….….….…
+
+272
+
+275
+
+276
+
+Schedule of Ratios of General Bonded Debt Outstanding.….….….….….….….….….….…
+
+278
+
+Schedule of General Obligation Bonds Outstanding.….….….….….….….….….….….….…
+
+280
+
+Schedule of Pledged Revenue Coverage.….….….….….….….….….….….….….….….…
+Demographic and Economic Information….….….….….….….….….….….….….….….….….…
+
+Schedule of Demographic and Economic Indicators.….….….….….….….….….….….….
+
+281
+
+285
+
+286
+
+Schedule of Employment by Industry.….….….….….….….….….….….….….….….….….…
+Operating Information….….….….….….….….….….….….….….….….….….….….….….….…
+
+288
+
+289
+
+Schedule of Full-time Equivalant State Employees by Function.….….….….….….….….…
+
+290
+
+Schedule of Operating Indicators by Function.….….….….….….….….….….….….….….…
+
+292
+
+Schedule of Capital Asset Statistics by Function.….….….….….….….….….….….….….…296
+
+Acknowledgements….….….….….….….….….….….….….….….….….….….….….….….….…
+
+300
+
+State of California Comprehensive Annual Financial Report
+
+This page intentionally left blank.
+
+Introductory Section
+
+Picture to be
+
+placed
+
+JOHN CHIANG
+
+California State Controller 
+
+JOHN CHIANG
+
+California State Controller
+
+March 23, 2012
+
+To the Citizens, Governor, and Members
+of the Legislature of the State of California:
+
+I am pleased to submit the State of California Comprehensive Annual Financial Report (CAFR) for the
+fiscal year ended June 30, 2011. This report meets the requirements of Government Code section 12460
+for an annual report prepared strictly in accordance with accounting principles generally accepted in the
+United  States  of  America  (GAAP)  and  contains  information  to  help  readers  gain  a  reasonable
+understanding of the State’s financial activities. 
+
+California’s economic recovery continued throughout the last fiscal year, but at a slow pace. Although the
+State’s  “bottom-line”  (primary  government  net  assets)  does  not  reflect  it,  there  is  some  evidence  that
+California’s downward trend has stopped and its financial position is improving. For the fiscal year ended
+June  30,  2011,  the  State’s  expenses  exceeded  revenues  by  $3.5  billion  for  governmental  activities,  a
+$7.7  billion  improvement  from  last  year’s  $11.2  billion  shortfall.  Governmental  activities  include  most
+services and expenses normally associated with state government, such as health and human services,
+education, business and transportation, correctional programs, and general government.
+
+The State’s three major sources of revenue—personal income taxes, corporation taxes, and sales and
+use taxes—increased in total by 8.6%, from $87.1 billion in the 2009-10 fiscal year to $94.6 billion in the
+2010-11 fiscal year. The significant factor was an increase of $7.9 billion in personal income taxes, while
+corporate and sales and use taxes remained almost static.
+
+Recent  indicators  show  that  California’s  fiscal  outlook  is  not  improving  as  quickly  as  was  forecast.
+Specifically,  as  of  February  2012,  the  State’s  year-to-date  cash  receipts  from  its  three  largest  revenue
+sources was approximately $830 million less than estimated and $6 billion less than the amount received
+by the end of February 2011. However, while California’s unemployment rate was 12.4% in July 2010, it
+had dropped to 11.8% by June of 2011. In addition, State personal income showed consistent increases
+in each quarter of fiscal year 2010-11, increasing 5.5% over the course of the fiscal year. 
+
+Although California’s economy is showing modest signs of recovery, the State still faces budgetary and
+cash shortfalls in the current and following fiscal years. In the short term, the State needs budget tactics
+that  continue  to  focus  on  multiyear  results  and  ongoing  solutions.  The  State  must  develop  consistent
+funding  strategies  that  will  reduce  its  long-term  obligations  such  as  those  for  infrastructure,  retirement,
+and  budgetary  borrowing.  A  focus  on  achieving  long-term  fiscal  stability  must  be  maintained  to  ensure
+sound financial results.
+
+State of California Comprehensive Annual Financial Report
+
+Introduction to the Report
+
+Responsibility  for  the  accuracy,  completeness,  and  fairness  of  data  presented  in  the  CAFR,  including  all
+disclosures, rests with the State. To the best of our knowledge and belief, the enclosed data are accurate in all
+material respects and are reported in a manner that fairly presents the financial position and the operations of
+the primary government and its component units.
+
+State statutes require an annual audit of the basic financial statements of the State. To meet this requirement,
+the State Auditor has examined the accompanying financial statements in accordance with auditing standards
+generally  accepted  in  the  United  States  of  America  and  Government  Auditing  Standards  issued  by  the
+Comptroller  General  of  the  United  States.  The  auditor’s  report  on  the  basic  financial  statements  and  the
+combining and individual fund statements and schedules is included in the CAFR.
+
+The State of California is also required to undergo an annual single audit in conformity with the provisions of
+the  United  States  Office  of  Management  and  Budget’s  (OMB)  Circular  A-133,  Audits  of  States,  Local
+Governments,  and  Non-Profit  Organizations.  In  conducting  the  engagement,  the  State  Auditor  used  auditing
+standards generally accepted in the United States of America and Government Auditing Standards issued by
+the Comptroller General of the United States. Information related to this single audit—including a schedule of
+federal assistance, the independent auditor’s report on compliance with requirements applicable to each major
+program and on internal controls over compliance in accordance with OMB Circular A-133, and a schedule of
+findings and questioned costs—is included in a separately issued report.
+
+The CAFR contains three sections: Introductory, Financial, and Statistical. The Introductory Section is designed
+to provide the background and context that readers need to benefit fully from the information presented in the
+Financial Section. The Financial Section contains the independent auditor’s report, management’s discussion
+and  analysis,  the  basic  financial  statements,  the  required  supplementary  information,  the  combining  and
+individual  fund  statements,  and  the  budgetary  comparison  schedule  for  nonmajor  governmental  cost  funds.
+The Statistical Section provides a history of selected financial and demographic information.
+
+The  State’s  Management’s  Discussion  and  Analysis  (MD&A)  immediately  follows  the  independent  auditor’s
+report and contains an introduction, overview, and analysis of the financial statements. Our MD&A provides a
+narrative introduction to the detailed financial statements and notes contained in the CAFR.
+
+Profile of the Government
+
+Reporting Entity 
+
+The  financial  reporting  entity  of  the  State  includes  all  of  the  funds  of  the  primary  government  and  of  its
+component units. Component units are legally separate entities for which the primary government is financially
+accountable.  Blended  component  units,  although  legally  separate  entities,  are,  in  substance,  part  of  the
+primary government’s operations and are included as part of the primary government. Accordingly, the building
+authorities  are  reported  in  the  capital  projects  funds  of  the  primary  government.  The  lease  agreements
+between the building authorities and the primary government, amounting to $501 million, have been eliminated
+from  the  balance  sheet.  Instead,  only  the  underlying  capital  assets  and  the  debt  used  to  acquire  them  are
+reported in the government-wide statements. The Golden State Tobacco Securitization Corporation is reported
+as a special revenue fund of the primary government. 
+
+iv
+
+California State Controller’s Transmittal Letter
+
+Discretely presented component units are reported separately in the government-wide financial statements to
+emphasize  that  they  are  legally  separate  from  the  primary  government  and  to  differentiate  their  financial
+position  and  results  of  operations  from  those  of  the  primary  government.  Additional  information  on  the
+reporting entity is included in Note 1, Summary of Significant Accounting Policies.
+
+Budgetary Controls
+
+The State Legislature prepares an annual budget that contains estimates of revenues and expenditures for the
+ensuing  fiscal  year.  This  budget  is  the  result  of  negotiations  between  the  Governor  and  the  Legislature.
+Throughout  the  fiscal  year,  adjustments  in  the  form  of  budget  revisions,  executive  orders,  and  financial
+legislation  agreed  to  by  the  Governor  and  the  Legislature  are  made  to  the  budget.  The  State  Controller  is
+statutorily  responsible  for  control  over  revenues  due  the  primary  government  and  for  expenditures  of  each
+appropriation contained in the budget. Budgeted appropriations are the expenditure authorizations that allow
+state agencies to purchase or create liabilities for goods and services. 
+
+The State’s accounting system provides the State Controller’s Office with a centrally-controlled record system
+to fully account for each budgeted appropriation, including its unexpended balance, and for all cash receipts
+and  disbursements. The  accounting  system  is  decentralized,  meaning  the  detail  of  each  control  account  is
+maintained  by  each  state  agency.  During  the  fiscal  year,  the  control  accounts  and  the  agency  accounts  are
+maintained and reconciled on a cash basis. At the end of the fiscal year, each agency prepares annual accrual
+reports for receivables and payables. The State Controller’s Office combines its control account balances with
+the agency accrual reports to prepare California’s Budgetary/Legal Basis Annual Report and the Budgetary/
+Legal Basis Annual Report Supplement. State laws and regulations that, in some cases, do not fully agree with
+GAAP govern the methods of accounting for expenditures and revenues in these reports. 
+
+The information in the CAFR represents a consolidation of the amounts in the Budgetary/Legal Basis Annual
+Report and adjustments to the account balances to conform to GAAP. Additional information on the budgetary
+basis  of  accounting  can  be  found  in  Note  2,  Budgetary  and  Legal  Compliance,  and  in  the  Required
+Supplementary Information section that follows the Notes to the Financial Statements.
+
+Internal Controls
+
+An internal control structure has been designed to ensure that the assets of the government are protected from
+loss, theft, or misuse, and to ensure that adequate accounting data are compiled to allow for the preparation of
+financial  statements  in  accordance  with  legal  requirements  and  GAAP.  The  internal  control  structure  is
+designed  to  provide  reasonable,  but  not  absolute,  assurance  that  these  objectives  are  met. The  concept  of
+reasonable  assurance  recognizes  that:  (1)  the  cost  of  a  control  should  not  exceed  the  benefits  likely  to  be
+derived,  and  (2)  the  valuation  of  costs  and  benefits  requires  estimates  and  judgments  by  management.  In
+addition, the government maintains extensive budgetary controls. The objective of these controls is to ensure
+compliance with legal provisions embodied in the annual appropriated budget approved by the Legislature and
+Governor.
+
+v
+
+State of California Comprehensive Annual Financial Report
+
+Financial Condition
+
+Economic Outlook
+
+California’s economy has continued to improve during the first half of fiscal year 2011-12. Since hitting bottom
+at the end of the first fiscal quarter of fiscal year 2010-11, the State has added back 351,100 of the non-farm
+jobs lost during the downturn. Personal income in California, which stood at $1.67 trillion in the third quarter of
+2011,  has  already  surpassed  its  pre-recession  peak  after  almost  two  years  of  consecutive  growth  on  a
+quarterly basis. In addition to growing consumer demand from domestic sources, international trade also has
+been  playing  a  large  role  in  speeding  up  California’s  recovery.  California’s  exports,  including  industrial
+machinery, vehicles and parts, aircrafts, pharmaceuticals, and plastics, are booming. While home prices have
+yet  to  rebound  across  the  State,  the  housing  market  has  stabilized  and  is  beginning  to  move  in  the  right
+direction.  New  single-family  building  permits  were  still  declining 
+first  six  months  of
+fiscal year 2011-12,  but  multi-family  building  permits  have  been  trending  upward  since  mid-2010  and
+nonresidential permit values have steadily increased through 2011.  
+
+through 
+
+the 
+
+Budget Outlook
+
+2011-12 Fiscal Year
+
+California’s 2011-12 Budget Act was enacted on June 30, 2011. The Budget enacted $27.2 billion in actions to
+solve  a  General  Fund  gap  between  resources  and  expenditures.  However,  revised  estimates  show  that
+significantly less revenue is expected from the federal government and other sources, and that the State will
+not  be  able  to  achieve  all  of  its  other  planned  budget  solutions. The  proposed  2012-13  Governor’s  Budget
+projects that the General Fund will end fiscal year 2011-12 with a deficit of $4.1 billion. 
+
+2012-13 Fiscal Year
+
+The Governor released his proposed 2012-13 Budget on January 5, 2012. This proposed Budget projects a
+$9.2 billion gap between estimated revenues and state expenditures over the next 18 months. The Governor’s
+Budget  proposes  $4.2  billion  in  expenditure-related  solutions,  $4.7  billion  in  new  revenues,  and  $1.4  billion
+borrowed  from  special  funds  and  other  sources.  The  2012-13  Governor’s  Budget  (with  all  budget  solutions
+enacted)  projects  General  Fund  revenues  and  transfers  of  $95.4  billion  and  expenditures  of  $92.6  billion,
+resulting in a $1.1 billion reserve. A significant element included in the Governor’s plan is a proposed initiative
+to  be  placed  on  the  November  2012  general  election  ballot.  If  approved  by  the  voters,  this  measure  will
+temporarily increase the personal income tax on annual earnings of more than $250,000 for seven years and
+temporarily increase the sales tax by one-quarter percent for four years, generating an estimated $6.8 billion to
+$9  billion  for  2012-13,  and  $5.4  billion  to  $7.6  billion,  on  average,  in  the  following  five  fiscal  years.
+Expenditure-related  solutions  include  reductions  of  $1.4  billion  for  CalWorks  and  $1  billion  in  combined
+reductions to Medi-Cal and In-Home Supportive Services.
+
+vi
+
+California State Controller’s Transmittal Letter
+
+Awards and Acknowledgments
+
+The Government Finance Officers Association of the United States and Canada (GFOA) awarded a Certificate
+of Achievement for Excellence in Financial Reporting to the State of California for its comprehensive annual
+financial report for the fiscal year ended June 30, 2010. In order to be awarded a Certificate of Achievement, a
+government must publish an easily readable and efficiently organized comprehensive annual financial report.
+This  report  must  satisfy  both  generally  accepted  accounting  principles  and  applicable  legal  requirements.  A
+Certificate of Achievement is valid for a period of one year only.  
+
+This  CAFR  could  not  have  been  prepared  without  the  assistance  and  cooperation  of  all  state  agencies  and
+universities.  We  wish  to  thank  the  State  Auditor  and  her  staff  for  their  audit  of  the  financial  statements
+contained  in  this  report.  I  am  also  grateful  to  the  members  of  my  staff  for  their  dedicated  efforts  and
+professionalism.
+
+Sincerely,
+
+Original signed by:
+
+JOHN CHIANG
+California State Controller
+
+vii
+
+State of California Comprehensive Annual Financial Report
+
+This page intentionally left blank.
+
+viii
+
+State of California Comprehensive Annual Financial Report
+
+Principal Officials of the State of California
+
+Executive Branch
+
+Edmund G. Brown, Jr.
+
+Governor
+
+Gavin Newsom
+
+Lieutenant Governor
+
+John Chiang
+
+State Controller
+
+Kamala D. Harris
+Attorney General
+
+Bill Lockyer
+
+State Treasurer
+
+Debra Bowen
+
+Secretary of State
+
+Tom Torlakson
+
+Superintendent of Public Instruction
+
+Dave Jones
+
+Insurance Commissioner
+
+Board of Equalization
+
+Betty T. Yee, Member, First District
+
+George Runner, Member, Second District
+
+Michelle Steel, Member, Third District
+
+Jerome E. Horton, Member, Fourth District
+
+Legislative Branch
+
+Darrell Steinberg
+
+President pro Tempore, Senate
+
+John A. Pérez
+
+Speaker of the Assembly
+
+Judicial Branch
+
+Tani Cantil-Sakauye
+
+   Chief Justice, State Supreme Court
+
+x
+
+California State Controller’s Transmittal Letter
+
+Organization Chart of the State of California 
+
+Citizens of the State
+
+Legislative
+
+Executive
+
+Judicial
+
+Senate
+
+Assembly
+
+State
+
+Controller
+
+GOVERNOR
+
+Lieutenant
+Governor
+
+State
+
+Supreme
+
+Court
+
+Judicial
+Council
+
+State
+
+Board of
+
+Equalization
+
+Superintendent
+
+of Public
+Instruction
+
+Courts
+
+of
+
+Appeal
+
+Commission
+on Judicial
+Performance
+
+Insurance 
+
+Commissioner
+
+State
+
+Treasurer
+
+Superior
+Courts
+
+Habeas
+Corpus
+Resource
+
+Center
+
+California
+Technology
+
+Agency
+
+Office
+of the
+
+Inspector
+General
+
+Secretary
+of State
+
+Office  of
+Planning
+
+and
+
+Research
+
+Attorney
+General
+
+Department
+of Veterans
+
+Affairs
+
+Department 
+of Food and 
+Agriculture
+
+Department
+of Finance
+
+Medical
+
+Assistance
+Commission
+
+Office of
+
+Administrative
+
+Law
+
+Department 
+of Personnel
+Administration
+
+Military
+
+Department
+
+Arts
+
+Council
+
+State 
+Public
+
+Defender
+
+Secretary of
+Department of
+
+Corrections
+
+and
+
+Rehabilitation
+
+Secretary of
+Labor and 
+Workforce
+
+Development
+
+Agency
+
+Secretary of
+Health and
+
+Human
+Services
+Agency
+
+Secretary of 
+
+Business,
+
+Transportation,
+and Housing
+
+Agency
+
+Secretary of 
+Environmental
+
+Protection
+
+Agency
+
+Secretary of
+
+Natural
+
+Resources 
+
+Agency
+
+Secretary of
+State and 
+Consumer
+Services
+Agency
+
+Secretary of 
+Emergency 
+Management 
+
+Agency
+
+Secretary of
+Service  and 
+Volunteering
+
+xi
+
+State of California Comprehensive Annual Financial Report
+
+This page intentionally left blank.
+
+xii
+
+Financial Section
+
+State of California Comprehensive Annual Financial Report
+
+This page intentionally left blank.
+
+2
+
+Management’s Discussion and Analysis
+
+Management’s Discussion and Analysis
+
+The  following  Management’s  Discussion  and  Analysis  is  a  required  supplement  to  the  State  of  California’s
+financial statements. It describes and analyzes the financial position of the State, providing an overview of the
+State’s  activities  for  the  year  ended  June  30,  2011.  We  encourage  readers  to  consider  the  information  we
+present here in conjunction with the information presented in the Controller’s letter of transmittal at the front of
+this report and in the State’s financial statements and notes, which follow this section.
+
+Financial Highlights – Primary Government
+
+Government-wide Highlights
+
+During  the  2010-11  fiscal  year,  California  showed  signs  of  fiscal  recovery,  but  it  continued  to  struggle
+financially as a result of the recent recession. The State’s general revenues increased by $10.1 billion (10.7%)
+from  last  year;  however,  revenues  were  $5.1 billion  lower  than  those  received  in  the  2007-08  fiscal  year.
+Expenses for the State’s governmental activities increased slightly from the prior year, but exceeded revenue
+received  resulting  in  a  $3.5 billion  decrease  in  governmental  activities’  net  assets.  Total  expenses  for  the
+State’s  business-type  activities  exceeded  revenues  for  fiscal  year  2010-11.  In  fiscal  year  2010-11,  the
+California  State  University  financial  activities  were  reclassified  from  governmental  activities  to  enterprise
+activities. Reduced general revenues, expenses that exceeded revenues, and increased long-term obligations
+resulted  in  a  50% decrease  in  the  total  net  assets  for  governmental  and  business-type  activities  from  the
+2009-10 fiscal year.
+
+Net Assets — The primary government’s net assets as of June 30, 2011, were a negative $9.7 billion. After the
+total  net  assets  are  reduced  by  $86.8 billion  for  investment  in  capital  assets  (net  of  related  debt)  and  by
+$31.5 billion  for  restricted  net  assets,  the  resulting  unrestricted  net  assets  totaled  a  negative  $128.0  billion.
+Restricted net assets are dedicated for specified uses and are not available to fund current activities. Almost
+one-half  of  the  negative  $128.0  billion  consists  of  $62.6  billion  in  outstanding  bonded  debt  issued  to  build
+capital  assets  for  school  districts  and  other  local  governmental  entities.  The  bonded  debt  reduces  the
+unrestricted net assets; however, local governments, not the State, record the capital assets that would offset
+this reduction.
+
+Changes in Net Assets — The primary government’s total net assets decreased by $3.2 billion (50.0%) during
+the year ended June 30, 2011. Net assets of governmental activities decreased by $3.5 billion (51.3%), while
+net assets of business-type activities increased by $330 million (69.3%).
+
+Fund Highlights
+
+Governmental Funds — GASB Statement No. 54 provides new fund balance classifications for governmental
+funds. The previous reserved and unreserved classifications have been replaced with nonspendable, restricted,
+and unrestricted balances. Additional information on the State’s fund balances can be found in Note 1K in the
+notes  to  the  basic  financial  statements.  As  of  June  30,  2011,  the  primary  government’s  governmental  funds
+reported a combined ending fund balance of $10.8 billion, a decrease of $1.0 billion from the prior fiscal year’s
+restated  ending  fund  balance.  The  unrestricted  fund  balance,  comprised  of  committed,  assigned,  and
+unassigned  balances,  was  negative  $17.3  billion.  The  nonspendable  and  restricted  fund  balances  were
+$187 million and $27.9 billion, respectively.
+
+5
+
+State of California Comprehensive Annual Financial Report
+
+Proprietary  Funds  —  As  of  June  30,  2011,  the  primary  government’s  proprietary  funds  reported  combined
+ending net assets of $1.4 billion, an increase of $375 million from the prior fiscal year. After the total net assets
+are  reduced  by  $1.5  billion  for  investment  in  capital  assets  (net  of  related  debt),  expendable  restrictions  of
+$3.6 billion,  and  nonexpendable  restrictions  of  $22  million,  the  unrestricted  net  assets  totaled  a  negative
+$3.8 billion.
+
+Noncurrent Assets and Liabilities
+
+As of June 30, 2011, the primary government’s noncurrent assets totaled $134.8 billion, of which $109.0 billion
+is related to capital assets. State highway infrastructure assets of $61.4 billion represent the largest portion of
+the State’s capital assets.
+
+The primary government’s noncurrent liabilities totaled $158.1 billion, which consists of $78.3 billion in general
+obligation bonds, $29.4 billion in revenue bonds, and $50.3 billion in all other noncurrent liabilities. During the
+2010-11 fiscal year, the primary government’s noncurrent liabilities increased by $8.7 billion (5.8%) over the
+prior  fiscal  year.  This  increase  was  primarily  the  result  of  a  $3.8  billion  increase  in  the  unemployment
+programs’  loan  payable  to  the  U.S.  Department  of  Labor,  and  a  $2.6  billion  increase  in  net  other
+postemployment benefits obligations.
+
+Overview of the Financial Statements
+
+This discussion and analysis is an introduction to the section presenting the State’s basic financial statements,
+which  includes  four  components:  (1) government-wide  financial  statements,  (2)  fund  financial  statements,
+(3) discretely presented component units financial statements, and (4) notes to the financial statements. This
+report also contains required supplementary information and combining financial statements and schedules.
+
+Government-wide Financial Statements
+
+Government-wide  financial  statements  are  designed  to  provide  readers  with  a  broad  overview  of  the  State’s
+finances.  The  government-wide  financial  statements  do  not  include  fiduciary  programs  and  activities  of  the
+primary  government  and  component  units  because  fiduciary  resources  are  not  available  to  support  state
+programs.
+
+To help readers assess the State’s economic condition at the end of the fiscal year, the statements provide
+both short-term and long-term information about the State’s financial position. These statements are prepared
+using  the  economic  resources  measurement  focus  and  the  accrual  basis  of  accounting,  similar  to  methods
+used by most businesses. These statements take into account all revenues and expenses connected with the
+fiscal year, regardless of when the State received or paid the cash. The government-wide financial statements
+include two statements: the Statement of Net Assets and the Statement of Activities.
+
+The  Statement  of  Net  Assets  presents  all  of  the  State’s  assets  and  liabilities  and  reports  the  difference
+between  the  two  as  net  assets.  Over  time,  increases  or  decreases  in  net  assets  indicate  whether  the
+financial position of the State is improving or deteriorating.
+
+The Statement of Activities presents information showing how the State’s net assets changed during the
+most recent fiscal year. The State reports changes in net assets as soon as the event giving rise to the
+change occurs, regardless of the timing of the related cash flows. Thus, this statement reports revenues
+and expenses for some items that will result in cash flows in future fiscal periods (e.g., uncollected taxes
+
+(cid:129)
+
+(cid:129)
+
+6
+
+Management’s Discussion and Analysis
+
+and  earned  but  unused  vacation  leave).  This  statement  also  presents  a  comparison  between  direct
+expenses and program revenues for each function of the State.
+
+The government-wide financial statements separate into different columns the three types of state programs
+and activities: governmental activities, business-type activities, and component units.
+
+(cid:129)
+
+•
+
+(cid:129)
+
+Governmental activities are mostly supported by taxes, such as personal income and sales and use taxes,
+and  intergovernmental  revenues,  primarily  federal  grants.  Most  services  and  expenses  normally
+associated  with  state  government  fall  into  this  activity  category,  including  health  and  human  services,
+education  (public  kindergarten  through  12th  grade  [K-12]  schools  and  institutions  of  higher  education),
+business and transportation, correctional programs, general government, resources, state and consumer
+services, and interest on long-term debt.
+
+Business-type  activities  typically  recover  all  or  a  significant  portion  of  their  costs  through  user  fees  and
+charges  to  external  users  of  goods  and  services.  The  business-type  activities  of  the  State  of  California
+include  providing  unemployment  insurance  programs,  providing  housing  loans  to  California  veterans,
+providing  water  to  local  water  districts,  providing  building  aid  to  school  districts,  providing  services  to
+California  State  University  students,  leasing  public  assets,  selling  California  State  Lottery  tickets,  and
+selling  electric  power.  These  activities  are  carried  out  with  minimal  financial  assistance  from  the
+governmental activities or general revenues of the State.
+
+Component  units  are  organizations  that  are  legally  separate  from  the  State,  but  are  at  the  same  time
+related  to  the  State  financially  (i.e.,  the  State  is  financially  accountable  for  them)  or  the  nature  of  their
+relationship with the State is so significant that their exclusion would cause the State’s financial statements
+to  be  misleading  or  incomplete.  The  State’s  financial  statements  include  the  information  for  blended,
+fiduciary, and discretely presented component units.
+
+(cid:129)
+
+(cid:129)
+
+(cid:129)
+
+Blended component units, although legally separate entities, are in substance a part of the primary
+government’s  operations.  Therefore,  for  reporting  purposes,  the  State  integrates  data  from  blended
+component  units  into  the  appropriate  funds.  The  Golden  State  Tobacco  Securitization  Corporation
+and  certain  building  authorities  that  are  blended  component  units  of  the  State  are  included  in  the
+governmental activities. 
+
+Fiduciary component units are legally separate from the primary government but, due to their fiduciary
+nature, are included with the primary government’s fiduciary funds. The Public Employees’ Retirement
+System and the State Teachers’ Retirement System are fiduciary component units that are included
+with  the  State’s  pension  and  other  employee  benefit  trust  funds,  which  are  not  included  in  the
+government-wide financial statements.
+
+Discretely presented component units are legally separate from the primary government and provide
+services  to  entities  and  individuals  outside  the  primary  government.  The  activities  of  discretely
+presented  component  units  are  presented  in  a  single  column  in  the  government-wide  financial
+statements.
+
+Information on how to obtain financial statements of the individual component units is available from the State
+Controller’s  Office,  Division  of  Accounting  and  Reporting,  P.O.  Box  942850,  Sacramento,  California  94250-
+5872. 
+
+7
+
+State of California Comprehensive Annual Financial Report
+
+Fund Financial Statements
+
+Fund financial statements are provided for governmental funds, proprietary funds, fiduciary funds and similar
+component units, and discretely presented component units. A fund is a grouping of related accounts that is
+used  to  maintain  control  over  resources  that  have  been  segregated  for  specific  activities  or  objectives.  The
+State of California, like other state and local governments, uses fund accounting to ensure and demonstrate
+compliance with finance-related legal and contractual requirements. Following are general descriptions of the
+three types of funds.
+
+(cid:129)
+
+in 
+
+the  government-wide 
+
+Governmental  funds  are  used  to  account  for  essentially  the  same  functions  that  are  reported  as
+governmental  activities 
+the
+government-wide financial statements, governmental fund financial statements focus on short-term inflows
+and outflows of spendable resources, as well as on balances of spendable resources available at the end
+of  the  fiscal  year.  Such  information  may  be  useful  in  evaluating  a  government’s  short-term  financing
+requirements. This approach is known as the flow of current financial resources measurement focus and
+the  modified  accrual  basis  of  accounting.  These  governmental  fund  statements  provide  a  detailed
+short-term  view  of  the  State’s  finances,  enabling  readers  to  determine  whether  adequate  financial
+resources exist to meet the State’s current needs.
+
+financial  statements.  However,  unlike 
+
+Because  governmental  fund  financial  statements  provide  a  narrower  focus  than  do  government-wide
+financial statements, it is useful to compare governmental fund statements to the governmental activities
+information  presented  in  the  government-wide  financial  statements.  By  doing  so,  readers  may  better
+understand  the  long-term  impact  of  the  government’s  short-term  financing  decisions.  Reconciliations
+located  on  the  pages  immediately  following  the  fund  statements  show  the  differences  between  the
+government-wide  statements  and  the  governmental  fund  Balance  Sheet  and  the  governmental  fund
+Statement of Revenues, Expenditures, and Changes in Fund Balances. Primary differences between the
+government-wide  and  fund  statements  relate  to  noncurrent  assets,  such  as  land  and  buildings,  and
+noncurrent  liabilities,  such  as  bonded  debt  and  amounts  owed  for  compensated  absences  and  capital
+lease  obligations,  which  are  reported  in  the  government-wide  statements  but  not  in  the  fund-based
+statements.
+
+(cid:129)
+
+Proprietary  funds  show  activities  that  operate  more  like  those  found  in  the  private  sector.  The  State  of
+California has two proprietary fund types: enterprise funds and internal service funds.
+
+(cid:129)
+
+(cid:129)
+
+Enterprise funds record activities for which a fee is charged to external users; they are presented as
+business-type activities in the government-wide financial statements.
+
+Internal service funds accumulate and allocate costs internally among the State of California’s various
+functions.  For  example,  internal  service  funds  provide  information  technology,  printing,  fleet
+management, and architectural services primarily for state departments. As a result, their activity is
+considered governmental.
+
+Fiduciary funds account for resources held for the benefit of parties outside the State. Fiduciary funds and
+the  activities  of  fiduciary  component  units  are  not  reflected  in  the  government-wide  financial  statements
+because  the  resources  of  these  funds  are  not  available  to  support  State  of  California  programs.  The
+accounting  used  for  fiduciary  funds  and  similar  component  units  is  similar  to  that  used  for  proprietary
+funds.
+
+(cid:129)
+
+8
+
+Management’s Discussion and Analysis
+
+Discretely Presented Component Units Financial Statements
+
+As discussed previously, the State has financial accountability for discretely presented component units, which
+have certain independent qualities and operate in a similar manner as private-sector businesses. The activities
+of the discretely presented component units are classified as enterprise activities. 
+
+Notes to the Financial Statements
+
+The notes to the financial statements in this publication provide additional information that is essential for a full
+understanding  of  the  data  provided  in  the  government-wide  and  fund  financial  statements.  The  notes  to  the
+financial statements, which describe particular accounts in more detail, are located immediately following the
+discretely presented component units’ financial statements.
+
+Required Supplementary Information
+
+A  section  of  required  supplementary  information  follows  the  notes  to  the  basic  financial  statements  in  this
+publication.  This  section 
+for  certain  pension  and  other
+postemployment  benefit  trust  funds,  information  on  infrastructure  assets  based  on  the  modified  approach,  a
+budgetary  comparison  schedule,  and  a  reconciliation  of  the  budgetary  basis  and  the  GAAP  basis  fund
+balances for the major governmental funds presented in the governmental fund financial statements.
+
+includes  a  schedule  of 
+
+funding  progress 
+
+Combining Financial Statements and Schedules
+
+The Combining Financial Statements and Schedules – Nonmajor and Other Funds section presents combining
+statements that provide separate financial statements for nonmajor governmental funds, nonmajor proprietary
+funds, fiduciary funds, and nonmajor component units. The basic financial statements present only summary
+information for these activities.
+
+Government-wide Financial Analysis
+
+Net Assets
+
+The  primary  government’s  combined  net  assets  (governmental  and  business-type  activities)  decreased  by
+50.0%, from a negative $6.4 billion as restated at June 30, 2010, to a negative $9.7 billion a year later.
+
+The primary government’s $86.8 billion investment in capital assets, such as land, buildings, equipment, and
+infrastructure (roads, bridges, and other immovable assets) comprise a significant portion of its net assets. This
+amount of capital assets is net of any outstanding debt used to acquire those assets. The State uses capital
+assets when providing services to citizens; consequently, these assets are not available for future spending.
+Although the State’s investment in capital assets is reported net of related debt, the resources needed to repay
+this debt must come from other sources because the State cannot use the capital assets themselves to pay off
+the liabilities.
+
+Another $31.5 billion of the primary government’s net assets represents resources that are externally restricted
+as  to  how  they  may  be  used,  such  as  resources  pledged  to  debt  service.  Internally  imposed  earmarking  of
+resources  is  not  presented  in  this  publication  as  restricted  net  assets.  As  of  June  30,  2011,  governmental
+activities  showed  an  unrestricted  net  assets  deficit  of  $124.0 billion  and  business-type  activities  showed  an
+unrestricted net assets deficit of $4.2 billion.
+
+9
+
+State of California Comprehensive Annual Financial Report
+
+A  large  portion  of  the  negative  unrestricted  net  assets  of  governmental  activities  consists  of  $62.6 billion  in
+outstanding  bonded  debt  issued  to  build  capital  assets  for  school  districts  and  other  local  governmental
+entities. Because the State does not own these capital assets, neither the assets nor the related bonded debt
+is included in the portion of net assets reported as “investment in capital assets, net of related debt.” Instead,
+the bonded debt is reported as a non-current liability that reduces the State’s unrestricted net assets. Readers
+can expect to see a continued deficit in unrestricted net assets of governmental activities as long as the State
+has significant outstanding obligations for school districts and other local governmental entities.
+
+Table  1  presents  condensed  financial  information  derived  from  the  Statement  of  Net  Assets  for  the  primary
+government.
+
+Table 1
+
+Net Assets – Primary Government
+June 30, 2010 and 2011
+(amounts in millions)
+
+Governmental Activities
+
+Business-type Activities
+
+Total
+
+2011
+
+2010
+
+2011
+
+2010
+
+2011
+
+2010
+
+ASSETS
+
+Current and other assets ….….…
+ 
+Capital assets ….….….….….…
+Total assets ….….….….….…
+
+$
+
+LIABILITIES
+
+Noncurrent liabilities ….….….…
+Other liabilities ….….….….….…
+Total liabilities ….….….….
+
+NET ASSETS
+
+Investment in capital assets
+
+net of related debt ….….….…
+
+ 
+ 
+Restricted ….….….….….….….…
+Unrestricted ….….….….….….…
+
+$
+
+$
+
+50,820 
+100,464 
+151,284 
+
+120,905 
+40,835 
+161,740 
+
+56,355 
+98,798 
+155,153 
+
+115,465 
+43,887 
+159,352 
+
+85,461 
+27,866 
+(123,783)
+
+84,085 
+14,988 
+(103,272)
+
+$
+
+33,884 
+8,551 
+42,435 
+
+37,203 
+4,426 
+41,629 
+
+1,383 
+3,638 
+(4,215)
+
+$
+
+30,324 
+6,794 
+37,118 
+
+33,951 
+3,923 
+37,874 
+
+90 
+3,405 
+(4,251)
+
+$
+
+84,704 
+109,015 
+193,719 
+
+158,108 
+45,261 
+203,369 
+
+86,844 
+31,504 
+(127,998)
+
+Total net assets (deficit) … 
+
+$
+
+(10,456)
+
+$
+
+(4,199)
+
+$
+
+806 
+
+$
+
+(756)
+
+$
+
+(9,650)
+ 
+
+$
+
+86,679 
+105,592 
+192,271 
+
+149,416 
+47,810 
+197,226 
+
+84,175 
+18,393 
+(107,523)
+
+(4,955)
+
+Changes in Net Assets
+
+The  expenses  of  the  primary  government  totaled  $234.6 billion  for  the  year  ended  June  30,  2011.  Of  this
+amount, $126.4 billion (53.9%) was funded with program revenues (charges for services or program-specific
+grants  and  contributions),  leaving  $108.2 billion  to  be  funded  with  general  revenues  (mainly  taxes).  The
+primary government’s general revenues of $105.0 billion were less than the unfunded expenses. As a result,
+the total net assets decreased by $3.2 billion, or 50%.
+
+Of  the  total  decrease,  net  assets  for  governmental  activities  decreased  by  $3.5 billion,  while  those  for
+business-type activities increased by $330 million.
+
+10
+
+Table  2  presents  condensed  financial  information  derived  from  the  Statement  of  Activities  for  the  primary
+government.
+
+Management’s Discussion and Analysis
+
+Table 2
+
+Changes in Net Assets – Primary Government
+Year ended June 30, 2010 and 2011
+(amounts in millions)
+
+Governmental Activities
+
+Business-type Activities
+
+Total
+
+2011
+
+2010
+
+2011
+
+2010
+
+2011
+
+2010
+
+REVENUES
+Program revenues:
+
+Charges for services ….….….….….….….…
+ 
+ 
+Operating grants and contributions ….….…
+Capital grants and contributions ….….….…
+ 
+
+$
+
+$
+
+21,122 
+67,849 
+1,272 
+
+$
+
+21,610 
+75,470 
+962 
+
+$
+
+34,819 
+1,217 
+86 
+
+$
+
+20,661 
+— 
+92 
+
+$
+
+55,941 
+69,066 
+1,358 
+
+42,271 
+75,470 
+1,054 
+
+General revenues:
+
+Taxes ….….….….….….….….….….….….…
+Investment and interest ….….….….….….…
+Miscellaneous ….….….….….….….….….…
+Total revenues ….….….….….….….….…
+
+ 
+ 
+ 
+ 
+
+EXPENSES
+Program expenses:
+
+General government ….….….….….….….…
+ 
+Education ….….….….….….….….….….….…
+ 
+Health and human services ….….….….….…
+ 
+ 
+Resources ….….….….….….….….….….….
+ 
+State and consumer services ….….….….…
+ 
+Business and transportation ….….….….….
+Correctional programs ….….….….….….….
+ 
+ 
+Interest on long-term debt ….….….….….…
+ 
+Electric Power ….….….….….….….….….…
+Water Resources ….….….….….….….….…
+ 
+Public Building Construction ….….….….….
+ 
+State Lottery ….….….….….….….….….….…
+ 
+Unemployment Programs ….….….….….….
+ 
+Nonmajor enterprise ….….….….….….….…
+ 
+Total expenses ….….….….….….….….…
+ 
+ 
+Excess (deficiency) before transfers …
+Transfers ….….….….….….….….….….….…
+ 
+Change in net assets ….….….….….….….…
+ 
+ 
+Net assets, beginning of year (restated) …
+  $
+Net assets (deficit), end of year ….….….…
+
+* Not restated
+
+104,705 
+63 
+229 
+195,240 
+
+13,520 
+56,487 
+92,475 
+5,853 
+1,405 
+11,120 
+10,296 
+4,377 
+— 
+— 
+— 
+— 
+— 
+— 
+195,533 
+(293)
+(3,252)
+(3,545)
+(6,911)
+(10,456)
+
+$
+
+94,593 
+115 
+150 
+192,900 
+
+— 
+— 
+— 
+36,122 
+
+12,455 
+61,764 
+80,800 
+6,019 
+980 
+14,156 
+10,310 
+4,146 
+— 
+— 
+— 
+— 
+— 
+— 
+190,630 
+2,270 
+(13,442)
+(11,172)
+6,973 
+(4,199) $
+
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+2,317 
+1,116 
+390 
+3,507 
+25,619 
+6,095 
+39,044 
+(2,922)
+3,252 
+330 
+476 
+806  $
+
+— 
+— 
+— 
+20,753 
+
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+3,908 
+1,070 
+494 
+3,166 
+29,615 
+1,140 
+39,393 
+(18,640)
+13,442 
+(5,198)
+4,442 
+(756)
+
+*
+
+$
+
+104,705 
+63 
+229 
+231,362 
+
+13,520 
+56,487 
+92,475 
+5,853 
+1,405 
+11,120 
+10,296 
+4,377 
+2,317 
+1,116 
+390 
+3,507 
+25,619 
+6,095 
+234,577 
+(3,215)
+–– 
+(3,215)
+(6,435)
+(9,650) $
+
+94,593 
+115 
+150 
+213,653 
+
+12,455 
+61,764 
+80,800 
+6,019 
+980 
+14,156 
+10,310 
+4,146 
+3,908 
+1,070 
+494 
+3,166 
+29,615 
+1,140 
+230,023 
+(16,370)
+–– 
+(16,370)
+11,415 
+(4,955)
+
+11
+
+State of California Comprehensive Annual Financial Report
+
+Governmental Activities
+
+Governmental  activities’  expenses  and 
+including
+$69.1 billion  received  in  federal  grants,  funded  $90.2 billion  (45.4%)  of  expenses  and  transfers,  leaving
+$108.5 billion to be funded with general revenues (mainly taxes). However, general revenues for governmental
+activities  totaled  only  $105.0 billion,  so  governmental  activities’  total  net  assets  decreased  by  $3.5  billion,  or
+51.3%, during the year ended June 30, 2011.
+
+totaled  $198.8 billion.  Program  revenues, 
+
+transfers 
+
+Chart 1 presents a comparison of governmental activities’ expenses by program, with related revenues.
+ 
+
+Chart 1
+
+Expenses and Program Revenues – Governmental Activities
+Year Ended June 30, 2011
+(amounts in billions)
+
+General Government
+
+Education
+
+6.4 
+
+7.6 
+
+13.5 
+
+Health and Human Services
+
+Business and Transportation
+
+Correctional Programs
+
+0.1 
+
+Other
+
+4.0 
+
+9.2 
+11.1 
+
+10.3 
+
+11.6 
+
+56.5 
+
+63.0 
+
+92.5 
+
+ $0
+
+ $10
+
+ $20
+
+ $30
+
+ $40
+
+ $50
+
+ $60
+
+ $70
+
+ $80
+
+ $90
+
+ $100
+
+Program Revenues
+
+Expenses
+
+ 
+For the year ended June 30, 2011, total state tax revenues collected for governmental activities increased by
+$10.1 billion (10.7%) from the prior year. Personal income taxes increased by $7.9 billion (17.9%) as a result of
+higher personal income reported. The other taxes category increased by $2.5 billion. This $2.5 billion increase
+was primarily the result of Assembly Bill X8-6, also known as the Fuel Tax Swap, which redirected a portion of
+gasoline taxes from sales taxes to other taxes. Sales and use taxes would have reflected this increase if these
+taxes had not been redirected.  
+
+Overall expenses for governmental activities increased by $4.9 billion (2.6%) from the prior year. The largest
+increase in expenses was an $11.7 billion increase in health and human services spending primarily due to the
+creation  of  the  Hospital  Quality  Assurance  Revenue  Fund,  which  was  established  by  Assembly  Bill  1383
+effective October 2009. This increase in expenses was somewhat offset by a $5.3 billion decrease in education
+expenditures  reported  as  a  result  of  the  reclassification  of  the  California  State  University  financial  activities
+from a governmental fund to an enterprise fund.
+
+12
+
+Charts  2  and  3  present  the  percentage  of  total  expenses  for  each  governmental  activities  program  and  the
+percentage of total revenues by source.
+
+Management’s Discussion and Analysis
+
+Chart 2
+
+Expenses by Program
+Year ended June 30, 2011
+(as a percent)
+
+Education
+
+28.9%
+
+General
+
+Government
+
+6.9 %
+
+Health and Human
+
+Services 
+47.3%
+
+Business-type Activities
+
+Chart 3
+
+Revenues by Source
+Year ended June 30, 2011
+(as a percent)
+
+Business and
+Transportation
+
+5.7%
+
+Other
+5.9%
+
+Correctional
+Programs
+
+5.3 %
+
+Personal
+
+Income Tax
+
+26.5 %
+
+Other
+
+Revenue
+10.1 %
+
+Charges for
+
+Services
+10.9 %
+
+Sales and Use
+
+Taxes
+17.2 %
+
+Grants and
+Contributions
+
+35.3 %
+
+Business-type activities expenses totaled $39.0 billion. Program revenues of $36.1 billion, primarily generated
+from charges for services, and $3.3 billion in transfers were sufficient to cover these expenses. Consequently,
+business-type  activities’  total  net  assets  increased  by  $330 million,  or  69.3%,  during  the  year  ended
+June 30, 2011.
+
+Chart 4 presents a two-year comparison of the expenses of the State’s business-type activities.
+
+Chart 4
+
+Expenses – Business-type Activities – Two-Year Comparison
+Years Ended June 30, 2010 and 2011
+(amounts in billions)
+
+State Lottery
+
+Electric Power
+
+3.2 
+
+3.5 
+
+3.9 
+
+2.3 
+
+Unemployment Programs
+
+California State University
+
+Other
+
+*
+
+0.9 
+
+1.8 
+
+1.7 
+
+5.9 
+
+29.6 
+
+25.6 
+
+ $0
+
+ $3
+
+ $6
+
+ $9
+
+ $12
+
+ $15
+
+ $18
+
+ $21
+
+ $24
+
+ $27
+
+ $30
+
+ * Not Restated
+
+2010
+
+2011
+
+13
+
+State of California Comprehensive Annual Financial Report
+
+Fund Financial Analysis
+
+The national recession and the State’s weakened economy had the greatest impact on governmental funds,
+which rely heavily on taxes to support the majority of their services and programs. The State’s governmental
+funds  had  a  $1.0 billion  decrease  in  fund  balance  over  the  prior  year’s  restated  ending  fund  balance.  Some
+proprietary  funds  incurred  net  asset  reductions,  as  their  expenses  exceeded  revenues  for  the  fiscal  year
+2010-11. The Unemployment Programs Fund incurred the largest decline in net assets, $324 million, despite a
+$13.4 billion increase in operating revenues due to a draw of federal unemployment funds. More federal funds
+were  drawn  to  compensate  for  the  decreased  in  funding  from  the  federal  American  Reinvestment  and
+Recovery Act (ARRA).
+
+Governmental Funds
+
+The  governmental  funds’  Balance  Sheet  reported  $60.7 billion  in  assets,  $49.9 billion  in  liabilities,  and
+$10.8 billion  in  fund  balance  as  of  June  30,  2011.  Total  assets  of  governmental  funds  decreased  by  12.0%,
+while total liabilities decreased by 9.6%, resulting in a total fund balance decrease of $1.0 billion (8.7%) over
+the prior fiscal year. As in the prior year, the General Fund had to rely heavily on internal borrowing from the
+State’s  other  funds  to  meet  its  payment  obligations.  However,  by  June  30,  2011,  long-term  borrowing  had
+decreased by $1.3 billion to $8.9 billion.
+
+Within  the  governmental  funds’  total  fund  balance,  $187 million  is  classified  as  nonspendable  because  this
+amount  consists  of  long-term  interfund  receivables  and  loans  receivable,  or  due  to  legal  or  contractual
+requirements. Additionally, $27.9 billion is classified as restricted for specific programs by external constraints
+such  as  debt  covenants  and  contractual  obligations,  or  by  constitutional  provisions  or  enabling  legislation.
+Furthermore,  the  total  fund  balance  of  $2.7 billion  is  classified  as  committed  for  specific  purposes  and
+$269 million is classified as assigned for specific purposes. The unassigned balance of the governmental funds
+is  a  negative  $20.3 billion.  These  new  fund  balance  classifications  reflect  the  implementation  of  GASB
+Statement No. 54 and are defined in more detail in Note 1K.
+
+The Statement of Revenues, Expenditures, and Changes in Fund Balances of the governmental funds shows
+$195.3 billion in revenues, $198.0 billion in expenditures, and a net $1.6 billion in receipts from other financing
+sources.  The  ending  fund  balance  of  the  governmental  funds  for  the  year  ended  June  30,  2011,  was
+$10.8 billion,  a  $1.0  billion  decrease  over  the  prior  year’s  restated  ending  fund  balance  of  $11.8 billion.  The
+reasons for the change in the fund balance were a net decrease in intergovernmental revenue in the Federal
+Fund, as a result of a reduction in economic stimulus funds received from the Federal ARRA, which exceeded
+the increase of tax revenue.
+
+Personal  income  taxes,  which  account  for  49.3%  of  tax  revenues  and  26.5%  of  total  governmental  fund
+revenues, increased by $7.8 billion from the prior fiscal year. Sales and use taxes, which account for 32.0% of
+tax revenues and 17.1% of total governmental fund revenues, decreased by $208 million over the prior fiscal
+year.  Corporation  taxes,  which  account  for  9.0%  of  tax  revenues  and  4.8%  of  total  governmental  fund
+revenues, decreased by $34 million from the prior fiscal year. Governmental fund expenditures increased by
+$7.2 billion  from  the  prior  fiscal  year,  primarily  in  health  and  human  services  programs.  General  obligation
+bonds  and  commercial  paper  of  $4.5 billion  were  issued  during  the  2010-11  fiscal  year;  however,  this  was
+$7.5 billion less than the amount issued in the prior fiscal year.
+
+The State’s major governmental funds are the General Fund, the Federal Fund, and the Transportation Fund.
+The  General  Fund  ended  the  fiscal  year  with  a  fund  deficit  of  $19.9  billion.  The  Federal  Fund  and  the
+
+14
+
+Management’s Discussion and Analysis
+
+Transportation Fund ended the fiscal year with fund balances of $122 million and $7.8 billion, respectively. The
+nonmajor governmental funds ended the year with a total fund balance of $22.8 billion.
+
+General Fund: As shown on the Balance Sheet, the General Fund (the State’s main operating fund) ended the
+fiscal year with assets of $12.0 billion, liabilities of $31.9 billion, nonspendable, restricted, and committed fund
+balances of $148 million, $156 million, and $30 million, respectively, leaving the General Fund with a negative
+unassigned fund balance of $20.3 billion. Total assets of the General Fund decreased by $849 million from the
+prior fiscal year, mainly because of a $627 million decrease in amounts due from other governments. During
+the  2010-11  fiscal  year,  the  General  Fund  continued  to  experience  cash  shortages  and  relied  on  internal
+borrowing from the State’s other funds to meet its payment obligations. However, by June 30, 2011, long-term
+borrowing from other funds had decreased by $1.3 billion to $8.9 billion. Even with this increase in short- and
+long-term interfund payables, the total liabilities of the General Fund decreased by $518 million (1.6%).
+
+As shown on the Statement of Revenues, Expenditures, and Changes in Fund Balances of the governmental
+funds,  the  General  Fund  had  $93.5  billion  in  revenues,  $90.4  billion  in  expenditures,  and  a  net  $3.5 billion
+disbursement from other financing sources (uses) for the year ended June 30, 2011. Approximately 93.3% of
+General  Fund  revenue  ($87.2  billion)  is  derived  from  the  State’s  big  three  taxes—personal  income  taxes
+($50.8 billion), sales and use taxes ($27.0 billion), and corporation taxes ($9.4 billion). A total of $194 million in
+revenue is included in the General Fund in compliance with GASB Statement No. 54. These revenues are not
+considered  General  Fund  Revenues  for  any  budgetary  purposes  or  for  the  Budgetary/Legal  Basis  Annual
+Report.  Most of these revenues ($190 million) are from unemployment programs.
+
+During the 2010-11 fiscal year, total General Fund revenue increased by $8.4 billion, or 9.8%. Revenue from
+personal  income  taxes  and  sales  and  use  taxes  increased  by  $7.7 billion  (17.9%)  and  $132  million  (0.5%),
+respectively.  These  increases  were  primarily  the  result  of  California’s  slowly  improving  economy  and
+decreasing  unemployment  rate.  Revenue  from  corporation  taxes  decreased  by  $34  million  (0.4%).  Revenue
+from licenses and permits continued to surpass that of fiscal year 2008-09, the result of a temporary increase
+in  the  assessment  rate  for  vehicle  license  fees  effective  May  2009  through  June  2011;  however,  this  year’s
+revenues were $50 million less than in fiscal year 2009-10.
+
+General Fund expenditures increased by $3.2 billion, to $90.4 billion. The programs with the largest increases
+were  health  and  human  services,  which  increased  by  $3.7  billion,  to  $27.8  billion,  and  general  government,
+which increased by $829 million, to $3.4 billion. The General Fund’s ending fund balance for the year ended
+June 30, 2011, was a negative $19.9 billion, a decrease of $448 million from the prior year’s restated ending
+fund balance of negative $19.5 billion. The increased expenditures for health and human services were mainly
+the result of the reduction in Federal ARRA funds. The ARRA funding, which had reduced the General Fund’s
+share of Medical Assistance program costs, was phased out during the last half of the fiscal year and ended
+June 30, 2011. 
+
+Federal  Fund:  This  fund  reports  federal  grant  revenues  and  the  related  expenditures  to  support  the  grant
+programs. The largest of these program areas is health and human services, which accounted for $47.9 billion
+(76.9%)  of  the  total  $62.3  billion  in  fund  expenditures.  The  Medical  Assistance  program  and  the  Temporary
+Assistance for Needy Families program are included in this program area. Education programs also constituted
+a  large  part  of  the  fund’s  expenditures—$9.1  billion  (14.6%),  down  $1.2  billion  (11.8%)  from  the  prior
+year—most of which were apportionments made to local educational agencies (school districts, county offices
+of  education,  and  community  colleges).  The  Federal  Fund’s  revenues  decreased  by  $8.6  billion  (11.2%),
+approximately the same amount as its combined expenditures and transfers, which decreased ($8.6 billion),
+resulting  in  only  a  $30  million  fund  balance  increase  from  the  prior  year’s  restated  ending  fund  balance  of
+$91 million. The decrease in Federal Fund revenues and transfers was primarily the result of the phase out of
+
+15
+
+State of California Comprehensive Annual Financial Report
+
+stimulus  funding  from  the  Federal  ARRA,  which  provided  additional  funding  for  many  health  and  human
+services and education expenditures in the prior year.
+
+Transportation Fund: This fund accounts for fuel taxes, bond proceeds, and other revenues used primarily for
+highway  and  passenger  rail  construction.  The  Transportation  Fund’s  revenues  increased  by  23.6%  and
+expenditures  decreased  by  17.3%.  Other  financing  sources  provided  net  receipts  of  $527  million.  The
+Transportation Fund ended the fiscal year with a $7.8 billion fund balance, an increase of $788 million over the
+prior year. 
+
+Proprietary Funds
+
+Enterprise Funds: The Unemployment Programs and State Lottery Fund each saw decreases of $324 million
+and $23 million, respectively, in their net assets. Other State enterprise funds experienced increases in their
+net assets during the 2010-11 fiscal year. The most significant increase was in the California State University
+Fund, whose net assets increased by $575 million during the year.
+
+As shown on the Statement of Net Assets of the proprietary funds, total assets of the enterprise funds were
+$43.0 billion as of June 30, 2011. Of this amount, current assets totaled $12.7 billion and noncurrent assets
+totaled $30.3 billion. The largest changes in asset account balances were a $2.7 billion increase in amount on
+deposit with the U.S. Treasury in the Unemployment Programs Fund and a $484 million decrease in cash and
+pooled investments in the Public Building Construction Fund. The total liabilities of the enterprise funds were
+$42.2 billion. The largest liability of the enterprise funds is for bonds payable—$22.1 billion of revenue bonds
+payable  and  $1.1 billion  of  general  obligation  bonds  payable.  During  the  2010-11  fiscal  year,  the  State
+continued to obtain loans from the U.S Department of Labor to cover deficits in the Unemployment Programs
+Fund. The balance due on these loans as of June 30, 2011, was $11.0 billion, an increase of $3.8 billion over
+the prior year.
+
+Total net assets of the enterprise funds were $806 million as of June 30, 2011. Total net assets consisted of
+four  segments:  nonexpendable  restricted  net  assets  of  $22  million,  restricted  expendable  net  assets  of
+$3.6 billion,  investment  in  capital  assets  (net  of  related  debt)  of  $1.4 billion,  and  unrestricted  net  assets  of
+negative  $4.2 billion.  The  Unemployment  Programs  Fund  had  a  deficit  of  $6.9  billion,  a  $324  million  (4.9%)
+decrease  in  net  assets  from  the  prior  year.  The  net  assets  of  all  other  enterprise  funds  experienced  small
+changes during the year with the exception of the California State University Fund which had an increase to
+net assets of $575 million.
+
+As  shown  on  the  Statement  of  Revenues,  Expenses,  and  Changes  in  Fund  Net  Assets  of  the  proprietary
+funds,  the  enterprise  funds  ended  the  year  with  operating  revenues  of  $33.7  billion,  operating  expenses  of
+$36.6 billion, and net disbursements from other transactions of $108 million. The largest sources of operating
+revenue were unemployment and disability insurance receipts of $24.7 billion in the Unemployment Programs
+Fund  and  lottery  ticket  sales  of  $3.4  billion  collected  by  the  State  Lottery  Fund.  The  unemployment  and
+disability insurance receipts in the Unemployment Programs Fund increased by $13.4 billion from $11.3 billion
+in fiscal year 2009-10. These receipts came primarily from the federal government unemployment account to
+pay unemployment and disability benefits. The State received more federal unemployment funds because less
+funding from Federal ARRA economic stimulus was available to cover unemployment and disability benefits.
+The  largest  operating  expenses  were  distributions  to  beneficiaries  of  $25.4  billion  by  the  Unemployment
+Programs  Fund  and  personal  services  of  $3.7  billion  by  the  California  State  University  Fund.  The
+Unemployment Programs Fund expenses were partially subsidized by $617 million of Federal ARRA economic
+stimulus  funding  transferred  from  the  Federal  Fund.  The  ending  net  assets  of  the  enterprise  funds  at
+
+16
+
+Management’s Discussion and Analysis
+
+June 30, 2011,  were  $806 million—$330 million  greater  than  the  prior  year’s  restated  ending  net  assets  of
+$476 million.
+
+Internal Service Funds: Total net assets of the internal service funds were $574 million as of June 30, 2011.
+These net assets consist of two segments: investment in capital assets (net of related debt) of $141 million and
+unrestricted net assets of $433 million.
+
+Fiduciary Funds
+
+The  State  of  California  has  four  types  of  fiduciary  funds:  private  purpose  trust  funds,  pension  and  other
+employee benefit trust funds, investment trust funds, and agency funds. The private purpose trust funds ended
+the fiscal year with net assets of $4.6 billion. The pension and other employee benefit trust funds ended the
+fiscal  year  with  net  assets  of  $409.6  billion.  The  State’s  only  investment  trust  fund,  the  Local  Agency
+Investment Fund, ended the fiscal year with net assets of $24.0 billion. Agency funds act as clearing accounts
+and thus do not have net assets.
+
+For the year ended June 30, 2011, the fiduciary funds’ combined net assets were $438.2 billion, a $69.7 billion
+increase from prior year net assets. The increase in net assets for these funds was mainly attributable to an
+increase in net investment income from the prior year of $34.6 billion (82.4%).
+
+The Economy for the Year Ending June 30, 2011
+
+Since  the  recession  ended  in  June  2009,  the  U.S.  has  seen  consecutive  quarterly  growth  in  real  Gross
+Domestic Product. The first quarter of California’s 2010-11 fiscal year saw an increase in the national growth
+rate  over  the  same  period  the  year  before,  2.5%  versus  1.7%.  For  the  remainder  of  the  fiscal  year,  U.S.
+economic  output  continued  a  slow  growth  driven  primarily  by  consistent  growth  in  personal  consumption.
+These positive national signs also started to play out at the state level during the year ending June 30, 2011. 
+
+California’s  economic  recovery  continued  throughout  the  last  fiscal  year,  but  at  a  slow  pace.  Although
+employment  levels  remain  well  below  their  pre-recession  peak,  total  non-farm  employment  grew  fairly
+consistently.  By  June  2011,  total  non-farm  employment  was  1.3%  higher  than  at  the  beginning  of  the  fiscal
+year. The state unemployment rate as of June 2011 was 11.8%, a decrease from the July 2010 rate of 12.4%.
+Unfortunately, the declining unemployment rate was due in part to discouraged job seekers dropping out of the
+job market. The state labor force fell by 111,000 unemployed, or 0.6%, from July 2010 to June 2011. Although
+labor  market  conditions  were  generally  improving  during  the  second  half  of  the  fiscal  year,  the  labor  force
+figures point to an uneven recovery, with many California residents not benefitting from the growth.
+
+The state housing market has remained a weakness in the State’s economy. Home sales rose sharply in the
+last months of 2010, increasing 12% from October 2010 through January 2011, but then fell 8.8% from March
+through  June  2011.  However,  on  a  fiscal-year  basis,  home  sales  did  increase  2.3%  from  July  2010  to
+June 2011.  Home  prices  have  yet  to  record  any  significant  increases,  but  the  pace  of  decline  slowed
+substantially in the 2010-11 fiscal year. Both defaults and foreclosures in California were down in fiscal year
+2010-11, with defaults declining 20.2% and foreclosures declining 11.4% from July 2010 through June 2011.
+Residential construction permits were up 13.3% for the fiscal year, with construction employment up 1.8% for
+the same time period. The housing market is still sluggish, but economic indicators support the view that the
+market is slowly improving.
+
+Other economic indicators point to a continued recovery in the State. State personal income showed consistent
+increases  in  each  quarter  of  fiscal  year  2010-11,  increasing  5.5%  over  the  course  of  the  year.  Additionally,
+consumer spending was a consistent strong element for the year. Seasonally adjusted taxable sales increased
+
+17
+
+State of California Comprehensive Annual Financial Report
+
+9.8%  over  the  course  of  the  fiscal  year.  International  trade  and  tourism  contributed  to  California’s  economic
+recovery during the year as well, with exports of goods and commodities from California increasing by nearly
+15%.    
+
+General Fund Budget Highlights
+
+The  original  General  Fund  budget  of  $95.3  billion  was  reduced  by  $266  million.  This  decrease  is  mainly
+comprised of a reduction in funding education programs per Section 12.42 of the 2010 Budget Act that was
+partially offset by correctional program augmentations authorized by Assembly Bill 122, Chapter 42, Statutes of
+2011.  During  the  2010-11  fiscal  year,  General  Fund  actual  budgetary  basis  expenditures  were  $91.9 billion,
+$3.2 billion less than the final budgeted amounts.
+
+Table 3 presents a summary of the General Fund original and final budgets.
+
+Table 3
+
+General Fund Original and Final Budgets
+Year ended June 30, 2011
+(amounts in millions)
+
+ Budgeted amounts
+
+State and consumer services ….….….….….….….….….….….….….….….…
+ 
+ 
+Business and transportation ….….….….….….….….….….….….….….….….…
+ 
+Resources ….….….….….….….….….….….….….….….….….….….….….….…
+ 
+Health and human services ….….….….….….….….….….….….….….….….…
+ 
+Correctional programs ….….….….….….….….….….….….….….….….….….…
+Education ….….….….….….….….….….….….….….….….….….….….….….…
+ 
+General government:
+
+$
+
+Tax relief ….….….….….….….….….….….….….….….….….….….….….….
+Debt service ….….….….….….….….….….….….….….….….….….….….….
+Other general government ….….….….….….….….….….….….….….….….
+
+Total ….….….….….….….….….….….….….….….….….….….….….….…
+
+ 
+ 
+ 
+  $
+
+Original
+
+Final
+
+Increase/
+(Decrease)
+
+$
+
+609 
+494 
+1,224 
+28,967 
+8,665 
+45,079 
+
+446 
+5,014 
+4,833 
+
+$
+
+590 
+494 
+1,178 
+29,076 
+9,567 
+43,767 
+
+535 
+5,019 
+4,839 
+
+(19)
+— 
+(46)
+109 
+902 
+(1,312)
+
+89 
+5 
+6 
+
+95,331 
+
+$
+
+95,065 
+
+$
+
+(266)
+
+18
+
+Management’s Discussion and Analysis
+
+Capital Assets and Debt Administration
+
+Capital Assets
+
+The State’s investment in capital assets for its governmental and business-type activities as of June 30, 2011,
+amounted to $109.0 billion (net of accumulated depreciation). This investment in capital assets includes land,
+state  highway  infrastructure,  collections,  buildings  and  other  depreciable  property,  and  construction  in
+progress.  Depreciable  property  includes  buildings,  improvements  other  than  buildings,  equipment,  personal
+property, intangible assets, certain infrastructure assets, certain books, and other capitalized and depreciable
+property. Infrastructure assets, such as roads and bridges, are items that are normally immovable and can be
+preserved for a greater number of years than can most capital assets.
+
+Table 4 presents a summary of the primary government’s capital assets for governmental and business-type
+activities.
+
+Table 4
+
+Capital Assets
+Year ended June 30, 2011
+(amounts in millions)
+
+Governmental
+
+Business-type
+
+Activities 
+
+Activities 
+
+Total
+
+Land ….….….….….….….….….….….….….….….….….….….….….….….….…
+State highway infrastructure ….….….….….….….….….….….….….….….….…
+Collections – nondepreciable ….….….….….….….….….….….….….….….….…
+Buildings and other depreciable property ….….….….….….….….….….….….…
+Intangible assets – amortizable ….….….….….….….….….….….….….….….…
+Less: accumulated depreciation/amortization ….….….….….….….….….….…
+Construction in progress ….….….….….….….….….….….….….….….….….…
+Intangible assets – nonamortizable ….….….….….….….….….….….….….….…
+
+$
+
+Total ….….….….….….….….….….….….….….….….….….….….….….….…
+
+$
+
+16,599 
+61,439 
+22 
+23,521 
+649 
+(10,114)
+7,814 
+534 
+100,464 
+
+$
+
+$
+
+215 
+— 
+2 
+10,568 
+219 
+(4,113)
+1,521 
+139 
+8,551 
+
+$
+
+$
+
+16,814 
+61,439 
+24 
+34,089 
+868 
+(14,227)
+9,335 
+673 
+109,015 
+
+The budget authorized $9.3 billion for the State’s capital outlay program in the 2010-11 fiscal year, not including
+funding for state highway infrastructure and K–12 schools. State highway infrastructure assets are discussed in
+more detail in the Required Supplementary Information that follows the notes to the financial statements. Of the
+$9.3 billion authorized, $224 million was from the General Fund; $6.2 billion was from lease-revenue bonds;
+$1.1 billion was from proceeds of various general obligation bonds; and $1.8 billion was from reimbursements,
+federal  funds,  and  special  funds. These  amounts  include  reappropriations  and  other  funds  carried  over  from
+previous budgets for continuing projects. 
+
+The major capital projects authorized include: 
+
+(cid:129)
+
+(cid:129)
+
+$200 million in lease-revenue bonds for the Department of Correction and Rehabilitation, for local youthful
+offender rehabilitative facilities; 
+
+$549  million  for  numerous  construction  projects  within  the  University  of  California,  the  California  State
+University, and the California Community Colleges;
+
+19
+
+State of California Comprehensive Annual Financial Report
+
+(cid:129)
+
+(cid:129)
+
+$919 million for projects to replace structurally deficient court facilities; and
+
+$155 million from the High-Speed Passenger Train bond fund and federal funds for primary engineering
+and environmental review along the San Francisco-to-Anaheim section of the high-speed rail system.
+
+Note 7, Capital Assets, includes additional information on the State’s capital assets.
+
+Modified Approach for Infrastructure Assets
+
+The  State  uses  the  modified  approach  to  report  the  cost  of  its  infrastructure  assets  (state  roadways  and
+bridges). Under the modified approach, the State does not report depreciation expense for roads and bridges
+but  capitalizes  all  costs  that  add  to  the  capacity  and  efficiency  of  State-owned  roads  and  bridges.  All
+maintenance and preservation costs are expensed and not capitalized. Under the modified approach, the State
+maintains  an  asset  management  system  to  demonstrate  that  it  is  preserving  the  infrastructure  at  or  above
+established condition levels. The State is responsible for maintaining 49,518 lane miles and 12,893 bridges.
+
+During the 2010-11 fiscal year, the actual amount spent on preservation was 13.1% of the estimated budgeted
+amount needed to maintain the infrastructure assets at the established-condition levels. Although the amount
+spent  fell  short  of  the  budgeted  amount,  the  assessed  conditions  of  the  State’s  bridges  and  roadways  are
+better than the established condition baselines.
+
+The Required Supplementary Information includes additional information on how the State uses the modified
+approach for infrastructure assets; it also presents the established condition standards, condition assessments,
+and preservation costs.
+
+Debt Administration
+
+At June 30, 2011, the primary government had total bonded debt outstanding of $111.5 billion. Of this amount,
+$80.7 billion (72.4%) represents general obligation bonds, which are backed by the full faith and credit of the
+State. Included in the $80.7 billion of general obligation bonds is $7.2 billion of Economic Recovery bonds that
+are  secured  by  a  pledge  of  revenues  derived  from  dedicated  sales  and  use  taxes.  The  current  portion  of
+general  obligation  bonds  outstanding  is  $2.4  billion  and  the  long-term  portion  is  $78.3 billion.  The  remaining
+$30.8 billion  (27.6%)  of  bonded  debt  outstanding  represents  revenue  bonds,  which  are  secured  solely  by
+specified revenue sources. The current portion of revenue bonds outstanding is $1.4 billion and the long-term
+portion is $29.4 billion.
+
+20
+
+Table  5  presents  a  summary  of  the  primary  government’s  long-term  obligations  for  governmental  and
+business-type activities.
+
+Management’s Discussion and Analysis
+
+Table 5
+
+Long-term Obligations
+Year ended June 30, 2011
+(amounts in millions)
+
+Government-wide noncurrent liabilities
+
+  $
+General obligation bonds ….….….….….….….….….….….….….….….…
+ 
+Revenue bonds ….….….….….….….….….….….….….….….….….….….
+ 
+Certificates of participation and commercial paper ….….….….….….….…
+ 
+Capital lease obligations ….….….….….….….….….….….….….….….….
+ 
+Net other postemployment benefits obligation........................................
+ 
+Proposition 98 funding guarantee ….….….….….….….….….….….….….
+ 
+Mandated costs ….….….….….….….….….….….….….….….….….….….
+ 
+Loans payable ….….….….….….….….….….….….….….….….….….….…
+ 
+Other noncurrent liabilities ….….….….….….….….….….….….….….….…
+ 
+Total noncurrent liabilities ….….….….….….….….….….….….….….
+ 
+Current portion of long-term obligations ….….….….….….….….….….….…
+  $
+
+Total long-term obligations ….….….….….….….….….….….….….…
+
+Governmental
+
+Business-type
+
+Activities 
+
+Activities 
+
+Total
+
+$
+
+77,217 
+7,359 
+1,328 
+4,544 
+9,607 
+2,637 
+5,741 
+2,122 
+10,351 
+120,906 
+3,807 
+
+$
+
+1,119 
+22,091 
+140 
+734 
+319 
+— 
+— 
+10,958 
+1,842 
+37,203 
+2,006 
+
+124,713 
+
+$
+
+39,209 
+
+$
+
+78,336 
+29,450 
+1,468 
+5,278 
+9,926 
+2,637 
+5,741 
+13,080 
+12,193 
+158,109 
+5,813 
+
+163,922 
+
+During  the  year  ended  June  30,  2011,  the  primary  government’s  total  long-term  obligations  increased  by
+$7.3 billion over the prior year’s restated balance. Governmental activities net other postemployment benefits
+obligation  had  the  largest  increase  ($2.6 billion),  but  other  notable  increases  occurred  in  general  obligation
+bonds  payable,  compensated  absences,  and  mandated  costs.  During  the  fiscal  year,  the  State  issued
+$4.5 billion in new general obligation bonds for public education facilities, transportation projects, housing and
+emergency  shelters,  and  various  water  and  flood  control  projects.  The  net  other  postemployment  benefits
+obligation increased because the State does not fully fund the annual cost of these benefits.
+
+Note  10,  Long-term  Obligations,  and  Notes  11  through  17  include  additional  information  on  the  State’s
+long-term obligations.
+
+The  State’s  general  obligation  bond  credit  ratings  remained  unchanged  during  the  fiscal  year  2010-11.  The
+current  ratings  from  the  three  credit  rating  agencies  are  as  follows:  Standard  and  Poor’s  –  “A-”,  Moody’s
+Investors Service – “A1”, and Fitch – “A-”. 
+
+Recent Economic Condition and Future Budgets
+
+Recent Economic Condition
+
+From July 1 through December 31, 2011, economic data indicated that the California economy continued to
+improve during the first half of fiscal year 2011-12. Since the first quarter of fiscal year 2010-11, the state has
+gained 351,100 non-farm jobs. Other aspects of California’s labor markets are showing signs of improvement
+as well.  By December 2011, the state’s unemployment rate had dropped from a seasonally adjusted 12.5% in
+December 2010 to 11.1%. Nearly 213,000 California residents re-entered the labor market during the last five
+months of 2011, while the number of unemployed residents simultaneously fell by 154,000.
+
+21
+
+State of California Comprehensive Annual Financial Report
+
+Consumer spending has shown steady increases over the past two years, rising by more than 17.5% since its
+low point in the second quarter of 2009. Personal income in California has already surpassed its pre-recession
+peak, totaling $1.67 trillion in the third quarter of 2011 following almost two years of consecutive growth on a
+quarterly basis.  
+
+In  addition  to  growing  consumer  demand  from  domestic  sources,  international  trade  has  also  been
+instrumental  in  assisting  in  California’s  recovery.  The  U.S.  dollar  remained  at  its  lowest  level  since  the
+mid-1990s, benefitting California’s export market. Industrial machinery (including computers) has posted solid
+gains  of  almost  12%  through  November  2011,  after  growing  by  more  than  30%  in  2010.  Additionally,  other
+high-technology exports, including vehicles and parts, aircrafts, pharmaceuticals, and plastics, have continued
+to  do  well  in  2011.  Commodity  exports  have  also  done  well  in  recent  years.  Over  the  past  two  years,  the
+State’s  agricultural  and  natural  resources  industries  have  seen  double-digit  growth  in  the  production  of  fruit,
+nuts, dairy products, and fuel and oil.
+
+Home  prices  have  yet  to  rebound  across  the  state,  but  the  housing  market  has  stabilized.  Defaults  and
+foreclosures have been trending downward for almost two years, despite a small uptick in defaults in the first
+quarter  of  fiscal  year  2011-12.  As  this  “shadow  inventory”  dwindles,  demand  for  new  home  construction  is
+expected  to  increase.  While  the  number  of  new  single-family  building  permits  was  still  declining  through  the
+first six months of fiscal 2011-12, multi-family building permits have been trending upward since mid-2010. In
+addition, new residential permit values steadily increased throughout 2011.  
+
+Overall,  California  still  has  a  long  way  to  go  before  it  can  claim  recovery  from  the  recession.  Still,  most
+indicators point to an economy that is not only in recovery mode, but is beginning to outpace that of the rest of
+the United States. The labor markets are showing real signs of improvement and both incomes and consumer
+spending are up from their respective lows. A weak dollar, coupled with California’s proximity to Asia and the
+State’s  international  trade  infrastructure  at  its  ports  and  airports,  have  helped  to  boost  exports.  Housing
+remains soft, but even there the market is beginning to show some improvement. Recent economic conditions
+show that the worst is behind the state and that its recovery will continue.  
+
+California’s 2011-12 Budget
+
+California’s 2011-12 Budget Act was enacted on June 30, 2011. The Budget Act appropriated $129.5 billion:
+$85.9  billion  from  the  General  Fund,  $34.2  billion  from  special  funds,  and  $9.4  billion  from  bond  funds.  The
+2011  Budget  Act  continues  to  hold  General  Fund  spending  essentially  flat  for  a  third  year  –  $85.9  billion  in
+2011-12, $86.6 billion in 2010-11, and $86.3 billion in 2009-10. The General Fund’s available resources were
+projected  to  be  $88.5  billion,  resulting  in  a  projected  reserve  for  economic  uncertainties  of  $543  million.
+General Fund revenues come predominantly from taxes, with personal income taxes expected to provide 42%
+of  total  revenue.  California’s  major  taxes  (personal  income,  sales  and  use,  and  corporation  taxes)  were
+projected to supply approximately 89% of the General Fund’s resources in the 2011-12 fiscal year.
+
+The Budget enacted $27.2 billion in actions to solve a General Fund gap between resources and expenditures.
+The  Budget  solutions  can  be  categorized  into  three  major  areas:  expenditure-related  solutions,  revenue
+actions, and one-time loans and transfers. The $11.1 billion in expenditure-related solutions include ongoing
+and  temporary  cost  or  service  reductions  primarily  in  health  and  social  services,  higher  education,  and
+employee  compensation,  and  a  shift  away  from  the  General  Fund  for  transportation  debt  payments  toward
+using weight fees. The majority of proposed new revenues assume $11.8 billion in growth due to an increase
+in the baseline forecast of personal income and corporation tax revenues. These revenue actions would result
+in a total increase in revenue of $13.2 billion. The Budget also included $2.9 billion in one-time loans, transfers,
+and funding shifts, which include pausing for one year, building construction funded by the Trial Court Trust
+
+22
+
+Management’s Discussion and Analysis
+
+Fund for a savings of $743 million; a one-year decrease in the Stage 1 Child Care program, for a savings of
+$369 million; and a one-time transfer of $155 million from the Gas Consumption Surcharge Fund.
+
+The  Budget  introduced  a  major  realignment  of  public  safety  programs,  shifting  certain  state  program
+responsibilities  and  revenues  to  local  governments,  primarily  counties.  This  realignment  affected  both
+revenues  and  expenditures,  as  these  programs  will  receive  revenues  and  incur  expenditures  that  previously
+were  the  stewardship  of  the  State.  In  total,  the  realignment  plan  provides  $5.6  billion  in  2011-12  to  local
+governments to fund various criminal justice, mental health, and social service programs. The savings to the
+General Fund is estimated to be $2.6 billion.
+
+The  2011-12  Budget,  recognizing  the  potential  risk  to  the  State’s  fiscal  condition  if  revenues  fell  short  of
+June 2011  estimates,  included  a  mechanism  for  further  reducing  the  current  year  expenditures.  As  of
+December  2011,  total  General  Fund  revenues  were  determined  to  be  below  forecasted  amounts,  and  on
+December  13,  the  Director  of  Finance,  as  required,  implemented  the  mechanism  and  reduced  by  $1  billion
+remaining-year funding to various appropriations.
+
+The  proposed  2012-13  Governor’s  Budget  provides  revised  revenue  and  expenditure  estimates  for  the
+2011-12  fiscal  year.  If  no  corrective  action  is  taken  by  the  Governor  and  the  Legislature,  the  revised  gap
+between  General  Fund  revenues  and  expenditures  is  expected  to  be  $4.1  billion  by  the  end  of  the  2011-12
+fiscal  year.  State  cash  flow  data  as  of  January  31,  2012  indicates  that  this  gap  is  a  combination  of  actual
+expenditures exceeding estimates by $1.4 billion and revenues falling short of estimates by $3.8 billion. The
+revenue  shortfall  can  in  part  be  attributed  to  lower-than-estimated  personal  income  and  corporate  taxes.
+Expenditures are greater than estimated because many of the cost-cutting measures included in the 2011-12
+Budget  have  been  disputed  in  court  and  have  not  been  implemented.  Court  orders  and  delayed  federal
+approval  related  to  several  budget-balancing  cuts  in  the  health  and  human  services  area  have  increased
+budgeted  costs  by  nearly  $2 billion.  The  Governor’s  proposed  solutions  are  discussed  further  in  the  next
+section.  
+
+California’s 2012-13 Budget
+
+The  Governor  released  his  proposed  2012-13  Budget  on  January  5,  2012.  The  proposed  Budget  projects  a
+$9.2 billion gap between estimated revenues and state expenditures over the next 18 months. The $9.2 billion
+figure is comprised of a $4.1 billion deficit carried over from the 2011-12 fiscal year and a $5.1 billion shortfall
+in  the  2012-13  fiscal  year.  The  Governor’s  Budget  proposes  $4.2  billion  in  expenditure-related  solutions,
+$4.7 billion in net new revenues, and $1.4 billion borrowed from special funds and other sources. If enacted,
+the Governor’s proposed Budget would eliminate the 2011-12 and 2012-13 deficit and leave the State with a
+surplus  of  $1  billion.  The  2012-13  Budget  continues  to  incorporate  those  solutions  implemented  in  the  prior
+year Budget. It also assumes passage of the Governor’s proposed initiative in the November 2012 election. If
+approved by the voters, this initiative will temporarily increase the personal income tax on the state’s wealthiest
+taxpayers and temporarily increase the sales tax by one-quarter percent, generating an estimated $6.8 billion
+to $9 billion for 2012-13.  
+
+The 2012-13 Governor’s Budget projects (with all budget solutions enacted) that 2012-13 fiscal year General
+Fund revenues and transfers will be $95.4 billion and expenditures will be approximately $92.6 billion, with a
+$1.1 billion reserve. Proposed 2012-13 General Fund revenues and transfers are 7.7% more than the revised
+2011-12  estimate  of  $88.6  billion,  while  2012-13  expenditures  are  7%  greater  than  the  revised  2011-12
+estimate  of  $86.5  billion.  Almost  all  of  the  Governor’s  proposed  new  revenue  is  derived  from  plans  to
+temporarily increase the sales tax and temporarily increase personal income tax on wealthy taxpayers, both of
+which  the  Governor  will  submit  to  voters  in  November  2012.  A  portion  of  the  new  revenue,  $2.5  billion,  will
+increase the Proposition 98 minimum guarantee to schools; the remaining $4.4 billion will prevent deeper cuts
+
+23
+
+State of California Comprehensive Annual Financial Report
+
+to  schools,  protect  local  public  safety  funding,  and  assist  in  balancing  the  budget.  It  is  estimated  that  the
+temporary  tax  increases  will  allow  the  State  to  pay  off  $33  billion  in  outstanding  budgetary  borrowing  and
+deferrals  by  fiscal  year  2015-16.  While  additional  tax  revenues  will  mitigate  the  need  for  deeper  cuts  in
+expenditures,  they  will  not  be  sufficient  to  close  the  entire  budget  gap.  Other  expenditure-related  solutions
+include reductions of $1.4 billion for CalWorks and $1 billion in combined reductions to Medi-Cal and In-Home
+Supportive Services.   
+
+According  to  the  Legislative  Analyst’s  Office  (LAO),  California’s  nonpartisan  fiscal  and  policy  advisor,  the
+administration’s  estimate  of  the  budget  shortfall  is  questionable.  LAO’s  revenue  estimate  is  lower  than  the
+Governor’s, specifically those revenues attributable to the Governor’s initiative to be included in the November
+2012  general  election.  The  LAO  estimates  that  personal  income  taxes  from  upper-income  taxpayers  will  be
+lower  than  the  Governor’s  estimate,  which  could  result  in  the  Legislature  having  to  pursue  billions  of  dollars
+more  in  budget-balancing  solutions.  The  LAO  credited  the  Governor’s  proposed  restructuring  of  the  school
+finance  system,  community  college  categorical  funding,  and  education  mandates,  but  also  noted  that  the
+Governor’s $1.4 billion in proposed savings related to Social Services and subsidized child care has merit but
+may be too severe, and commented that potential savings could be less under other alternatives.  
+
+Requests for Information
+
+The State Controller’s Office designed this financial report to provide interested parties with a general overview
+of  the  State  of  California’s  finances.  Address  questions  concerning  the  information  provided  in  this  report  or
+requests  for  additional  information  to  the  State  Controller’s  Office,  Division  of  Accounting  and  Reporting,
+P.O. Box 942850, Sacramento, California 94250-5872. This report is also available on the Controller’s Office
+website at www.sco.ca.gov.
+
+24
+
+Basic Financial
+
+Statements
+
+State of California Comprehensive Annual Financial Report
+
+This page intentionally left blank.
+
+26
+
+Government-wide 
+Financial Statements
+
+State of California Comprehensive Annual Financial Report
+
+Statement of Net Assets
+
+June 30, 2011
+(amounts in thousands)
+
+ASSETS
+Current assets:
+
+Cash and pooled investments ….….….….….….….
+Amount on deposit with U.S. Treasury ….….….….…
+Investments ….….….….….….….….….….….….….…
+Restricted assets:
+
+$
+
+Cash and pooled investments ….….….….….….…
+Investments ….….….….….….….….….….….….…
+Due from other governments ….….….….….….…
+Net investment in direct financing leases ….….….…
+Receivables (net) ….….….….….….….….….….….…
+Internal balances ….….….….….….….….….….….…
+Due from primary government ….….….….….….….
+Due from other governments ….….….….….….….…
+Prepaid items ….….….….….….….….….….….….…
+Inventories ….….….….….….….….….….….….….…
+Recoverable power costs (net) ….….….….….….…
+Other current assets ….….….….….….….….….….…
+
+Total current assets ….….….….….….….….….…
+
+Noncurrent assets:
+Restricted assets:
+
+Cash and pooled investments ….….….….….….…
+Investments ….….….….….….….….….….….….…
+Loans receivable ….….….….….….….….….….…
+
+Investments ….….….….….….….….….….….….….…
+Net investment in direct financing leases ….….….…
+Receivables (net) ….….….….….….….….….….….…
+Loans receivable ….….….….….….….….….….….…
+Recoverable power costs (net) ….….….….….….…
+Deferred charges ….….….….….….….….….….….…
+Capital assets:
+
+Land ….….….….….….….….….….….….….….….
+State highway infrastructure ….….….….….….….
+Collections – nondepreciable ….….….….….….…
+Buildings and other depreciable property ….….…
+Intangible assets – amortizable ….….….….….….
+Less: accumulated depreciation/amortization ….…
+Construction in progress ….….….….….….….….…
+Intangible assets – nonamortizable ….….….….…
+Other noncurrent assets ….….….….….….….….….
+
+— 
+— 
+— 
+— 
+11,310,619 
+(868,285)
+— 
+11,601,567 
+107,513 
+92,328 
+— 
+92,036 
+
+45,497,588 
+
+— 
+— 
+— 
+— 
+— 
+1,757,892 
+3,383,521 
+— 
+180,725 
+
+16,599,386 
+61,438,984 
+22,422 
+23,520,649 
+648,678 
+(10,114,089)
+7,814,016 
+534,092 
+— 
+
+Total noncurrent assets ….….….….….….….…
+
+Total assets ….….….….….….….….….….… $
+
+105,786,276 
+151,283,864 
+
+$
+
+Primary Government
+
+Governmental
+
+Business-type
+
+Activities
+
+Activities
+
+Total
+
+Component
+
+Units
+
+$
+
+22,502,134 
+— 
+659,676 
+
+$
+
+2,720,440 
+2,855,711 
+2,138,779 
+
+$
+
+25,222,574 
+2,855,711 
+2,798,455 
+
+2,773,418 
+— 
+65,598 
+399,863 
+798,980 
+868,285 
+— 
+321,819 
+51,252 
+42,887 
+220,000 
+116,138 
+
+13,373,170 
+
+1,241,359 
+410,858 
+238,597 
+1,479,984 
+7,018,573 
+236,649 
+4,102,167 
+4,809,000 
+944,282 
+
+214,817 
+— 
+2,697 
+10,567,993 
+218,547 
+(4,112,936)
+1,521,118 
+138,633 
+29,224 
+
+29,061,562 
+42,434,732 
+
+2,773,418 
+–– 
+65,598 
+399,863 
+12,109,599 
+–– 
+–– 
+11,923,386 
+158,765 
+135,215 
+220,000 
+208,174 
+58,870,758 
+
+1,241,359 
+410,858 
+238,597 
+1,479,984 
+7,018,573 
+1,994,541 
+7,485,688 
+4,809,000 
+1,125,007 
+
+16,814,203 
+61,438,984 
+25,119 
+34,088,642 
+867,225 
+(14,227,025)
+9,335,134 
+672,725 
+29,224 
+134,847,838 
+193,718,596 
+
+$
+
+$
+
+4,818,120 
+— 
+8,021,674 
+
+91,958 
+21,328 
+— 
+— 
+3,730,586 
+— 
+204,299 
+734,001 
+2,621 
+170,700 
+— 
+284,364 
+
+18,079,651 
+
+100,113 
+16,052 
+— 
+43,816,511 
+— 
+1,421,223 
+6,494,592 
+— 
+30,033 
+
+928,714 
+— 
+332,128 
+37,398,584 
+508,489 
+(16,751,617)
+2,959,465 
+5,090 
+800,255 
+
+78,059,632 
+96,139,283 
+
+28
+
+The notes to the financial statements are an integral part of this statement.
+
+Government-wide Financial Statements
+
+Primary Government
+
+Governmental
+
+Business-type
+
+Activities
+
+Activities
+
+Total
+
+Component
+
+Units
+
+LIABILITIES
+Current liabilities:
+
+$
+
+Accounts payable ….….….….….….….….….….….…
+Due to component units ….….….….….….….….….…
+Due to other governments ….….….….….….….….…
+Deferred revenue ….….….….….….….….….….….…
+Tax overpayments ….….….….….….….….….….….
+Deposits ….….….….….….….….….….….….….….…
+Contracts and notes payable ….….….….….….….…
+Unclaimed property liability .....................................
+Advance collections ….….….….….….….….….….…
+Interest payable ….….….….….….….….….….….…
+Securities lending obligations ….….….….….….….…
+Benefits payable ….….….….….….….….….….….…
+Current portion of long-term obligations ….….….…
+Other current liabilities ….….….….….….….….….…
+Total current liabilities ….….….….….….….….…
+
+Noncurrent liabilities:
+
+Benefits payable ….….….….….….….….….….….…
+Loans payable ….….….….….….….….….….….….…
+Lottery prizes and annuities ….….….….….….….…
+Compensated absences payable ….….….….….….
+Certificates of participation, commercial paper, 
+
+and other borrowings ….….….….….….….….….…
+Capital lease obligations ….….….….….….….….….
+ 
+General obligation bonds payable ….….….….….…
+Revenue bonds payable ….….….….….….….….….
+Net other postemployment benefits obligation ….…
+Pollution remediation obligation ….….….….….….…
+Other noncurrent liabilities ….….….….….….….….…
+Total noncurrent liabilities ….….….….….….….…
+
+ 
+
+Total liabilities ….….….….….….….….….….
+
+NET ASSETS
+
+Investment in capital assets, net of related debt ….
+Restricted:
+
+Nonexpendable – endowments ….….….….….….
+Nonexpendable ….….….….….….….….….….….…
+Expendable:
+
+Endowments and gifts ......................................
+Business and transportation .............................
+Resources .........................................................
+Health and human services ..............................
+Education ..........................................................
+General government .........................................
+Unemployment programs .................................
+State and consumer services ...........................
+Correctional programs ......................................
+Workers’ compensation liability ........................
+Total expendable ...........................................
+
+Unrestricted ….….….….….….….….….….….….….…
+
+Total net assets (deficit) ….….….….….….….
+Total liabilities and net assets ….….….….…. $
+
+$
+
+18,924,834 
+204,299 
+7,718,550 
+— 
+5,683,628 
+476,466 
+413 
+945,360 
+1,382,542 
+1,206,982 
+— 
+— 
+3,807,382 
+484,351 
+40,834,807 
+
+— 
+2,122,507 
+— 
+3,720,725 
+
+1,327,876 
+4,544,008 
+77,216,976 
+7,358,748 
+9,606,931 
+761,823 
+14,245,999 
+120,905,593 
+161,740,400 
+
+$
+
+533,687 
+— 
+180,500 
+242,254 
+— 
+82 
+— 
+— 
+10,087 
+190,855 
+— 
+793,247 
+2,005,726 
+469,302 
+4,425,740 
+
+— 
+10,957,982 
+886,009 
+165,470 
+
+139,974 
+734,158 
+1,118,559 
+22,091,010 
+318,793 
+5,080 
+785,737 
+37,202,772 
+41,628,512 
+
+$
+
+19,458,521 
+204,299 
+7,899,050 
+242,254 
+5,683,628 
+476,548 
+413 
+945,360 
+1,392,629 
+1,397,837 
+–– 
+793,247 
+5,813,108 
+953,653 
+45,260,547 
+
+–– 
+13,080,489 
+886,009 
+3,886,195 
+
+1,467,850 
+5,278,166 
+78,335,535 
+29,449,758 
+9,925,724 
+766,903 
+15,031,736 
+158,108,365 
+203,368,912 
+
+2,488,315 
+— 
+23,688 
+1,008,219 
+— 
+686,586 
+23,345 
+— 
+96,602 
+102,879 
+2,168,485 
+1,445,032 
+1,917,706 
+2,826,145 
+12,787,002 
+
+15,061,113 
+20,000 
+— 
+251,495 
+
+77,483 
+2,636,929 
+— 
+18,932,217 
+5,738,777 
+— 
+3,768,045 
+46,486,059 
+59,273,061 
+
+85,460,957 
+
+1,382,957 
+
+86,843,914 
+
+12,128,546 
+
+— 
+— 
+
+— 
+10,875,076 
+7,257,940 
+4,214,342 
+1,490,659 
+3,274,196 
+— 
+749,806 
+3,802 
+— 
+27,865,821 
+(123,783,314)
+(10,456,536)
+151,283,864 
+
+$
+
+— 
+21,812 
+
+— 
+6,558 
+1,012,430 
+126,738 
+92,604 
+511,656 
+1,810,426 
+37,530 
+18,003 
+— 
+3,615,945 
+(4,214,494)
+806,220 
+42,434,732 
+
+$
+
+–– 
+21,812 
+
+–– 
+10,881,634 
+8,270,370 
+4,341,080 
+1,583,263 
+3,785,852 
+1,810,426 
+787,336 
+21,805 
+–– 
+31,481,766 
+(127,997,808)
+(9,650,316)
+193,718,596 
+
+$
+
+4,304,461 
+— 
+
+7,640,520 
+1,478,961 
+— 
+— 
+1,772,420 
+372,088 
+— 
+1,046,164 
+— 
+5,868,816 
+18,178,969 
+2,254,246 
+36,866,222 
+96,139,283 
+
+The notes to the financial statements are an integral part of this statement.
+
+29
+
+State of California Comprehensive Annual Financial Report
+
+Statement of Activities
+
+Year Ended June 30, 2011
+(amounts in thousands)
+
+FUNCTIONS/PROGRAMS
+Primary government
+
+Governmental activities:
+
+Program Revenues
+
+Expenses
+
+Charges
+
+for Services
+
+Operating
+Grants and
+
+Capital
+
+Grants and
+
+Contributions
+
+Contributions
+
+  $
+General government ….….….….….….….….….…
+ 
+Education ….….….….….….….….….….….….….…
+ 
+Health and human services ….….….….….….….…
+ 
+Resources ….….….….….….….….….….….….….
+ 
+State and consumer services ….….….….….….…
+ 
+Business and transportation ….….….….….….….
+ 
+Correctional programs ….….….….….….….….….
+Interest on long-term debt ….….….….….….….…
+ 
+
+$
+
+13,520,557 
+56,486,944 
+92,475,364 
+5,853,278 
+1,405,019 
+11,119,644 
+10,295,564 
+4,377,064 
+
+5,057,082 
+110,423 
+8,471,261 
+2,797,264 
+660,196 
+4,010,433 
+14,981 
+— 
+
+Total governmental activities ….….….….….….…
+ 
+
+195,533,434 
+
+21,121,640 
+
+Business-type activities:
+
+ 
+Electric Power ….….….….….….….….….….….…
+ 
+Water Resources ….….….….….….….….….….…
+ 
+Public Building Construction ….….….….….….….
+State Lottery ….….….….….….….….….….….….…
+ 
+Unemployment Programs ….….….….….….….…
+ 
+California State University ….….….….….….….…
+ 
+High Technology Education ….….….….….….….…
+ 
+State Water Pollution Control Revolving .….….…
+ 
+Housing Loan ….….….….….….….….….….….….
+ 
+Other enterprise programs ….….….….….….….…
+ 
+
+Total business-type activities ….….….….….….
+
+ 
+
+2,317,000 
+1,115,793 
+390,173 
+3,507,524 
+25,619,138 
+5,851,355 
+9,590 
+10,953 
+104,667 
+118,006 
+
+39,044,199 
+
+Total primary government ….….….….….…  $
+
+234,577,633 
+
+Component units:
+
+University of California ….….….….….….….….….…
+  $
+ 
+State Compensation Insurance Fund ….….….….…
+California Housing Finance Agency ….….….….….…
+ 
+ 
+Public Employees’ Benefits Funds ..........................
+ 
+Nonmajor component units ….….….….….….….….
+
+24,886,919 
+1,853,853 
+621,055 
+1,905,816 
+2,151,621 
+
+$
+
+$
+
+2,317,000 
+1,115,793 
+456,467 
+3,484,689 
+24,678,783 
+2,505,545 
+10,498 
+55,957 
+89,224 
+105,676 
+
+34,819,632 
+
+55,941,272 
+
+13,194,408 
+1,071,714 
+409,297 
+2,047,922 
+1,033,981 
+
+$
+
+$
+
+$
+
+$
+
+$
+
+$
+
+1,344,164 
+7,449,007 
+54,549,680 
+457,924 
+37,509 
+3,914,046 
+96,885 
+— 
+
+67,849,215 
+
+— 
+— 
+— 
+— 
+— 
+1,216,808 
+— 
+— 
+— 
+— 
+
+1,216,808 
+
+69,066,023 
+
+8,480,327 
+— 
+42,948 
+— 
+624,973 
+
+Total component units ….….….….….….….…  $
+
+31,419,264 
+
+$
+
+17,757,322 
+
+$
+
+9,148,248 
+
+$
+
+— 
+— 
+— 
+— 
+— 
+1,272,326 
+— 
+— 
+
+1,272,326 
+
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+86,272 
+— 
+— 
+
+86,272 
+
+1,358,598 
+
+247,259 
+— 
+— 
+— 
+7,060 
+
+254,319 
+
+General revenues:
+
+Personal income taxes ….….….….….….….….….….….….….….….….….….….…
+Sales and use taxes ….….….….….….….….….….….….….….….….….….….….…
+Corporation taxes ….….….….….….….….….….….….….….….….….….….….….…
+Insurance taxes ….….….….….….….….….….….….….….….….….….….….….….…
+Other taxes ….….….….….….….….….….….….….….….….….….….….….….….…
+Investment and interest ….….….….….….….….….….….….….….….….….….….…
+Escheat ...................................................................................................................
+Other........................................................................................................................
+
+Transfers ….….….….….….….….….….….….….….….….….….….….….….….….….…
+
+   Total general revenues and transfers ….….….….….….….….….….….….….…
+       Change in net assets ….….….….….….….….….….….….….….….….….….….
+
+Net assets, July 1, 2010  ….….….….….….….….….….….….….….….….….….….…
+Net assets (deficit), June 30, 2011 ….….….….….….….….….….….….….….….….
+
+* Restated
+
+30
+
+The notes to the financial statements are an integral part of this statement.
+
+Government-wide Financial Statements
+
+Net (Expenses) Revenues and Changes in Net Assets
+
+Primary Government
+
+Governmental
+
+Business-type
+
+Activities
+
+Activities
+
+Total
+
+Component
+
+Units
+
+$
+
+$
+
+(7,119,311)
+(48,927,514)
+(29,454,423)
+(2,598,090)
+(707,314)
+(1,922,839)
+(10,183,698)
+(4,377,064)
+
+(105,290,253)
+
+–– 
+–– 
+66,294 
+(22,835)
+(940,355)
+(2,129,002)
+908 
+131,276 
+(15,443)
+(12,330)
+
+(2,921,487)
+
+(2,921,487)
+
+ 
+
+$
+
+ 
+
+ 
+
+(105,290,253)
+
+(7,119,311)
+(48,927,514)
+(29,454,423)
+(2,598,090)
+(707,314)
+(1,922,839)
+(10,183,698)
+(4,377,064)
+(105,290,253)
+ 
+–– 
+–– 
+66,294 
+(22,835)
+(940,355)
+(2,129,002)
+908 
+131,276 
+(15,443)
+(12,330)
+(2,921,487)
+(108,211,740)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+  $
+
+51,719,107 
+33,521,221 
+9,384,416 
+2,311,880 
+7,768,010 
+62,946 
+229,146 
+— 
+(3,251,598)
+
+101,745,128 
+(3,545,125)
+(6,911,411) *
+(10,456,536)
+
+$
+
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+— 
+3,251,598 
+
+3,251,598 
+330,111 
+
+*
+
+476,109 
+806,220 
+
+$
+
+51,719,107 
+33,521,221 
+9,384,416 
+2,311,880 
+7,768,010 
+62,946 
+229,146 
+–– 
+–– 
+104,996,726 
+(3,215,014)
+(6,435,302)
+(9,650,316)
+
+$
+
+ 
+
+$
+
+(2,964,925)
+(782,139)
+(168,810)
+142,106 
+(485,607)
+
+(4,259,375)
+
+— 
+— 
+— 
+— 
+— 
+4,109,189 
+— 
+3,040,213 
+— 
+
+7,149,402 
+2,890,027 
+33,976,195  *
+36,866,222 
+
+The notes to the financial statements are an integral part of this statement.
+
+31
+
+State of California Comprehensive Annual Financial Report
+
+This page intentionally left blank.
+
+32
+
+Fund Financial 
+Statements
+
+State of California Comprehensive Annual Financial Report
+
+Balance Sheet
+Governmental Funds
+
+June 30, 2011
+(amounts in thousands) 
+
+General
+
+Federal
+
+Transportation
+
+Governmental
+
+Total
+
+Nonmajor
+
+ASSETS
+
+$
+
+Cash and pooled investments  ….….….….…
+Investments ….….….….….….….….….….…
+ 
+Receivables (net) ….….….….….….….….….
+Due from other funds ….….….….….….….…
+Due from other governments ….….….….….
+Interfund receivables ….….….….….….….…
+Loans receivable ….….….….….….….….….
+Other assets ….….….….….….….….….….…
+
+$
+
+913,703 
+— 
+9,302,494 
+1,193,258 
+382,406 
+47,304 
+159,845 
+4,643 
+
+$
+
+342,634 
+— 
+1,034 
+46,245 
+11,009,726 
+— 
+124,879 
+— 
+
+$
+
+4,034,580 
+— 
+793,013 
+1,442,199 
+83,257 
+2,608,626 
+— 
+57,876 
+
+$
+
+16,504,113 
+659,676 
+1,094,852 
+1,726,953 
+115,887 
+4,881,517 
+3,098,797 
+29,517 
+
+Total assets ….….….….….….….….….…
+
+$
+
+12,003,653 
+
+$
+
+11,524,518 
+
+$
+
+9,019,551 
+
+$
+
+28,111,312 
+
+$
+
+LIABILITIES
+
+$
+
+$
+
+Accounts payable ….….….….….….….….…
+Due to other funds ….….….….….….….….…
+Due to component units ….….….….….….…
+Due to other governments ….….….….….….
+Interfund payables ….….….….….….….….…
+Tax overpayments ….….….….….….….….…
+Deposits ….….….….….….….….….….….….
+Advance collections ….….….….….….….….
+Interest payable ….….….….….….….….….…
+Unclaimed property liability..........................
+General obligation bonds payable................
+Other liabilities ….….….….….….….….….…
+
+1,332,391 
+10,448,561 
+198,389 
+3,171,500 
+8,918,885 
+5,683,628 
+2,112 
+820,538 
+— 
+945,360 
+— 
+421,530 
+
+$
+
+1,376,456 
+7,330,106 
+— 
+2,663,952 
+— 
+— 
+— 
+8,869 
+6,900 
+— 
+— 
+16,681 
+
+$
+
+447,976 
+92,856 
+15 
+425,675 
+2,421 
+— 
+4,492 
+13,683 
+— 
+— 
+— 
+265,201 
+
+Total liabilities ….….….….….….….….…
+
+31,942,894 
+
+11,402,964 
+
+1,252,319 
+
+FUND BALANCES
+
+Nonspendable ….….….….….….….….….….
+Restricted ….….….….….….….….….….….…
+Committed ….….….….….….….….….….….…
+Assigned ….….….….….….….….….….….…
+Unassigned ..................................................
+
+Total fund balances (deficit) ….….….…
+Total liabilities and fund
+
+148,019 
+156,496 
+29,850 
+— 
+(20,273,606)
+
+(19,939,241)
+
+— 
+121,554 
+— 
+— 
+— 
+
+121,554 
+
+— 
+7,723,471 
+48,525 
+— 
+(4,764)
+
+7,767,232 
+
+$
+
+1,667,620 
+131,573 
+5,156 
+2,049,456 
+16,526 
+— 
+469,026 
+236,054 
+190,794 
+— 
+383,830 
+152,547 
+
+5,302,582 
+
+39,448 
+19,864,300 
+2,653,177 
+268,888 
+(17,083)
+
+22,808,730 
+
+21,795,030 
+659,676 
+11,191,393 
+4,408,655 
+11,591,276 
+7,537,447 
+3,383,521 
+92,036 
+60,659,034 
+
+4,824,443 
+18,003,096 
+203,560 
+8,310,583 
+8,937,832 
+5,683,628 
+475,630 
+1,079,144 
+197,694 
+945,360 
+383,830 
+855,959 
+49,900,759 
+
+187,467 
+27,865,821 
+2,731,552 
+268,888 
+(20,295,453)
+10,758,275 
+
+balances ….….….….….….….….….….  
+
+$
+
+12,003,653  $
+
+11,524,518  $
+
+9,019,551 
+
+$
+
+28,111,312 
+
+$
+
+60,659,034 
+
+34
+
+The notes to the financial statements are an integral part of this statement.
+
+Reconciliation of the Governmental Funds
+Balance Sheet to the Statement of Net Assets
+
+(amounts in thousands)
+
+Fund Financial Statements
+
+Total fund balances – governmental funds
+
+$
+
+10,758,275 
+
+Amounts reported for governmental activities in the Statement of Net Assets are different from those in the
+Governmental Funds Balance Sheet because:
+
+(cid:129) Capital  assets  used  in  governmental  activities  are  not  financial  resources  and,  therefore,  are  not  reported  in
+
+the funds.
+
+Land
+State highway infrastructure
+Collections – nondepreciable
+Buildings and other depreciable property
+Intangible assets – amortizable
+Less: accumulated depreciation/amortization
+Construction in progress
+Intangible assets – nonamortizable
+
+16,597,328 
+61,438,984 
+22,422 
+22,959,145 
+600,644 
+(9,650,127)
+7,794,602 
+534,092 
+
+(cid:129)  Other assets are not available to pay for current-period expenditures and, therefore, are not reported.
+
+(cid:129) Internal service funds are used by management to charge the costs of certain activities, such as architectural,
+procurement,  and  technology  services,  to  individual  funds.  The  assets  and  liabilities  of  the  internal  service
+funds are included in governmental activities in the Statement of Net Assets.
+
+100,297,090 
+
+1,757,892 
+
+574,355 
+
+(cid:129) Bond discounts, premiums, and deferred issue costs are amortized over the life of the bonds and are included
+
+(350,448)
+
+in the governmental activities in the Statement of Net Assets.
+
+(cid:129) General obligation bonds and related accrued interest totaling $79,080,213, revenue bonds totaling $7,994,249,
+
+(88,409,802)
+
+and certificates of participation and commercial paper totaling $1,335,340 are not due and payable in the
+current period and, therefore, are not reported in the funds.
+
+• Certain liabilities are not due and payable in the current period; therefore, adjustments to these liabilities are not
+
+reported in the funds:
+
+Compensated absences
+Capital leases
+Net other postemployment benefits obligation
+Mandated costs
+Workers’ compensation
+Loans payable
+Proposition 98 funding guarantee
+Net pension obligation
+Pollution remediation obligations
+Other noncurrent liabilities 
+
+Net assets of governmental activities
+
+(3,601,307)
+(4,881,488)
+(9,385,621)
+(5,741,063)
+(2,660,893)
+(2,032,275)
+(2,636,851)
+(3,002,637)
+(804,231)
+(337,532)
+
+(35,083,898)
+
+$
+
+(10,456,536)
+
+The notes to the financial statements are an integral part of this statement.
+
+35
+
+State of California Comprehensive Annual Financial Report
+
+Statement of Revenues, Expenditures,
+and Changes in Fund Balances
+Governmental Funds
+
+Year Ended June 30, 2011
+(amounts in thousands) 
+
+REVENUES
+
+General
+
+Federal
+
+Transportation
+
+Governmental
+
+Total
+
+Nonmajor
+
+$
+
+$
+
+Personal income taxes ….….….….….….….…
+Sales and use taxes ….….….….….….….….…
+Corporation taxes ….….….….….….….….….…
+Insurance taxes ….….….….….….….….….….
+Other taxes ….….….….….….….….….….….…
+Intergovernmental ….….….….….….….….….…
+Licenses and permits ….….….….….….….….…
+Charges for services ….….….….….….….….…
+Fees ….….….….….….….….….….….….….…
+Penalties ….….….….….….….….….….….….…
+Investment and interest ….….….….….….….…
+Escheat ..........................................................
+Other ….….….….….….….….….….….….….…
+
+50,785,782 
+27,013,675 
+9,433,416 
+2,076,804 
+566,241 
+— 
+1,335,511 
+244,448 
+822,308 
+165,567 
+38,928 
+229,133 
+768,002 
+
+$
+
+— 
+— 
+— 
+— 
+— 
+67,849,164 
+— 
+— 
+— 
+52 
+1 
+— 
+— 
+
+Total revenues ….….….….….….….….…
+
+93,479,815 
+
+67,849,217 
+
+EXPENDITURES
+
+Current: 
+
+General government ….….….….….….….…
+Education ….….….….….….….….….….….…
+Health and human services ….….….….….…
+Resources ….….….….….….….….….….….…
+State and consumer services ….….….….…
+Business and transportation ….….….….….…
+Correctional programs ….….….….….….….…
+
+Capital outlay ….….….….….….….….….….…
+Debt service:
+
+3,423,934 
+43,532,898 
+27,783,447 
+879,201 
+550,020 
+8,953 
+9,108,430 
+204,631 
+
+894,403 
+9,138,900 
+47,880,101 
+402,608 
+37,529 
+3,805,211 
+8,769 
+— 
+
+$
+
+— 
+327,602 
+— 
+— 
+5,467,683 
+— 
+3,352,528 
+423,099 
+19,161 
+45,966 
+22,198 
+13 
+63,204 
+
+9,721,454 
+
+193,545 
+2,396 
+2,740 
+269,660 
+93,994 
+8,895,152 
+— 
+— 
+
+$
+
+905,371 
+6,147,528 
+––  
+235,077 
+1,795,738 
+1,311,752 
+2,079,398 
+341,100 
+8,400,018 
+809,315 
+150,989 
+––  
+2,110,278 
+
+24,286,564 
+
+8,485,769 
+2,872,945 
+16,275,021 
+3,703,288 
+501,993 
+472,074 
+136,592 
+923,380 
+
+Bond and commercial paper retirement ….…
+Interest and fiscal charges ….….….….….…
+
+1,793,294 
+3,146,866 
+
+64,785 
+19,509 
+
+1,334 
+1,186 
+
+1,259,493 
+1,187,549 
+
+Total expenditures ….….….….….….….…
+Excess (deficiency) of revenues
+
+90,431,674 
+
+62,251,815 
+
+9,460,007 
+
+35,818,104 
+
+51,691,153 
+33,488,805 
+9,433,416 
+2,311,881 
+7,829,662 
+69,160,916 
+6,767,437 
+1,008,647 
+9,241,487 
+1,020,900 
+212,116 
+229,146 
+2,941,484 
+195,337,050 
+
+12,997,651 
+55,547,139 
+91,941,309 
+5,254,757 
+1,183,536 
+13,181,390 
+9,253,791 
+1,128,011 
+
+3,118,906 
+4,355,110 
+197,961,600 
+
+over (under) expenditures ….….….….…
+
+3,048,141 
+
+5,597,402 
+
+261,447 
+
+(11,531,540)
+
+(2,624,550)
+
+OTHER FINANCING SOURCES (USES)
+
+General obligation bonds and commercial
+
+ 
+
+paper issued ….….….….….….….….….….…
+Premium on bonds issued...............................
+Proceeds from loans........................................
+Capital leases .................................................
+Transfers in ….….….….….….….….….….….…
+Transfers out ….….….….….….….….….….….
+
+— 
+31,478 
+35,538 
+204,631 
+1,176,616 
+(4,944,732)
+
+Total other financing sources (uses) …
+Net change in fund balances ….….….….….….…
+Fund balances (deficit), July 1, 2010 ….….….
+  $
+Fund balances (deficit), June 30, 2011 ….….…
+* Restated
+
+(3,496,469)
+(448,328)
+(19,490,913)
+(19,939,241)
+
+*
+
+$
+
+— 
+— 
+— 
+— 
+— 
+(5,567,127)
+
+(5,567,127)
+30,275 
+91,279 
+121,554 
+
+*
+
+$
+
+1,468,300 
+102 
+— 
+— 
+235 
+(942,133)
+
+526,504 
+787,951 
+6,979,281 
+7,767,232 
+
+3,056,700 
+1,027 
+— 
+— 
+7,528,378 
+(448,808)
+
+10,137,297 
+(1,394,243)
+24,202,973 
+22,808,730 
+
+*
+
+$
+
+$
+
+4,525,000 
+32,607 
+35,538 
+204,631 
+8,705,229 
+(11,902,800)
+1,600,205 
+(1,024,345)
+11,782,620 
+10,758,275 
+
+36
+
+The notes to the financial statements are an integral part of this statement.
+
+Reconciliation of the Statement of Revenues,
+Expenditures, and Changes in Fund Balances of
+Governmental Funds to the Statement of Activities
+
+(amounts in thousands)
+
+Fund Financial Statements
+
+Net change in fund balances – total governmental funds 
+
+$
+
+(1,024,345)
+
+Amounts  reported  for  governmental  activities  in  the  Statement  of  Activities  are  different  from  those  in  the
+Statement of Revenues, Expenditures, and Changes in Fund Balances of Governmental Funds because:
+
+(cid:129) Governmental funds report capital outlays as expenditures. However, in the Statement of Activities, the cost of
+those assets is allocated over their estimated useful lives as depreciation expense. This is the amount by which
+net capital outlays exceed depreciation in the current period.
+
+(cid:129) Revenues  in  the  Statement  of  Activities  that  do  not  provide  current  financial  resources  are  deferred  and  not
+
+reported as revenues in the funds.
+
+(cid:129) Internal service funds are used by management to charge the costs of certain activities, such as architectural,
+procurement, and technology services, to individual funds. The net revenue (expense) of the internal service
+funds is reported with governmental activities. 
+
+(cid:129) Bonds and other noncurrent financing instruments provide current financial resources to governmental funds in
+the  form  of  debt,  which  increases  long-term  liabilities  in  the  Statement  of  Net  Assets.  Repayment  of  bond
+principal  is  an  expenditure  in  the  governmental  funds,  but  the  repayment  reduces  long-term  liabilities  in  the
+Statement of Net Assets. The following amounts represent the difference between proceeds and repayments:
+
+2,666,750 
+
+(97,143)
+
+45,155 
+
+General obligation bond
+Revenue bond
+Certificates of participation and commercial paper
+
+(1,564,891)
+100,846 
+6,779 
+
+(1,457,266)
+
+(cid:129) Some  expenses  reported  in  the  Statement  of  Activities  do  not  require  the  use  of  current  financial  resources
+
+and, therefore, are not reported as expenditures in governmental funds.
+
+Compensated absences
+Capital leases
+Net other postemployment benefits obligation
+Mandated costs
+Workers’ compensation
+Loans payable
+Proposition 98 funding guarantee
+Net pension obligation
+Pollution remediation obligations
+Other noncurrent liabilities
+
+Change in net assets of governmental activities
+
+(352,442)
+80,164 
+(2,497,450)
+(642,979)
+(252,012)
+(35,538)
+368,842 
+(343,393)
+(48,619)
+45,151 
+
+(3,678,276)
+
+$
+
+(3,545,125)
+
+The notes to the financial statements are an integral part of this statement.
+
+37
+
+

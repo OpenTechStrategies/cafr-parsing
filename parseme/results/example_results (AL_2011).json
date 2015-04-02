@@ -1,0 +1,1430 @@
+[
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "cashAndEquivalents",
+        "value": 2000963
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "investments",
+        "value": 3343837
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "internalBalances",
+        "value": 24298
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "dueFromPrimaryGovernment",
+        "value": 0
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "dueFromComponentUnits",
+        "value": 5416
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "investmentSalesReceivable",
+        "value": 70612
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "accountsReceivable",
+        "value": 40262
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "dueFromOtherGovernments",
+        "value": 505517
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "taxesReceivable",
+        "value": 866415
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "interestAndDividendsReceivable",
+        "value": 26522
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "mortgagesNotesAndLoansReceivable",
+        "value": 54
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "securitiesLendingCollateral",
+        "value": 151730
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "inventory",
+        "value": 38936
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "restrictedAssets",
+        "value": 54905
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "otherAssets",
+        "value": 11757
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "Net of Depreciation",
+        "section": "Asset",
+        "type": "capitalAssets",
+        "value": 1004417
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "Not Depreciated",
+        "section": "Asset",
+        "type": "capitalAssets",
+        "value": 18381525
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "deferredOutflows",
+        "value": 0
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "total",
+        "value": 26527166
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "cashAndEquivalents",
+        "value": 415639
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "investments",
+        "value": 199634
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "internalBalances",
+        "value": -24298
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "dueFromPrimaryGovernment",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "dueFromComponentUnits",
+        "value": 2
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "investmentSalesReceivable",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "accountsReceivable",
+        "value": 112175
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "dueFromOtherGovernments",
+        "value": 280
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "taxesReceivable",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "interestAndDividendsReceivable",
+        "value": 14
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "mortgagesNotesAndLoansReceivable",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "securitiesLendingCollateral",
+        "value": 608
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "inventory",
+        "value": 38827
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "restrictedAssets",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "otherAssets",
+        "value": 33639
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "Net of Depreciation",
+        "section": "Asset",
+        "type": "capitalAssets",
+        "value": 1343134
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "Not Depreciated",
+        "section": "Asset",
+        "type": "capitalAssets",
+        "value": 184978
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "deferredOutflows",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Asset",
+        "type": "total",
+        "value": 2304632
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "cashAndEquivalents",
+        "value": 2416602
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "investments",
+        "value": 3543471
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "internalBalances",
+        "value": 0
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "dueFromPrimaryGovernment",
+        "value": 0
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "dueFromComponentUnits",
+        "value": 5418
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "investmentSalesReceivable",
+        "value": 70612
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "accountsReceivable",
+        "value": 152437
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "dueFromOtherGovernments",
+        "value": 505797
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "taxesReceivable",
+        "value": 866415
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "interestAndDividendsReceivable",
+        "value": 26536
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "mortgagesNotesAndLoansReceivable",
+        "value": 54
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "securitiesLendingCollateral",
+        "value": 152338
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "inventory",
+        "value": 77763
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "restrictedAssets",
+        "value": 54905
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "otherAssets",
+        "value": 45396
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "Net of Depreciation",
+        "section": "Asset",
+        "type": "capitalAssets",
+        "value": 2347551
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "Not Depreciated",
+        "section": "Asset",
+        "type": "capitalAssets",
+        "value": 18566503
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "deferredOutflows",
+        "value": 0
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Asset",
+        "type": "total",
+        "value": 28831798
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "cashAndEquivalents",
+        "value": 1974250
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "investments",
+        "value": 6198601
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "internalBalances",
+        "value": 0
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "dueFromPrimaryGovernment",
+        "value": 194912
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "dueFromComponentUnits",
+        "value": 69153
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "investmentSalesReceivable",
+        "value": 0
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "accountsReceivable",
+        "value": 707281
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "dueFromOtherGovernments",
+        "value": 762371
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "taxesReceivable",
+        "value": 0
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "interestAndDividendsReceivable",
+        "value": 21419
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "mortgagesNotesAndLoansReceivable",
+        "value": 520981
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "securitiesLendingCollateral",
+        "value": 20405
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "inventory",
+        "value": 37012
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "restrictedAssets",
+        "value": 52148
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "otherAssets",
+        "value": 217994
+    },
+    {
+        "category": "Component Units",
+        "subtype": "Net of Depreciation",
+        "section": "Asset",
+        "type": "capitalAssets",
+        "value": 4934701
+    },
+    {
+        "category": "Component Units",
+        "subtype": "Not Depreciated",
+        "section": "Asset",
+        "type": "capitalAssets",
+        "value": 862369
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "deferredOutflows",
+        "value": 8972
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Asset",
+        "type": "total",
+        "value": 16582569
+    },
+    {
+        "category": "Government Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "warrantsPayable",
+        "value": 18691
+    },
+    {
+        "category": "Government Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "investmentPurchasesPayable",
+        "value": 171377
+    },
+    {
+        "category": "Government Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "salariesPayable",
+        "value": 149161
+    },
+    {
+        "category": "Government Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueToPrimaryGovernment",
+        "value": 0
+    },
+    {
+        "category": "Government Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueToComponentUnits",
+        "value": 192351
+    },
+    {
+        "category": "Government Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "accountsPayable",
+        "value": 654736
+    },
+    {
+        "category": "Government Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "interestPayable",
+        "value": 7892
+    },
+    {
+        "category": "Government Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "taxRefundsPayable",
+        "value": 107015
+    },
+    {
+        "category": "Government Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueToOtherGovernments",
+        "value": 266979
+    },
+    {
+        "category": "Government Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "securutiesLendingObligation",
+        "value": 151730
+    },
+    {
+        "category": "Government Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "unearnedRevenue",
+        "value": 11295
+    },
+    {
+        "category": "Government Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "amountsHeldInCustody",
+        "value": 55936
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "warrantsPayable",
+        "value": 409
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "investmentPurchasesPayable",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "salariesPayable",
+        "value": 5232
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueToPrimaryGovernment",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueToComponentUnits",
+        "value": 2561
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "accountsPayable",
+        "value": 93269
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "interestPayable",
+        "value": 10019
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "taxRefundsPayable",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueToOtherGovernments",
+        "value": 46232
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "securutiesLendingObligation",
+        "value": 608
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "unearnedRevenue",
+        "value": 91055
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "amountsHeldInCustody",
+        "value": 14652
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "warrantsPayable",
+        "value": 19100
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "investmentPurchasesPayable",
+        "value": 171377
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "salariesPayable",
+        "value": 154393
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueToPrimaryGovernment",
+        "value": 0
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueToComponentUnits",
+        "value": 194912
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "accountsPayable",
+        "value": 748005
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "interestPayable",
+        "value": 17911
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "taxRefundsPayable",
+        "value": 107015
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueToOtherGovernments",
+        "value": 313211
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "securutiesLendingObligation",
+        "value": 152338
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "unearnedRevenue",
+        "value": 102350
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "amountsHeldInCustody",
+        "value": 70588
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "warrantsPayable",
+        "value": 698
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "investmentPurchasesPayable",
+        "value": 627
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "salariesPayable",
+        "value": 17046
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueToPrimaryGovernment",
+        "value": 5418
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueToComponentUnits",
+        "value": 69153
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "accountsPayable",
+        "value": 532700
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "interestPayable",
+        "value": 75540
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "taxRefundsPayable",
+        "value": 0
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueToOtherGovernments",
+        "value": 102607
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "securutiesLendingObligation",
+        "value": 20405
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "unearnedRevenue",
+        "value": 698937
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "amountsHeldInCustody",
+        "value": 314381
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueWithinOneYear",
+        "value": 85991
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueInMoreThanOneYear",
+        "value": 1858717
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "total",
+        "value": 3731871
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueWithinOneYear",
+        "value": 34393
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueInMoreThanOneYear",
+        "value": 707591
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "total",
+        "value": 1006021
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueWithinOneYear",
+        "value": 120384
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueInMoreThanOneYear",
+        "value": 2566308
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "total",
+        "value": 4737892
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueWithinOneYear",
+        "value": 496094
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "dueInMoreThanOneYear",
+        "value": 7156847
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Liabilities",
+        "type": "total",
+        "value": 9490453
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Net Assets",
+        "type": "investedInCapitalAssets",
+        "value": 19002496
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Net Assets",
+        "type": "investedInCapitalAssets",
+        "value": 900972
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Net Assets",
+        "type": "investedInCapitalAssets",
+        "value": 19903468
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Net Assets",
+        "type": "investedInCapitalAssets",
+        "value": 3005048
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "permanentExpendable",
+        "value": 0
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "permanentNonExpendable",
+        "value": 47379
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "foreverWildStewardshipAccount",
+        "value": 25538
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "alabamaTrustCapital",
+        "value": 3032588
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "localGovernment",
+        "value": 8306
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "education",
+        "value": 208368
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "naturalResourcesAndRecreation",
+        "value": 61357
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "SocialServices",
+        "value": 151583
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "protectionOfPersonsAndProperty",
+        "value": 196444
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "transportation",
+        "value": 358097
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "generalGovernment",
+        "value": 580210
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "debtService",
+        "value": 641
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "capitalProjects",
+        "value": 148970
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "otherPurposes",
+        "value": 106951
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Net Assets",
+        "type": "unrestrited",
+        "value": -1133633
+    },
+    {
+        "category": "Governmental Activities",
+        "subtype": "",
+        "section": "Net Assets",
+        "type": "total",
+        "value": 22795295
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "permanentExpendable",
+        "value": 5111
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "permanentNonExpendable",
+        "value": 6132
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "foreverWildStewardshipAccount",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "alabamaTrustCapital",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "localGovernment",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "education",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "naturalResourcesAndRecreation",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "SocialServices",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "protectionOfPersonsAndProperty",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "transportation",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "generalGovernment",
+        "value": 0
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "debtService",
+        "value": 66883
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "capitalProjects",
+        "value": 26851
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "otherPurposes",
+        "value": 813
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Net Assets",
+        "type": "unrestrited",
+        "value": 291849
+    },
+    {
+        "category": "Business-type Activities",
+        "subtype": "",
+        "section": "Net Assets",
+        "type": "total",
+        "value": 1298611
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "permanentExpendable",
+        "value": 5111
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "permanentNonExpendable",
+        "value": 53511
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "foreverWildStewardshipAccount",
+        "value": 25538
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "alabamaTrustCapital",
+        "value": 3032588
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "localGovernment",
+        "value": 8306
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "education",
+        "value": 208368
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "naturalResourcesAndRecreation",
+        "value": 61357
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "SocialServices",
+        "value": 151583
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "protectionOfPersonsAndProperty",
+        "value": 196444
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "transportation",
+        "value": 358097
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "generalGovernment",
+        "value": 580210
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "debtService",
+        "value": 67524
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "capitalProjects",
+        "value": 175821
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "otherPurposes",
+        "value": 107764
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Net Assets",
+        "type": "unrestrited",
+        "value": -841784
+    },
+    {
+        "category": "Total Primary Government",
+        "subtype": "",
+        "section": "Net Assets",
+        "type": "total",
+        "value": 24093906
+    },
+    {
+        "category": "Component Units",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "permanentExpendable",
+        "value": 850521
+    },
+    {
+        "category": "Component Units",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "permanentNonExpendable",
+        "value": 1199381
+    },
+    {
+        "category": "Component Units",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "foreverWildStewardshipAccount",
+        "value": 0
+    },
+    {
+        "category": "Component Units",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "alabamaTrustCapital",
+        "value": 0
+    },
+    {
+        "category": "Component Units",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "localGovernment",
+        "value": 0
+    },
+    {
+        "category": "Component Units",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "education",
+        "value": 0
+    },
+    {
+        "category": "Component Units",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "naturalResourcesAndRecreation",
+        "value": 0
+    },
+    {
+        "category": "Component Units",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "SocialServices",
+        "value": 0
+    },
+    {
+        "category": "Component Units",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "protectionOfPersonsAndProperty",
+        "value": 0
+    },
+    {
+        "category": "Component Units",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "transportation",
+        "value": 0
+    },
+    {
+        "category": "Component Units",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "generalGovernment",
+        "value": 0
+    },
+    {
+        "category": "Component Units",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "debtService",
+        "value": 868135
+    },
+    {
+        "category": "Component Units",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "capitalProjects",
+        "value": 27239
+    },
+    {
+        "category": "Component Units",
+        "subtype": "restricted",
+        "section": "Net Assets",
+        "type": "otherPurposes",
+        "value": 30328
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Net Assets",
+        "type": "unrestrited",
+        "value": 1111464
+    },
+    {
+        "category": "Component Units",
+        "subtype": "",
+        "section": "Net Assets",
+        "type": "total",
+        "value": 7092116
+    }
+]

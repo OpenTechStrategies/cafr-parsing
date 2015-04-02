@@ -1,1 +1,2 @@
 pdfminer==20140328
+watchdog==0.8.3
