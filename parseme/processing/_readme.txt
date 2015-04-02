@@ -1,0 +1,1 @@
+Ignore files in this folder (if there are any files over a day old, they can be deleted manually)

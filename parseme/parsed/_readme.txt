@@ -1,0 +1,1 @@
+Files in this folder were picked up by the scraper and sucessfully parsed

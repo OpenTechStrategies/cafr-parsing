@@ -1,0 +1,4 @@
+// Everything above the ===== defines the "lead" to this data
+======
+// Everything below the ===== defines the "template" for this data.
+// Specific fields to be mapped are of the form {field_name} -- everything else is processed literally

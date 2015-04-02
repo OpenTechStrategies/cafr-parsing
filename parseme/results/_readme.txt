@@ -1,0 +1,1 @@
+Files in this folder are the resulting output of the scraper
