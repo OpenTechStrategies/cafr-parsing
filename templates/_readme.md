@@ -12,7 +12,7 @@ Templates contain instructions for converting a section of specific categories o
 A template is defined in terms of:
 
 1. type_code - this string is appended to the output file.
-2. export_format - this code exists for potential extensibility, since the system may eventually allow for alternative target taxonomies or export structures.
+2. format - this string exists for potential extensibility, since the system may eventually allow for alternative target taxonomies or export structures.
 3. file_pattern - a regular expression applied to filenames to determine which files the template should be applied to.
 4. anchor - a base 64 encoded version of the literal string to indicate where in the file the template is applied to.
 5. template - this list of line mappings contains one item per line break in the template.  An empty object indicates that the line should be skipped.  Otherwise, the line is processed according to the mapping instructions (see below for details on mapping instruction format).  Note, this system makes the assumption that each line will contain a single value to be mapped.
@@ -20,7 +20,7 @@ A template is defined in terms of:
 ```
 {
 	"type_code": "",
-	"export_format": "",
+	"format": "",
 	"file_pattern": "",
 	"anchor": "",
 	"template": []
