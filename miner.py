@@ -1,10 +1,6 @@
 
 
-import ntpath
-import json
-import re
-import os
-import glob
+import glob, json, ntpath, os, re
 from pdfminer.pdfdocument import PDFDocument
 from pdfminer.pdfparser import PDFParser
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
