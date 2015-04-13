@@ -1,14 +1,10 @@
-# This file contains helper methods to use pdfminer
-
-## DISCLAIMER: This code is written to test ideas as fast as possible.
-## This means that it is actually pretty terribly organized -- files are created in one method and deleted in another, nothing is encapsulated. Etc.
-## Learn no lessons from this code (aside from how to perform the tasks being performed)
-## Once a valid strategy is vetted and agreed on, the code will be refactored to follow actual best practices
 
 
 import ntpath
 import json
 import re
+import os
+import glob
 from pdfminer.pdfdocument import PDFDocument
 from pdfminer.pdfparser import PDFParser
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
@@ -19,8 +15,9 @@ from pdfminer.cmapdb import CMapDB
 from pdfminer.layout import LAParams
 from pdfminer.image import ImageWriter
 
+
 def generate_pdf_text (pdf_path):
-    """Open the pdf document, convert it to text, and return that text"""
+    """Opens a pdf document, converts it to text, and returns that text."""
 
     # Set up input options
     password = ''
@@ -39,7 +36,8 @@ def generate_pdf_text (pdf_path):
     laparams = LAParams()
 
     # Set up the output file
-    outfile = "parseme/processing/" + ntpath.basename(pdf_path) + ".txt"
+    outfile = ntpath.basename(pdf_path) + ".txt"
+
     outfp = file(outfile, 'w')
 
     # Set up pdfminer objects
@@ -61,59 +59,59 @@ def generate_pdf_text (pdf_path):
     with open(outfile) as myFile:
         file_text = myFile.read()
 
+    os.remove(outfile)
+
     return file_text
 
-def get_templates(state_code):
-    """Takes in a state code and returns an array of templates"""
+
+def load_templates(template_directory):
+    """Loads all templates located from the specified directory. Returns the list of templates."""
+    files = glob.glob(template_directory + "/*.txt")
+    templates = []
+    for file in files:
+        template = parse_template(file)
+        templates.append(template)
+    return templates
 
 
-def load_template (template_path):
-    '''This takes in a table template and converts it to a python object'''
-    with open("formats/AL_statewidenetassets.txt") as myFile:
+def parse_template (template_path):
+    """Takes in a specific template path, converts it to a python object, and returns that object."""
+    with open(template_path) as myFile:
         template_text = myFile.read()
 
-    template = {
-        'anchor': "",
-        'lines': []
-    }
 
-    # Parse the current template format
-    pieces = template_text.split("=====")
-    template['anchor'] = pieces[0][:-1]
-    template['lines'] = pieces[1].splitlines()[1:]
 
-    # Templates currently have json on each line
-    for i, line in enumerate(template['lines']):
-        if line == "" or line[0] != "{":
-            template['lines'][i] = ""
-        else:
-            template['lines'][i] = json.loads(line)
-
+    template = json.loads(template_text)
     return template
 
 
-def process_template(template, text):
-    '''Take a template and raw text, return structured data'''
+def invoke_template(template, text):
+    """Takes a template and raw text, returns structured data."""
     result = []
 
-    searched_text = text.split(template['anchor'])
+    split_text = re.split(template["anchor"], text)
+
+    print(template["anchor"])
+    print(len(split_text))
 
     # If the split shows more than 2, the anchor isn't unique
     # If the split shows less than 2, the anchor wasn't found
-    if(len(searched_text) != 2):
+    if(len(split_text) != 2):
         return result
 
-    target_text = searched_text[1].splitlines()[0:len(template['lines'])]
+    text_lines = split_text[1].splitlines()[0:len(template["lines"])]
+
 
     # Go through each line of the template and perform a match
-    for i, template_line in enumerate(template['lines']):
+    for i, template_line in enumerate(template["lines"]):
+
         # Skip any template lines that don't have an object to map to
-        if template_line == "":
+        if template_line == {}:
             continue
 
         # Set up a fresh copy of the result object for this line
         result_line = template_line.copy()
-        target_line = target_text[i].strip()
+        target_line = text_lines[i].strip()
 
         # Parse out the integer value
         value = int("0" + "".join(re.findall(r'\d+', target_line)))
@@ -123,15 +121,40 @@ def process_template(template, text):
             value *= -1
 
         # Set the value for the mapped object based on the value in the cafr
-        result_line['value'] = value
+        result_line["value"] = value
         result.append(result_line)
 
     return result
 
-pdf_file = "data/pdf/AL_cafr2011.pdf"
-template_file = "formats/AL_statewidenetassets.txt"
-loaded_text = generate_pdf_text(pdf_file)
-template = load_template(template_file)
-result = process_template(template,loaded_text)
 
-print(json.dumps(result))
+def process_pdf(pdf_path):
+    """Takes a pdf path and attempts to extract all possible tables from it"""
+
+    # TODO: This shouldn't be invoked every time
+    templates = load_templates("templates")
+    text = generate_pdf_text(pdf_path)
+
+    for template in templates:
+
+        print(template["file_pattern"])
+        print(ntpath.basename(pdf_path))
+
+        # Don't invoke a template that doesn't apply to this file
+        if not re.match(template["file_pattern"], ntpath.basename(pdf_path)):
+            continue
+
+        # Parse the file with this template
+        result = invoke_template(template, text)
+
+        # Move along if the template didn't have a match
+        if result == "":
+            continue
+
+        # Write the resulting output
+        outfile_path = "results/" + os.path.splitext(ntpath.basename(pdf_path))[0] + "-" + template["type_code"] + ".json"
+        with open(outfile_path, "w") as outfile:
+            outfile.write(json.dumps(result))
+
+
+## For now you can test this code by uncommenting and picking a file path
+# process_pdf("data/AL_cafr2011.pdf")

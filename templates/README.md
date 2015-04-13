@@ -15,7 +15,7 @@ A template is defined in terms of:
 2. format - this string exists for potential extensibility, since the system may eventually allow for alternative target taxonomies or export structures.
 3. file_pattern - a regular expression applied to filenames to determine which files the template should be applied to.
 4. anchor - a regular expression used to identify where in the file the template should be applied.
-5. template - this list of line mappings contains one item per line break in the template.  An empty object indicates that the line should be skipped.  Otherwise, the line is processed according to the mapping instructions (see below for details on mapping instruction format).  Note, this system makes the assumption that each line will contain a single value to be mapped.
+5. lines - this list of line mappings contains one item per line break in the template.  An empty object indicates that the line should be skipped.  Otherwise, the line is processed according to the mapping instructions (see below for details on mapping instruction format).  Note, this system makes the assumption that each line will contain a single value to be mapped.
 
 ```
 {
