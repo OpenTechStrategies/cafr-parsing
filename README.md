@@ -1,20 +1,11 @@
 # CAFR Parsing
 Automated data extraction from U.S. state Comprehensive Annual Financial Reports (CAFR).
 
-## Current status
-1. A state cafr is added to the hot folder by a user
-2. The state is identified based on the file name
-3. The cafr PDF is converted to a flat text file using pdfminer's "text" interpreter.
-4. The state's template file(s) are loaded by the miner
-5. The "anchor" of the template (essentially the target table's headers) is used to find the right part of the cafr text file to parse
-6. The text file is iterated over and each line is loaded into the template
-7. At this point we have the data in JSON format
-8. Using the JSON data, output the XML result
-
-### Notes: 
-- The template format is completely thoughtless right now (we need to talk through the schema first).  But it can only get better.
-- Each state will need a template, but that template should work for all years so long as the format doesn't change from year to year
-- The structure of the miner is also completely thoughtless right now -- I wanted to validate the approach before making it robust.
+## Directory Structure
+- **analysis**: various explorations performed around XBRL, CAFR, and PDF converstions.  This is also where the current versions of the working schema are located.
+- **data**: the cafr files that have been downloaded thus far
+- **results*: this is where the outputs of the miner are located.
+- **templates**: this is where table templates should be located.  Any .txt files in this directory will be loaded into the miner.
 
 ## Installation
 
