@@ -4,7 +4,7 @@ Automated data extraction from U.S. state Comprehensive Annual Financial Reports
 ## Directory Structure
 - **analysis**: various explorations performed around XBRL, CAFR, and PDF converstions.  This is also where the current versions of the working schema are located.
 - **data**: the cafr files that have been downloaded thus far
-- **results*: this is where the outputs of the miner are located.
+- **results**: this is where the outputs of the miner are located.
 - **templates**: this is where table templates should be located.  Any .txt files in this directory will be loaded into the miner.
 
 ## Installation
