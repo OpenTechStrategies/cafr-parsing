@@ -87,9 +87,6 @@ def invoke_template(template, text):
 
     split_text = re.split(template["anchor"], text)
 
-    print(template["anchor"])
-    print(len(split_text))
-
     # If the split shows more than 2, the anchor isn't unique
     # If the split shows less than 2, the anchor wasn't found
     if(len(split_text) != 2):
@@ -131,9 +128,6 @@ def process_pdf(pdf_path):
     text = generate_pdf_text(pdf_path)
 
     for template in templates:
-
-        print(template["file_pattern"])
-        print(ntpath.basename(pdf_path))
 
         # Don't invoke a template that doesn't apply to this file
         if not re.match(template["file_pattern"], ntpath.basename(pdf_path)):
