@@ -70,13 +70,15 @@ python --version
 
 ## Usage
 
-`miner.py` parses CAFR files (which are PDF documents) and produces JSON files.  In order to know which tables to extract from the PDF files, `miner.py` needs to also be supplied with a "template" file, which is a manually-constructed JSON file that tells `miner.py` exactly where to find the table(s) to extract, and how to map the data it finds in the PDF to the desired output fields.
+`miner.py` parses CAFR files, which are PDF documents, and produces JSON files, which can be automatically translated to other formats easily (e.g., XBRL, CSV, .xlsx).
 
-The invocation process will be improved soon, but for now, just open up `miner.py` in a text editor and add calls to the end like this:
+In order to know which tables to extract from the PDF files and what their fields mean, `miner.py` must be supplied with a "template" for each table: a manually-constructed JSON file that tells `miner.py` exactly how to recognize that table and how to map the data in the table to the desired output fields.
+
+For now, the invocation process is just to open up `miner.py` in a text editor and add calls to the end like this:
 
         process_pdf("data/AL_cafr2011.pdf")
 
-Once you've set up as many calls as you want, just run `miner.py` (assuming you've already done the setup steps listed above in the "Installation" section):
+Once you've set up as many calls as you want, run `miner.py` (assuming you've already done the setup steps listed above in the "Installation" section):
 
         $ python miner.py
 
