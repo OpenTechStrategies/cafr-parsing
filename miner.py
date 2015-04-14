@@ -147,4 +147,4 @@ def process_pdf(pdf_path):
 
 
 ## For now you can test this code by uncommenting and picking a file path
-# process_pdf("data/AL_cafr2011.pdf")
+process_pdf("data/AL_cafr2010.pdf")
