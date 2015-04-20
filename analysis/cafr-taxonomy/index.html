@@ -1,0 +1,1115 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title></title>
+<style type="text/css">
+			
+                        img.status {
+                        margin-left: 2px; margin-right: 2px; margin-top: 2px; height: 11px; width: 11px;
+                        }
+                        
+                        img.checkbox-column {
+                        height: 11px; width: 11px; vertical-align: top; margin-top: 3px;
+                        }
+                        
+                        img.leaf {
+                        margin-left: 3px; margin-right:3px; margin-top: 2px; margin-bottom: 3px; height: 6px; width 6px;
+                        }
+                        
+                        img.parent {
+                        margin-left: 3px; margin-right:3px; margin-top: 2px; height: 10px; width: 10px;
+                        }
+			
+			th {
+			vertical-align: bottom;
+			
+			}
+			
+			td {
+			vertical-align: top;
+			}
+			
+			td,th {
+			
+			empty-cells: show;
+			}
+			
+			.top-right-border {
+			
+			}
+			
+			.no-border {
+			border-bottom: 0px;
+			border-left: 0px;
+			}
+			
+			
+			
+			
+			table {
+			
+			font-family: Helvetica, sans-serif;
+			font-size: 12px;
+			font-family: "Helvetica Neue", sans-serif;  font-size: 13px;			
+			
+			}
+
+			
+			
+			.wholeDocument {
+			font-family: "Helvetica Neue", sans-serif;  font-size: 13px;
+	
+			}
+		
+			
+			td.subcell {
+			border: none;
+			}
+			
+			td.content {
+			padding-left: 4px;
+			padding-bottom: 2px;
+			padding-top: 1px;
+			padding-right: 3px;
+			}
+			
+			.full {
+			height: 100%;
+			}
+			
+			.heighthack {
+                        
+                            height: 25px;
+                            
+			}
+			
+			div.titlepadding { 
+			padding-right:3px;
+			padding-left:6px;
+			padding-bottom:3px;
+			padding-top: 2px;
+			}
+			
+			
+					.summary_node {
+						background: rgba(0,0,0,.12);
+						margin-bottom: 1px;
+					}
+				
+			
+			div.column {   
+			padding-right: 3px;
+			padding-left: 4px;
+			padding-top: 0px;
+			padding-bottom: 0px;
+			margin-right: 1px;
+			}
+			
+			.labelpadding {
+			padding-right: 3px;
+			padding-top: 1px;
+			padding-left: 2px;
+			}
+			
+			.indicator {
+			white-space: nowrap;
+			text-align:right;
+			margin-right: 0px;
+			vertical-align: top;
+			padding-top: 1px;
+			padding-left: 0px;
+			}
+			
+			.wholedocgutter {
+			
+			}
+			
+			div.row {
+			}
+			
+			div.headerRow {
+			}
+			
+			.expanded {
+			display: inline;
+			}
+			.collapsed {
+			display: none;
+			}
+			
+            div.palette-hit-zone {
+                position: fixed;
+                bottom: 0px;
+				height: 33%;
+                left:50%;
+                width: 66%;
+                margin-left: -33%;
+            }
+
+			div.floating-palette {
+                -webkit-border-radius: 5px;
+                -webkit-transition: opacity is fade-in-out;
+                -webkit-transition-duration: 1s;
+				background-color: rgb(64, 64, 64);
+                opacity:0.7;
+				width: 88px;
+				height: 44px;
+                position: fixed;
+                bottom: 20px;
+                left: 50%;
+                margin-left: -44px;
+			}
+            
+            div.palette-cell {
+                opacity:1;
+                margin-top: 6px;
+                margin-bottom: 6px;
+                position: absolute;
+                height: 32px;
+                width: 32px;
+            }
+            
+            div.cell-divider {
+                position: absolute;
+                margin-top: 6px;
+                margin-bottom: 6px;
+                margin-left: 44px;
+                height: 32px;
+                width:0px;
+                position:absolute;
+                left:0px;
+                border-right:rgb(207, 207, 207) 2px solid;
+            }
+			
+			
+			
+			
+			.note { 
+			padding-left: 5px;
+			padding-right: 3px; 
+			border: none; 
+			color:rgb(84,84,84) ;  font-size: 11px;font-size: 11px;
+			}
+			
+			/* Total table width is 1776
+			Adjusted table width is 2042 */
+			
+			.wholething {
+				width: auto;
+			}
+			
+			
+			table.row {
+				
+						width: 1776px;
+						
+			
+			}
+			
+			
+    .col_width1 { 
+        width: 551px;  /* Actual width is 551 */
+    }
+
+    .col_width2 { 
+        width: 150px;  /* Actual width is 150 */
+    }
+
+    .col_width3 { 
+        width: 625px;  /* Actual width is 625 */
+    }
+
+    .col_width4 { 
+        width: 150px;  /* Actual width is 150 */
+    }
+
+    .col_width5 { 
+        width: 150px;  /* Actual width is 150 */
+    }
+
+    .col_width6 { 
+        width: 150px;  /* Actual width is 150 */
+    }
+
+    .col1 { 
+        
+    }
+
+    .col2 { 
+        
+    }
+
+    .col3 { 
+        
+    }
+
+    .col4 { 
+        
+    }
+
+    .col5 { 
+        
+    }
+
+    .col6 { 
+        
+    }
+
+    .colbackground1 { 
+        
+    }
+
+    .colbackground2 { 
+        
+    }
+
+    .colbackground3 { 
+        
+    }
+
+    .colbackground4 { 
+        
+    }
+
+    .colbackground5 { 
+        
+    }
+
+    .colbackground6 { 
+        
+    }
+
+			
+			/* Level Styles */
+			
+			
+    .columntitle { 
+        font-weight: 600;  
+    }
+
+    .ns-Heading-1 { 
+        color:rgb(50,50,50) ;  font-family: "Helvetica Neue", sans-serif;  font-weight: 300;  font-size: 30px;}
+
+    .ns-Heading-2 { 
+        color:rgb(50,50,50) ;  font-family: "Helvetica Neue", sans-serif;  font-size: 18px;}
+
+    .ns-Heading-3 { 
+        font-family: "Helvetica Neue", sans-serif;  font-weight: 600;  font-size: 13px;}
+
+    .ns-Highlight:-Yellow { 
+        }
+
+    .ns-Highlight:-Red { 
+        }
+
+    .ns-Highlight:-Green { 
+        }
+
+    .ns-Purple { 
+        color:rgb(150,97,207) ;  }
+
+    .ns-Blue { 
+        color:rgb(58,142,237) ;  }
+
+    .ns-Bondi { 
+        color:rgb(0,191,192) ;  }
+
+    .ns-Green { 
+        color:rgb(103,187,53) ;  }
+
+    .ns-Yellow { 
+        color:rgb(255,187,0) ;  }
+
+    .ns-Orange { 
+        color:rgb(255,144,77) ;  }
+
+    .ns-Red { 
+        color:rgb(242,96,119) ;  }
+
+    .ns-Graphite { 
+        color:rgb(107,124,165) ;  }
+
+    .ns-bg-Heading-1 { 
+        }
+
+    .ns-bg-Heading-2 { 
+        }
+
+    .ns-bg-Heading-3 { 
+        }
+
+    .ns-bg-Highlight:-Yellow { 
+        background-color:rgba(255,187,0,0.25) ;  }
+
+    .ns-bg-Highlight:-Red { 
+        background-color:rgba(242,96,119,0.25) ;  }
+
+    .ns-bg-Highlight:-Green { 
+        background-color:rgba(103,187,53,0.25) ;  }
+
+    .ns-bg-Purple { 
+        }
+
+    .ns-bg-Blue { 
+        }
+
+    .ns-bg-Bondi { 
+        }
+
+    .ns-bg-Green { 
+        }
+
+    .ns-bg-Yellow { 
+        }
+
+    .ns-bg-Orange { 
+        }
+
+    .ns-bg-Red { 
+        }
+
+    .ns-bg-Graphite { 
+        }
+
+    .ns-gutter-Heading-1 { 
+        }
+
+    .ns-gutter-Heading-2 { 
+        }
+
+    .ns-gutter-Heading-3 { 
+        }
+
+    .ns-gutter-Highlight:-Yellow { 
+        }
+
+    .ns-gutter-Highlight:-Red { 
+        }
+
+    .ns-gutter-Highlight:-Green { 
+        }
+
+    .ns-gutter-Purple { 
+        }
+
+    .ns-gutter-Blue { 
+        }
+
+    .ns-gutter-Bondi { 
+        }
+
+    .ns-gutter-Green { 
+        }
+
+    .ns-gutter-Yellow { 
+        }
+
+    .ns-gutter-Orange { 
+        }
+
+    .ns-gutter-Red { 
+        }
+
+    .ns-gutter-Graphite { 
+        }
+</style>
+</head>
+<body class="wholeDocument"><table cellspacing="0" cellpadding="0" class="heighthack top-right-border">
+<!--Column Titles--><tr>
+<td class=" colbackground1 col_width1"><div class="columntitle titlepadding">XBRL Label<br>
+</div></td>
+<td class=" colbackground2 col_width2"><div class="columntitle titlepadding">XBRL Type<br>
+</div></td>
+<td class=" colbackground3 col_width3"><div class="columntitle titlepadding">XBRL Name<br>
+</div></td>
+<td class=" colbackground4 col_width4"><div class="columntitle titlepadding">New York<br>
+</div></td>
+<td class=" colbackground5 col_width5"><div class="columntitle titlepadding">Idaho<br>
+</div></td>
+<td class=" colbackground6 col_width6"><div class="columntitle titlepadding">Description<br>
+</div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor1"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level1 levelguttercolor1" style="width: 9px;"></td>
+<td class=" subcell wholedocgutter indicator level1 levelguttercolor1" style="width: 15px;"><img border="0" alt="V" class="parent" src="Expanded.png" title="expanded"></td>
+<td class=" subcell wholedocgutter labelpadding level1 levelguttercolor1" style=" width: 1px; "></td>
+<td class=" content level1 subcell">Statement of Activities<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor1"><div class="full column level1" style="">Table<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor1"><div class="full column level1" style=""></div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor1"><div class="full column level1" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor1"><div class="full column level1" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor1"><div class="full column level1" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 25px;"></td>
+<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 15px;"><img border="0" alt="&gt;" class="parent" src="Collapsed.png" title="collapsed"></td>
+<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
+<td class=" content level2 subcell">Activity Type<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor2"><div class="full column level2" style="">Axis<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor2"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level2 levelguttercolor2" style="width: 25px;"></td>
+<td class=" subcell wholedocgutter indicator level2 levelguttercolor2" style="width: 15px;"><img border="0" alt="V" class="parent" src="Expanded.png" title="expanded"></td>
+<td class=" subcell wholedocgutter labelpadding level2 levelguttercolor2" style=" width: 1px; "></td>
+<td class=" content level2 subcell">Functions and Programs<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor2"><div class="full column level2" style="">Line Item<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor2"><div class="full column level2" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor3"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level3 levelguttercolor3" style="width: 41px;"></td>
+<td class=" subcell wholedocgutter indicator level3 levelguttercolor3" style="width: 15px;"><img border="0" alt="V" class="parent" src="Expanded.png" title="expanded"></td>
+<td class=" subcell wholedocgutter labelpadding level3 levelguttercolor3" style=" width: 1px; "></td>
+<td class=" content level3 subcell">Component Units<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor3"><div class="full column level3" style="">Roll Up<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor4"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level4 levelguttercolor4" style="width: 57px;"></td>
+<td class=" subcell wholedocgutter indicator level4 levelguttercolor4" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level4 levelguttercolor4" style=" width: 1px; "></td>
+<td class=" content level4 subcell">Component Units, Bond Bank Authority<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">statementOfActivitiesComponentUnitsBondBankAuthority<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">Bond Bank Authority<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor4"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level4 levelguttercolor4" style="width: 57px;"></td>
+<td class=" subcell wholedocgutter indicator level4 levelguttercolor4" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level4 levelguttercolor4" style=" width: 1px; "></td>
+<td class=" content level4 subcell">Component Units, College and University Foundation<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style="">statementOfActivitiesComponentUnitsCollegeAndUniversityFoundation<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style="">College and University Foundation<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor4"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level4 levelguttercolor4" style="width: 57px;"></td>
+<td class=" subcell wholedocgutter indicator level4 levelguttercolor4" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level4 levelguttercolor4" style=" width: 1px; "></td>
+<td class=" content level4 subcell">Component Units, General<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">statementOfActivitiesComponentUnitsGeneral<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">Component Units<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor4"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level4 levelguttercolor4" style="width: 57px;"></td>
+<td class=" subcell wholedocgutter indicator level4 levelguttercolor4" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level4 levelguttercolor4" style=" width: 1px; "></td>
+<td class=" content level4 subcell">Component Units, Health Reinsurance<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style="">statementOfActivitiesComponentUnitsHealthReinsurance<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style="">Health Reinsurance<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor4"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level4 levelguttercolor4" style="width: 57px;"></td>
+<td class=" subcell wholedocgutter indicator level4 levelguttercolor4" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level4 levelguttercolor4" style=" width: 1px; "></td>
+<td class=" content level4 subcell">Component Units, Idaho Housing and Finance Association<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">statementOfActivitiesComponentUnitsIdahoHousingAndFinanceAssociation<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">Idaho Housing and Finance Association<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor4"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level4 levelguttercolor4" style="width: 57px;"></td>
+<td class=" subcell wholedocgutter indicator level4 levelguttercolor4" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level4 levelguttercolor4" style=" width: 1px; "></td>
+<td class=" content level4 subcell">Component Units, Petroleum Clean Water Trust Fund<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style="">statementOfActivitiesComponentUnitsPetroliumCleanWaterTrustFund<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style="">Petroleum Clean Water Trust Fund<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor3"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level3 levelguttercolor3" style="width: 41px;"></td>
+<td class=" subcell wholedocgutter indicator level3 levelguttercolor3" style="width: 15px;"><img border="0" alt="V" class="parent" src="Expanded.png" title="expanded"></td>
+<td class=" subcell wholedocgutter labelpadding level3 levelguttercolor3" style=" width: 1px; "></td>
+<td class=" content level3 subcell">General Revenues, Contributions, and Transfers<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor3"><div class="full column level3" style="">Roll Up<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor4"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level4 levelguttercolor4" style="width: 57px;"></td>
+<td class=" subcell wholedocgutter indicator level4 levelguttercolor4" style="width: 15px;"><img border="0" alt="&gt;" class="parent" src="Collapsed.png" title="collapsed"></td>
+<td class=" subcell wholedocgutter labelpadding level4 levelguttercolor4" style=" width: 1px; "></td>
+<td class=" content level4 subcell">General Revenues<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style="">Roll Up<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor4"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level4 levelguttercolor4" style="width: 57px;"></td>
+<td class=" subcell wholedocgutter indicator level4 levelguttercolor4" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level4 levelguttercolor4" style=" width: 1px; "></td>
+<td class=" content level4 subcell">Permanent Endowment Contributions<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style="">statementOfActivitiesPermanentEndowmentContributions<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style="">Permanent Endowment Contributions<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor4"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level4 levelguttercolor4" style="width: 57px;"></td>
+<td class=" subcell wholedocgutter indicator level4 levelguttercolor4" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level4 levelguttercolor4" style=" width: 1px; "></td>
+<td class=" content level4 subcell">Transfers<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">statementOfActivitiesTransfers<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">Transfers<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">Transfers<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor3"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level3 levelguttercolor3" style="width: 41px;"></td>
+<td class=" subcell wholedocgutter indicator level3 levelguttercolor3" style="width: 15px;"><img border="0" alt="V" class="parent" src="Expanded.png" title="expanded"></td>
+<td class=" subcell wholedocgutter labelpadding level3 levelguttercolor3" style=" width: 1px; "></td>
+<td class=" content level3 subcell">Net Asset Summary<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor3"><div class="full column level3" style="">Line Item<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor4"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level4 levelguttercolor4" style="width: 57px;"></td>
+<td class=" subcell wholedocgutter indicator level4 levelguttercolor4" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level4 levelguttercolor4" style=" width: 1px; "></td>
+<td class=" content level4 subcell">Net Assets, Beginning of Year<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">statementOfActivitiesNetAssetsBeginningOfYear<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">Net assets—beginning of year, as restated <br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor4"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level4 levelguttercolor4" style="width: 57px;"></td>
+<td class=" subcell wholedocgutter indicator level4 levelguttercolor4" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level4 levelguttercolor4" style=" width: 1px; "></td>
+<td class=" content level4 subcell">Net Assets, Change<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style="">statementOfActivitiesNetAssetsChange<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style="">Change in net assets<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor4"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level4 levelguttercolor4" style="width: 57px;"></td>
+<td class=" subcell wholedocgutter indicator level4 levelguttercolor4" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level4 levelguttercolor4" style=" width: 1px; "></td>
+<td class=" content level4 subcell">Net Assets, End of Year<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">statementOfActivitiesNetAssetsEndOfYear<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">Net assets—end of year<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor3"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level3 levelguttercolor3" style="width: 41px;"></td>
+<td class=" subcell wholedocgutter indicator level3 levelguttercolor3" style="width: 15px;"><img border="0" alt="V" class="parent" src="Expanded.png" title="expanded"></td>
+<td class=" subcell wholedocgutter labelpadding level3 levelguttercolor3" style=" width: 1px; "></td>
+<td class=" content level3 subcell">Primary Government<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor3"><div class="full column level3" style="">Roll Up<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor3"><div class="full column level3" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor4"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level4 levelguttercolor4" style="width: 57px;"></td>
+<td class=" subcell wholedocgutter indicator level4 levelguttercolor4" style="width: 15px;"><img border="0" alt="V" class="parent" src="Expanded.png" title="expanded"></td>
+<td class=" subcell wholedocgutter labelpadding level4 levelguttercolor4" style=" width: 1px; "></td>
+<td class=" content level4 subcell">Primary Government, Business-type Activities<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">Roll Up<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor5"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level5 levelguttercolor5" style="width: 73px;"></td>
+<td class=" subcell wholedocgutter indicator level5 levelguttercolor5" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level5 levelguttercolor5" style=" width: 1px; "></td>
+<td class=" content level5 subcell">Primary Government, Business-type Activities, Correctional Industries<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">statementOfActivitiesPrimaryGovernmentBusinessTypeActivitiesCorrectionalIndustries<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Correctional Industries<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor5"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level5 levelguttercolor5" style="width: 73px;"></td>
+<td class=" subcell wholedocgutter indicator level5 levelguttercolor5" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level5 levelguttercolor5" style=" width: 1px; "></td>
+<td class=" content level5 subcell">Primary Government, Business-type Activities, Loan<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">statementOfActivitiesPrimaryGovernmentBusinessTypeActivitiesLoan<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">Loan<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor5"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level5 levelguttercolor5" style="width: 73px;"></td>
+<td class=" subcell wholedocgutter indicator level5 levelguttercolor5" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level5 levelguttercolor5" style=" width: 1px; "></td>
+<td class=" content level5 subcell">Primary Government, Business-type Activities, Lottery<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">statementOfActivitiesPrimaryGovernmentBusinessTypeActivitiesLottery<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Lottery<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">State Lottery<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor5"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level5 levelguttercolor5" style="width: 73px;"></td>
+<td class=" subcell wholedocgutter indicator level5 levelguttercolor5" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level5 levelguttercolor5" style=" width: 1px; "></td>
+<td class=" content level5 subcell">Primary Government, Business-type Activities, State Liquor<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">statementOfActivitiesPrimaryGovernmentBusinessTypeActivitiesStateLiquor<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">State Liquor<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor5"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level5 levelguttercolor5" style="width: 73px;"></td>
+<td class=" subcell wholedocgutter indicator level5 levelguttercolor5" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level5 levelguttercolor5" style=" width: 1px; "></td>
+<td class=" content level5 subcell">Primary Government, Business-type Activities, Unemployment Insurance<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">statementOfActivitiesPrimaryGovernmentBusinessTypeActivitiesUnemploymentInsurance<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Unemployment Insurance<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Unemployment Compensation<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor5"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level5 levelguttercolor5" style="width: 73px;"></td>
+<td class=" subcell wholedocgutter indicator level5 levelguttercolor5" style="width: 15px;"><img border="0" alt="V" class="parent" src="Expanded.png" title="expanded"></td>
+<td class=" subcell wholedocgutter labelpadding level5 levelguttercolor5" style=" width: 1px; "></td>
+<td class=" content level5 subcell">Primary Government, Business-type Activities, Universities<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">Line Item<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">statementOfActivitiesPrimaryGovernmentBusinessTypeActivitiesUniversities<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor6"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level6 levelguttercolor6" style="width: 89px;"></td>
+<td class=" subcell wholedocgutter indicator level6 levelguttercolor6" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level6 levelguttercolor6" style=" width: 1px; "></td>
+<td class=" content level6 subcell">Primary Government, Business-type Activities, Universities, City University of New York<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor6"><div class="full column level6" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor6"><div class="full column level6" style="">statementOfActivitiesPrimaryGovernmentBusinessTypeActivitiesUniversitiesCityUniversityOfNewYork<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor6"><div class="full column level6" style="">City University of New York<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor6"><div class="full column level6" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor6"><div class="full column level6" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor6"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level6 levelguttercolor6" style="width: 89px;"></td>
+<td class=" subcell wholedocgutter indicator level6 levelguttercolor6" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level6 levelguttercolor6" style=" width: 1px; "></td>
+<td class=" content level6 subcell">Primary Government, Business-type Activities, Universities, General<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor6"><div class="full column level6" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor6"><div class="full column level6" style="">statementOfActivitiesPrimaryGovernmentBusinessTypeActivitiesUniversitiesGeneral<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor6"><div class="full column level6" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor6"><div class="full column level6" style="">College and University<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor6"><div class="full column level6" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor6"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level6 levelguttercolor6" style="width: 89px;"></td>
+<td class=" subcell wholedocgutter indicator level6 levelguttercolor6" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level6 levelguttercolor6" style=" width: 1px; "></td>
+<td class=" content level6 subcell">Primary Government, Business-type Activities, Universities, State University of New York<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor6"><div class="full column level6" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor6"><div class="full column level6" style="">statementOfActivitiesPrimaryGovernmentBusinessTypeActivitiesUniversitiesStateUniverseityOfNewYork<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor6"><div class="full column level6" style="">State University of New York<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor6"><div class="full column level6" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor6"><div class="full column level6" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor4"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level4 levelguttercolor4" style="width: 57px;"></td>
+<td class=" subcell wholedocgutter indicator level4 levelguttercolor4" style="width: 15px;"><img border="0" alt="V" class="parent" src="Expanded.png" title="expanded"></td>
+<td class=" subcell wholedocgutter labelpadding level4 levelguttercolor4" style=" width: 1px; "></td>
+<td class=" content level4 subcell">Primary Government, Governmental Activities<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style="">Roll Up<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor4"><div class="full column level4" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor5"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level5 levelguttercolor5" style="width: 73px;"></td>
+<td class=" subcell wholedocgutter indicator level5 levelguttercolor5" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level5 levelguttercolor5" style=" width: 1px; "></td>
+<td class=" content level5 subcell">Primary Government, Governmental Activities, Economic Development<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesEconomicDevelopment<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Support and Regulate Business<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Economic Development<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor5"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level5 levelguttercolor5" style="width: 73px;"></td>
+<td class=" subcell wholedocgutter indicator level5 levelguttercolor5" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level5 levelguttercolor5" style=" width: 1px; "></td>
+<td class=" content level5 subcell">Primary Government, Governmental Activities, Education<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesEducation<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">Education<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">Education<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor5"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level5 levelguttercolor5" style="width: 73px;"></td>
+<td class=" subcell wholedocgutter indicator level5 levelguttercolor5" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level5 levelguttercolor5" style=" width: 1px; "></td>
+<td class=" content level5 subcell">Primary Government, Governmental Activities, Environment and Recreation<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesEnvironmentAndRecreation<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Environment and Recreation<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor5"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level5 levelguttercolor5" style="width: 73px;"></td>
+<td class=" subcell wholedocgutter indicator level5 levelguttercolor5" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level5 levelguttercolor5" style=" width: 1px; "></td>
+<td class=" content level5 subcell">Primary Government, Governmental Activities, General<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesGeneral<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">General Government<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">General Government<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor5"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level5 levelguttercolor5" style="width: 73px;"></td>
+<td class=" subcell wholedocgutter indicator level5 levelguttercolor5" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level5 levelguttercolor5" style=" width: 1px; "></td>
+<td class=" content level5 subcell">Primary Government, Governmental Activities, Interest Expense<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesInterestExpense<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Interest on Long-term Debt<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Interest Expense<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor5"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level5 levelguttercolor5" style="width: 73px;"></td>
+<td class=" subcell wholedocgutter indicator level5 levelguttercolor5" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level5 levelguttercolor5" style=" width: 1px; "></td>
+<td class=" content level5 subcell">Primary Government, Governmental Activities, Natural Resources<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesNaturalResources<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">Natural Resources<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor5"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level5 levelguttercolor5" style="width: 73px;"></td>
+<td class=" subcell wholedocgutter indicator level5 levelguttercolor5" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level5 levelguttercolor5" style=" width: 1px; "></td>
+<td class=" content level5 subcell">Primary Government, Governmental Activities, Public Health<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesPublicHealth<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Public Health<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Health and Human Services<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor5"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level5 levelguttercolor5" style="width: 73px;"></td>
+<td class=" subcell wholedocgutter indicator level5 levelguttercolor5" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level5 levelguttercolor5" style=" width: 1px; "></td>
+<td class=" content level5 subcell">Primary Government, Governmental Activities, Public Safety<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesPublicSafety<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">Public Safety<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">Public Safety and Correction<br>
+</div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor5"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level5 levelguttercolor5" style="width: 73px;"></td>
+<td class=" subcell wholedocgutter indicator level5 levelguttercolor5" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level5 levelguttercolor5" style=" width: 1px; "></td>
+<td class=" content level5 subcell">Primary Government, Governmental Activities, Public Welfare<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesPublicWelfare<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style="">Public Welfare<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" altRow full"><div class=" full levelcolor5"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level5 levelguttercolor5" style="width: 73px;"></td>
+<td class=" subcell wholedocgutter indicator level5 levelguttercolor5" style="width: 15px;"><img border="0" alt="*" class="leaf" src="LeafRowHandle.png"></td>
+<td class=" subcell wholedocgutter labelpadding level5 levelguttercolor5" style=" width: 1px; "></td>
+<td class=" content level5 subcell">Primary Government, Governmental Activities, Transportation<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">Concept [Monetary]<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesTransportation<br>
+</div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style="">Transportation<br>
+</div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" altRow full"><div class=" full levelcolor5"><div class="full column level5" style=""></div></div></div></td>
+</tr>
+<tr class="heighthack">
+<td class=" col1 colbackground1 col_width1" style=""><div class=" full"><div class=" full levelcolor1"><table border="0" cellspacing="0" cellpadding="0" style="height:100%" class=" col_width1 col1"><tr>
+<td class=" subcell wholedocgutter level1 levelguttercolor1" style="width: 9px;"></td>
+<td class=" subcell wholedocgutter indicator level1 levelguttercolor1" style="width: 15px;"><img border="0" alt="&gt;" class="parent" src="Collapsed.png" title="collapsed"></td>
+<td class=" subcell wholedocgutter labelpadding level1 levelguttercolor1" style=" width: 1px; "></td>
+<td class=" content level1 subcell">Statement of Net Assets<br>
+</td>
+</tr></table></div></div></td>
+<td class=" col2 colbackground2 col_width2" style=""><div class=" full"><div class=" full levelcolor1"><div class="full column level1" style="">Table<br>
+</div></div></div></td>
+<td class=" col3 colbackground3 col_width3" style=""><div class=" full"><div class=" full levelcolor1"><div class="full column level1" style=""></div></div></div></td>
+<td class=" col4 colbackground4 col_width4" style=""><div class=" full"><div class=" full levelcolor1"><div class="full column level1" style=""></div></div></div></td>
+<td class=" col5 colbackground5 col_width5" style=""><div class=" full"><div class=" full levelcolor1"><div class="full column level1" style=""></div></div></div></td>
+<td class=" col6 colbackground6 col_width6" style=""><div class=" full"><div class=" full levelcolor1"><div class="full column level1" style=""></div></div></div></td>
+</tr>
+</table></body>
+</html>
