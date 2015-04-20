@@ -71,3 +71,9 @@ These are resources that were helpful while exploring:
 
 - I want [basic information on using pdfminer](http://www.unixuser.org/~euske/python/pdfminer/programming.html).
 - I want [a more complete example of a pdfminer parser](http://denis.papathanasiou.org/2010/08/04/extracting-text-images-from-pdf-files/).
+
+### XBRL Taxonomy Information
+- [10 common mistakes in creating xbrl taxonomies](http://xbrl.squarespace.com/journal/2009/4/26/ten-common-mistakes-in-creating-xbrl-taxonomies.html)
+- [Modeling Business Information Using XBRL](http://web.archive.org/web/20090725093826/http://www.xbrlsite.com/EvolutionOfPatterns-2009-01-08.htm)
+- [High Level XBRL components](http://www.dummies.com/how-to/content/xbrl-for-dummies-cheat-sheet.html)
+- [XBRL Style Guide](http://web.archive.org/web/20120619140854/http://www.xbrl.org/us/usfrtf/XBRL-StyleGuide-RECOMMENDATION-2007-03-08.doc)
