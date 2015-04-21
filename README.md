@@ -101,3 +101,5 @@ These are resources that were helpful while exploring:
 - [High Level XBRL components](http://www.dummies.com/how-to/content/xbrl-for-dummies-cheat-sheet.html)
 - [XBRL Style Guide](http://web.archive.org/web/20120619140854/http://www.xbrl.org/us/usfrtf/XBRL-StyleGuide-RECOMMENDATION-2007-03-08.doc)
 - [Taxonomy Documentation](http://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5.1)
+- [Taxonomy Examples](http://www.xbrlsite.com/DigitalFinancialReporting/Metapatterns/2012-09-30/)
+- [XBRL in Plain English](http://www.batavia-xbrl.com/downloads/XBRLinPlainEnglishv1.1.pdf)
