@@ -7,15 +7,37 @@
   xmlns:nonnum="http://www.xbrl.org/dtr/type/non-numeric"
   xmlns:generic="http://xbrl.org/2008/generic"
   xmlns:xbrldt="http://xbrl.org/2005/xbrldt"
-  targetNamespace="http://www.opentechstrategies.com/xbrl/taxonomy/cafr/2015-04-20">
+  targetNamespace="http://www.opentechstrategies.com/cafr-2015-04-20">
   <annotation>
     <appinfo>
       <link:linkbaseRef xlink:type="simple" xlink:href="cafr-label.xml" xlink:role="http://www.xbrl.org/2003/role/labelLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" />
       <link:linkbaseRef xlink:type="simple" xlink:href="cafr-presentation.xml" xlink:role="http://www.xbrl.org/2003/role/presentationLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" />
+      <link:linkbaseRef xlink:type="simple" xlink:href="cafr-definition.xml" xlink:role="http://www.xbrl.org/2003/role/definitionLinkbaseRef" xlink:arcrole="http://www.w3.org/1999/xlink/properties/linkbase" />
+      <link:roleType roleURI="http://www.opentechstrategies.com/cafr_statementOfActivities" id="cafr_statementOfActivities">
+        <link:definition>Statement of Activities</link:definition>
+        <link:usedOn>link:presentationLink</link:usedOn>
+      </link:roleType>
+      <link:roleType roleURI="http://www.opentechstrategies.com/cafr_statementOfActivitiesActivityDimension" id="cafr_statementOfActivitiesActivityDimension">
+        <link:definition>Activity type for statement of activities</link:definition>
+        <link:usedOn>link:definitionLink</link:usedOn>
+      </link:roleType>
     </appinfo>
   </annotation>
   <import namespace="http://www.xbrl.org/2003/instance" schemaLocation="http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"/>
-  <element id="cafr_root" name="root" xbrli:periodType="instant" type="xbrli:monetaryItemType" xbrli:balance="credit" substitutionGroup="xbrli:item" abstract="true" nillable="true"/>
+  <import namespace="http://xbrl.org/2005/xbrldt" schemaLocation="http://www.xbrl.org/2005/xbrldt-2005.xsd" />
+  <import namespace="http://xbrl.org/2006/xbrldi" schemaLocation="http://www.xbrl.org/2006/xbrldi-2006.xsd" />
+
+  <element id="cafr_dimension_statementOfActivitiesActivity" name="dimension_statementOfActivitiesActivity" substitutionGroup="xbrldt:dimensionItem" type="xbrli:stringItemType" abstract="true" xbrli:periodType="instant" />
+  <element id="cafr_domain_statementOfActivitiesActivity" name="domain_statementOfActivitiesActivity" substitutionGroup="xbrldt:dimensionItem" type="xbrli:stringItemType" abstract="true" xbrli:periodType="instant" />
+  <element id="cafr_statementOfActivitiesActivityComponentUnits" name="statementOfActivitiesActivityComponentUnits" substitutionGroup="xbrldt:stringItemType" type="xbrli:stringItemType" xbrli:periodType="instant" />
+  <element id="cafr_statementOfActivitiesActivitityExpenses" name="statementOfActivitiesActivitityExpenses" substitutionGroup="xbrldt:stringItemType" type="xbrli:stringItemType" xbrli:periodType="instant" />
+  <element id="cafr_statementOfActivitiesActivitityBusinessTypeActivities" name="statementOfActivitiesActivitityBusinessTypeActivities" substitutionGroup="xbrldt:stringItemType" type="xbrli:stringItemType" xbrli:periodType="instant" />
+  <element id="cafr_statementOfActivitiesActivitityGovernmentalActivities" name="statementOfActivitiesActivitityGovernmentalActivities" substitutionGroup="xbrldt:stringItemType" type="xbrli:stringItemType" xbrli:periodType="instant" />
+  <element id="cafr_statementOfActivitiesActivitityCapitalGrantsAndContributions" name="statementOfActivitiesActivitityCapitalGrantsAndContributions" substitutionGroup="xbrldt:stringItemType" type="xbrli:stringItemType" xbrli:periodType="instant" />
+  <element id="cafr_statementOfActivitiesActivitityChargesForServices" name="statementOfActivitiesActivitityChargesForServices" substitutionGroup="xbrldt:stringItemType" type="xbrli:stringItemType" xbrli:periodType="instant" />
+  <element id="cafr_statementOfActivitiesActivitityOperatingGrantsAndContributions" name="statementOfActivitiesActivitityOperatingGrantsAndContributions" substitutionGroup="xbrldt:stringItemType" type="xbrli:stringItemType" xbrli:periodType="instant" />
+
+  <element id="cafr_statementOfActivities" name="statementOfActivities" xbrli:periodType="instant" type="xbrli:stringItemType" substitutionGroup="xbrli:item" abstract="true" nillable="true"/>
   <element id="cafr_statementOfActivitiesFunctionsAndProgramsLineItem" name="statementOfActivitiesFunctionsAndProgramsLineItem" xbrli:periodType="instant" type="xbrli:monetaryItemType" xbrli:balance="credit" substitutionGroup="xbrli:item" nillable="true"/>
   <element id="cafr_statementOfActivitiesComponentUnitsTotal" name="statementOfActivitiesComponentUnitsTotal" xbrli:periodType="instant" type="xbrli:monetaryItemType" xbrli:balance="credit" substitutionGroup="xbrli:item" nillable="true"/>
   <element id="cafr_statementOfActivitiesComponentUnitsBondBankAuthority" name="statementOfActivitiesComponentUnitsBondBankAuthority" xbrli:periodType="instant" type="xbrli:monetaryItemType" xbrli:balance="credit" substitutionGroup="xbrli:item" nillable="true"/>

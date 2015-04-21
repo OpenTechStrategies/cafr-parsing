@@ -1,6 +1,7 @@
 
 
 import glob, json, ntpath, os, re
+import xml.etree.cElementTree as ET
 from pdfminer.pdfdocument import PDFDocument
 from pdfminer.pdfparser import PDFParser
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
@@ -146,5 +147,54 @@ def process_pdf(pdf_path):
             outfile.write(json.dumps(result))
 
 
+# NOTE: This method does NOT BELONG HERE (Just getting a first version written)
+def generate_xbrl_output(json_result):
+    """Takes a JSON string and generates an XBRL document from it"""
+    root = ET.Element("xbrl", {
+        "xmlns":"http://www.xbrl.org/2003/instance",
+        "xmlns:xbrli":"http://www.xbrl.org/2003/instance",
+        "xmlns:link":"http://www.xbrl.org/2003/linkbase" ,
+        "xmlns:xlink":"http://www.w3.org/1999/xlink" ,
+        "xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance" ,
+        "xmlns:xbrldi":"http://xbrl.org/2006/xbrldi" ,
+        "xmlns:cafr":"http://www.xbrlsite.com/DigitalFinancialReporting/Metapattern/RollUp" ,
+        "xmlns:iso4217":"http://www.xbrl.org/2003/iso4217" ,
+        "xsi:schemaLocation":"http://xbrl.org/2006/xbrldi http://www.xbrl.org/2006/xbrldi-2006.xsd"
+    })
+
+    xsdLink = ET.SubElement(root, "link:schemaRef", {
+        "xlink:href":"cafr-2015-04-20.xsd"
+    })
+
+    baseContext = ET.SubElement(root, "context", {
+        "id":"baseContext"
+    })
+    baseContextEntity = ET.SubElement(baseContext, "entity")
+    baseContextEntityIdentifier = ET.SubElement(baseContext, "identifier", {
+        "scheme": "http://www.opentechstrategies.com"
+    })
+    baseContextEntityIdentifier.text = "CAFR"
+
+    moneyUnit = ET.SubElement(root, "unit", {
+        "id": "U-Monetary"
+    });
+    moneyUnitMeasure = ET.SubElement(moneyUnit, "measure")
+    moneyUnitMeasure.text = "iso4217:USD"
+
+    for i, json_fact in enumerate(json_result):
+        concept = fact["xbrl_concept"]
+        value = fact["value"]
+        dimensions = fact["xbrl_dimensions"]
+        xml_fact = ET.SubElement(root, "cafr:" + concept, {
+            "contextRef": "baseContext",
+            "unitRef": "U-Monetary",
+            "decimals": "INF"
+        })
+        xml_fact.text = value
+
+    tree = ET.ElementTree(root)
+    tree.write("test.xml")
+
 ## For now you can test this code by uncommenting and picking a file path
-process_pdf("data/AL_cafr2010.pdf")
+#process_pdf("data/AL_cafr2010.pdf")
+generate_xbrl_output([])

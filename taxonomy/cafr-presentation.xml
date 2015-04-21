@@ -6,8 +6,9 @@
   xmlns:xlink="http://www.w3.org/1999/xlink"
   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xmlns:sample="http://www.sample.com/2006-01-01">
-  <labelLink xlink:type="extended" xlink:role="http://www.xbrl.org/2003/role/link">
-    <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_root" xlink:label="concept_root"/>
+  <roleRef xlink:type="simple" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivities" roleURI="http://www.opentechstrategies.com/cafr_statementOfActivities" />
+  <presentationLink xlink:type="extended" xlink:role="http://www.opentechstrategies.com/cafr_statementOfActivities">
+    <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivities" xlink:label="concept_statementOfActivities"/>
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesFunctionsAndProgramsLineItem" xlink:label="concept_statementOfActivitiesFunctionsAndProgramsLineItem"/>
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesComponentUnitsTotal" xlink:label="concept_statementOfActivitiesComponentUnitsTotal"/>
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesComponentUnitsBondBankAuthority" xlink:label="concept_statementOfActivitiesComponentUnitsBondBankAuthority"/>
@@ -60,7 +61,7 @@
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesPublicWelfare" xlink:label="concept_statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesPublicWelfare"/>
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesTransportation" xlink:label="concept_statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesTransportation"/>
 
-    <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="concept_root" xlink:to="concept_statementOfActivitiesFunctionsAndProgramsLineItem" order="1" priority="0" use="optional" />
+    <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="concept_statementOfActivities" xlink:to="concept_statementOfActivitiesFunctionsAndProgramsLineItem" order="1" priority="0" use="optional" />
 
     <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="concept_statementOfActivitiesFunctionsAndProgramsLineItem" xlink:to="concept_statementOfActivitiesComponentUnitsTotal" order="1" priority="0" use="optional" />
     <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="concept_statementOfActivitiesFunctionsAndProgramsLineItem" xlink:to="concept_statementOfActivitiesGeneralRevenuesContributionsAndTransfersTotal" order="2" priority="0" use="optional" />
@@ -121,5 +122,5 @@
     <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="concept_statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesTotal" xlink:to="concept_statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesPublicSafety" order="8" priority="0" use="optional" />
     <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="concept_statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesTotal" xlink:to="concept_statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesPublicWelfare" order="9" priority="0" use="optional" />
     <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="concept_statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesTotal" xlink:to="concept_statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesTransportation" order="10" priority="0" use="optional" />
-  </labelLink>
+  </presentationLink>
 </linkbase>
