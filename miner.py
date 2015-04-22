@@ -36,28 +36,29 @@ def generate_pdf_text (pdf_path):
     # Set up the output file
     outfile = ntpath.basename(pdf_path) + ".txt"
 
-    outfp = file(outfile, 'w')
+    if(not os.path.isfile(outfile)):
+        outfp = file(outfile, 'w')
 
-    # Set up pdfminer objects
-    rsrcmgr = PDFResourceManager(caching=caching)
-    device = TextConverter(rsrcmgr, outfp, codec=codec, laparams=laparams,
-                               imagewriter=imagewriter)
-    
-    fp = file(pdf_path, 'rb')
-    interpreter = PDFPageInterpreter(rsrcmgr, device)
-    for page in PDFPage.get_pages(fp, pagenos,
-                                  maxpages=maxpages, 
-                                  caching=caching, check_extractable=False):
-        page.rotate = (page.rotate+rotation) % 360
-        interpreter.process_page(page)
-    fp.close()
-    device.close()
-    outfp.close()
+        # Set up pdfminer objects
+        rsrcmgr = PDFResourceManager(caching=caching)
+        device = TextConverter(rsrcmgr, outfp, codec=codec, laparams=laparams,
+                                   imagewriter=imagewriter)
+        
+        fp = file(pdf_path, 'rb')
+        interpreter = PDFPageInterpreter(rsrcmgr, device)
+        for page in PDFPage.get_pages(fp, pagenos,
+                                      maxpages=maxpages, 
+                                      caching=caching, check_extractable=False):
+            page.rotate = (page.rotate+rotation) % 360
+            interpreter.process_page(page)
+        fp.close()
+        device.close()
+        outfp.close()
 
     with open(outfile) as myFile:
         file_text = myFile.read()
 
-    os.remove(outfile)
+    #os.remove(outfile)
 
     return file_text
 
@@ -92,7 +93,32 @@ def invoke_template(template, text):
     if(len(split_text) != 2):
         return result
 
-    text_lines = split_text[1].splitlines()[0:len(template["lines"])]
+    # TODO: "10" is an arbitrary high number to ensure we extract enough lines
+    # In reality, we need to extract the next value DURING the template iteration, but there isn't time to refactor this second
+    # (Sorry.)
+    text_lines = split_text[1].splitlines()[0:len(template["lines"]) * 10]
+
+    # Extract lines with numeric values
+    value_lines = []
+    for text_line in text_lines:
+        target_line = text_line.strip()
+
+        numeric_line = "".join(re.findall(r'\d+', target_line))
+        alpha_line = "".join(re.findall(r'[a-zA-Z]+', target_line))
+        
+        # We don't want any lines with words in them
+        # We don't want any lines without numbers in them
+        if(numeric_line == "" or alpha_line != ""):
+            continue
+
+        # Parse out the integer value
+        value = int("0" + numeric_line)
+
+        # Is this a negative number
+        if len(target_line) > 0 and (target_line[0] == "-" or (target_line[0] == "(" and target_line[-1] == ")")):
+            value *= -1
+
+        value_lines.append(value)
 
 
     # Go through each line of the template and perform a match
@@ -104,14 +130,7 @@ def invoke_template(template, text):
 
         # Set up a fresh copy of the result object for this line
         result_line = template_line.copy()
-        target_line = text_lines[i].strip()
-
-        # Parse out the integer value
-        value = int("0" + "".join(re.findall(r'\d+', target_line)))
-
-        # Is this a negative number
-        if len(target_line) > 0 and (target_line[0] == "-" or (target_line[0] == "(" and target_line[-1] == ")")):
-            value *= -1
+        value = value_lines[i]
 
         # Set the value for the mapped object based on the value in the cafr
         result_line["value"] = value
@@ -256,10 +275,10 @@ def load_results_json(json_path):
 
 
 ## For now you can test this code by uncommenting and picking a file path
-#process_pdf("data/NY_cafr2010.pdf")
-#process_pdf("data/NY_cafr2011.pdf")
-#process_pdf("data/NY_cafr2012.pdf")
-process_pdf("data/NY_cafr2013.pdf")
-process_pdf("data/NY_cafr2014.pdf")
+process_pdf("data/ID_cafr2010.pdf")
+process_pdf("data/ID_cafr2011.pdf")
+process_pdf("data/ID_cafr2012.pdf")
+process_pdf("data/ID_cafr2013.pdf")
+process_pdf("data/ID_cafr2014.pdf")
 # results_json = load_results_json("results/NY_cafr2010-statement_of_activities.json")
 # generate_xbrl_output(results_json)
