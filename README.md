@@ -2,10 +2,31 @@
 Automated data extraction from U.S. state Comprehensive Annual Financial Reports (CAFR).
 
 ## Directory Structure
-- **analysis**: Various explorations performed around XBRL, CAFR, and PDF conversions.  This is also where the current versions of the working schema are located.
+- **analysis**: Various explorations performed around XBRL, CAFR, and PDF conversions.  Everything in this folder is purely documented thought process.  Nothing in here is used by the system.
 - **data**: The state CAFR files that have been downloaded thus far.
-- **results**: Where `miner.py` places its output.
+- **results**: Where `miner.py` places its output.  This folder should be empty on the repository.
 - **templates**: Where table templates (explained below) should be located.  Any .txt files in this directory will be loaded automatically by `miner.py`.
+- **taxonomy**: The XBRL Taxonomy
+
+## Instructions
+### Generating XBRL
+
+1. Go through the installation process described in this document.
+2. Activate the virtualenv
+3. Run "miner.py" (`python miner.py`)
+
+This process will take approximately 30 seconds per PDF and will generate the XBRL instance from the PDFs inside of the `results` directory.
+
+### Viewing XBRL
+
+XBRL is not particularly useful to humans without software to render the content.
+
+Example CSV versions, which were created by an XBRL viewer using the output of this tool, can be found in the `analysis/examples/csv_export` folder.
+
+1. Download and install an [XBRL viewer](http://www.arelle.org).
+2. Copy the taxonomy files (located in the taxonomy directory) into a working folder of your choosing.
+3. Copy the results files (located in the results directory) into that working folder.
+4. Open the results files in the XBRL viewer.
 
 ## Installation
 
@@ -103,3 +124,11 @@ These are resources that were helpful while exploring:
 - [Taxonomy Documentation](http://www.xbrl.org/Specification/XBRL-2.1/REC-2003-12-31/XBRL-2.1-REC-2003-12-31+corrected-errata-2013-02-20.html#_5.1)
 - [Taxonomy Examples](http://www.xbrlsite.com/DigitalFinancialReporting/Metapatterns/2012-09-30/)
 - [XBRL in Plain English](http://www.batavia-xbrl.com/downloads/XBRLinPlainEnglishv1.1.pdf)
+
+## Next Steps
+
+- There are dozens of TODO flags scattered throughout the code base.  Some of are minor, some are major.
+- Continued refinement of the taxonomy structure.
+- Tools to assist in template generation.
+- Command line tools to run the miner from the command line.
+- Validation tools to identify when a template no longer matches the schema.
