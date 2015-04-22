@@ -91,9 +91,9 @@ It may take a while to run, possibly minutes.  When it's done, the results will 
 
 ## Viewing XBRL
 
-XBRL is not particularly useful to humans without software to render the content. Example CSV output, which were created by exporting the XBRL output to CSV with an XBRL viewer, can be found in the `example-output/xbrl-csv_export` directory.  Note when reading the CSVs that the columns may appear in a different order than they do in the original PDFs.
+XBRL is not particularly useful to humans without software to render the content. Example CSV output, which were created by exporting the XBRL output to CSV with an XBRL viewer, can be found in the `example-output/csv` directory.  Even more readable examples in XLSX format are located in the `example-output/xlsx` directory.  Note when reading the CSV and XLSX files that the columns may appear in a different order than they do in the original PDFs.
 
-Alternatively, examples of XBRL output can be found in the `example-output/xbrl_export` directory
+Alternatively, examples of XBRL output can be found in the `example-output/xbrl-xml` directory
 
 To view the XBRL directly:
 
