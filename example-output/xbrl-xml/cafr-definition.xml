@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<linkbase
+  xmlns="http://www.xbrl.org/2003/linkbase"
+  xmlns:xbrli="http://www.xbrl.org/2003/instance"
+  xsi:schemaLocation="http://www.xbrl.org/2003/instance http://www.xbrl.org/2003/xbrl-instance-2003-12-31.xsd"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns:sample="http://www.sample.com/2006-01-01">
+  <roleRef xlink:type="simple" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesActivityDimension" roleURI="http://www.sample.com/cafr_statementOfActivitiesActivityDimension" />
+  <definitionLink xlink:type="extended" xlink:role="http://www.sample.com/cafr_statementOfActivitiesActivityDimension" >
+    <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_dimension_statementOfActivitiesActivity" xlink:label="dimension_statementOfActivitiesActivity" />
+    <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_domain_statementOfActivitiesActivity" xlink:label="domain_statementOfActivitiesActivity" />
+    <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesActivitityComponentUnits" xlink:label="statementOfActivitiesActivitityComponentUnits" />
+    <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesActivitityExpenses" xlink:label="statementOfActivitiesActivitityExpenses" />
+    <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesActivitityBusinessTypeActivities" xlink:label="statementOfActivitiesActivitityBusinessTypeActivities" />
+    <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesActivitityGovernmentalActivities" xlink:label="statementOfActivitiesActivitityGovernmentalActivities" />
+    <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesActivitityCapitalGrantsAndContributions" xlink:label="statementOfActivitiesActivitityCapitalGrantsAndContributions" />
+    <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesActivitityChargesForServices" xlink:label="statementOfActivitiesActivitityChargesForServices" />
+    <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesActivitityOperatingGrantsAndContributions" xlink:label="statementOfActivitiesActivitityOperatingGrantsAndContributions" />
+
+    <definitionArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/int/dim/arcrole/dimension-domain" xlink:from="dimension_statementOfActivitiesActivity" xlink:to="domain_statementOfActivitiesActivity" order="1" priority="0" use="optional" />
+
+    <definitionArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/int/dim/arcrole/domain-member" xlink:from="domain_statementOfActivitiesActivity" xlink:to="statementOfActivitiesActivitityComponentUnits" order="1" priority="0" use="optional" />
+    <definitionArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/int/dim/arcrole/domain-member" xlink:from="domain_statementOfActivitiesActivity" xlink:to="statementOfActivitiesActivitityExpenses" order="2" priority="0" use="optional" />
+    <definitionArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/int/dim/arcrole/domain-member" xlink:from="domain_statementOfActivitiesActivity" xlink:to="statementOfActivitiesActivitityBusinessTypeActivities" order="3" priority="0" use="optional" />
+    <definitionArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/int/dim/arcrole/domain-member" xlink:from="domain_statementOfActivitiesActivity" xlink:to="statementOfActivitiesActivitityGovernmentalActivities" order="4" priority="0" use="optional" />
+    <definitionArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/int/dim/arcrole/domain-member" xlink:from="domain_statementOfActivitiesActivity" xlink:to="statementOfActivitiesActivitityCapitalGrantsAndContributions" order="5" priority="0" use="optional" />
+    <definitionArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/int/dim/arcrole/domain-member" xlink:from="domain_statementOfActivitiesActivity" xlink:to="statementOfActivitiesActivitityChargesForServices" order="6" priority="0" use="optional" />
+    <definitionArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/int/dim/arcrole/domain-member" xlink:from="domain_statementOfActivitiesActivity" xlink:to="statementOfActivitiesActivitityOperatingGrantsAndContributions" order="7" priority="0" use="optional" />
+
+  </definitionLink>
+</linkbase>

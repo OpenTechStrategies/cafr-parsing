@@ -135,7 +135,6 @@ def invoke_template(template, text):
         # Set the value for the mapped object based on the value in the cafr
         result_line["value"] = value
         result.append(result_line)
-        print(str(value) + "\t\t" + str(template_line))
 
     return result
 
