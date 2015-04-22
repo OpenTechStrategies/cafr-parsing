@@ -115,7 +115,8 @@ def invoke_template(template, text):
         value = int("0" + numeric_line)
 
         # Is this a negative number
-        if len(target_line) > 0 and (target_line[0] == "-" or (target_line[0] == "(" and target_line[-1] == ")")):
+        negcheck_line = re.findall(r'[\d()\-]', target_line)
+        if len(negcheck_line) > 0 and (negcheck_line[0] == "-" or (negcheck_line[0] == "(" and negcheck_line[-1] == ")")):
             value *= -1
 
         value_lines.append(value)
