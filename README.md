@@ -2,11 +2,11 @@
 Automated data extraction from U.S. state Comprehensive Annual Financial Reports (CAFR).
 
 ## Directory Structure
-- **analysis**: Various explorations performed around XBRL, CAFR, and PDF conversions.  Everything in this folder is purely documented thought process.  Nothing in here is used by the system.
+- **taxonomy**: The XBRL Taxonomy
+- **templates**: Where table templates (explained below) should be located.  Any .txt files in this directory will be loaded automatically by `miner.py`.
 - **data**: The state CAFR files that have been downloaded thus far.
 - **results**: Where `miner.py` places its output.  This folder should be empty on the repository.
-- **templates**: Where table templates (explained below) should be located.  Any .txt files in this directory will be loaded automatically by `miner.py`.
-- **taxonomy**: The XBRL Taxonomy
+- **analysis**: Various explorations performed around XBRL, CAFR, and PDF conversions.  Everything in this folder is purely documented thought process.  Nothing in here is used by the system.
 
 ## Installation
 
