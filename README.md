@@ -15,13 +15,13 @@ Automated data extraction from U.S. state Comprehensive Annual Financial Reports
 2. Activate the virtualenv
 3. Run "miner.py" (`python miner.py`)
 
-This process will take approximately 30 seconds per PDF and will generate the XBRL instance from the PDFs inside of the `results` directory.
+This process will take approximately 30 seconds per PDF and will generate the XBRL instances inside of the `results` directory.
 
 ### Viewing XBRL
 
-XBRL is not particularly useful to humans without software to render the content.
+XBRL is not particularly useful to humans without software to render the content. Example CSV output, which were created by exporting the XBRL output to CSV with an XBRL viewer, can be found in the `analysis/examples/csv_export` folder.
 
-Example CSV versions, which were created by an XBRL viewer using the output of this tool, can be found in the `analysis/examples/csv_export` folder.
+To view the XBRL directly:
 
 1. Download and install an [XBRL viewer](http://www.arelle.org).
 2. Copy the taxonomy files (located in the taxonomy directory) into a working folder of your choosing.
