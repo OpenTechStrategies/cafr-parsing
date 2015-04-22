@@ -19,7 +19,9 @@ This process will take approximately 30 seconds per PDF and will generate the XB
 
 ### Viewing XBRL
 
-XBRL is not particularly useful to humans without software to render the content. Example CSV output, which were created by exporting the XBRL output to CSV with an XBRL viewer, can be found in the `analysis/examples/csv_export` folder.
+XBRL is not particularly useful to humans without software to render the content. Example CSV output, which were created by exporting the XBRL output to CSV with an XBRL viewer, can be found in the `analysis/examples/xbrl-csv_export` directory.
+
+Alternatively, examples of XBRL output can be found in the `analysis/examples/xbrl_export` directory
 
 To view the XBRL directly:
 
@@ -129,6 +131,7 @@ These are resources that were helpful while exploring:
 
 - There are dozens of TODO flags scattered throughout the code base.  Some of are minor, some are major.
 - Continued refinement of the taxonomy structure.
+- Creation of additional templates for additional states.
 - Tools to assist in template generation.
 - Command line tools to run the miner from the command line.
 - Validation tools to identify when a template no longer matches the schema.
