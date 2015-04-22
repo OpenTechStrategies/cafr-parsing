@@ -2,6 +2,7 @@
 
 import glob, json, ntpath, os, re
 import xml.etree.cElementTree as ET
+import itertools
 from pdfminer.pdfdocument import PDFDocument
 from pdfminer.pdfparser import PDFParser
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
@@ -45,8 +46,8 @@ def generate_pdf_text (pdf_path):
     fp = file(pdf_path, 'rb')
     interpreter = PDFPageInterpreter(rsrcmgr, device)
     for page in PDFPage.get_pages(fp, pagenos,
-                                  maxpages=maxpages, password=password,
-                                  caching=caching, check_extractable=True):
+                                  maxpages=maxpages, 
+                                  caching=caching, check_extractable=False):
         page.rotate = (page.rotate+rotation) % 360
         interpreter.process_page(page)
     fp.close()
@@ -75,8 +76,6 @@ def parse_template (template_path):
     """Takes in a specific template path, converts it to a python object, and returns that object."""
     with open(template_path) as myFile:
         template_text = myFile.read()
-
-
 
     template = json.loads(template_text)
     return template
@@ -135,21 +134,56 @@ def process_pdf(pdf_path):
             continue
 
         # Parse the file with this template
-        result = invoke_template(template, text)
+        json_result = invoke_template(template, text)
 
         # Move along if the template didn't have a match
-        if result == "":
+        if json_result == "":
             continue
 
+        # Convert to XBRL
+        xbrl_result = generate_xbrl_tree(json_result)
+
         # Write the resulting output
-        outfile_path = "results/" + os.path.splitext(ntpath.basename(pdf_path))[0] + "-" + template["type_code"] + ".json"
-        with open(outfile_path, "w") as outfile:
-            outfile.write(json.dumps(result))
+        outfile_path = "results/" + os.path.splitext(ntpath.basename(pdf_path))[0] + "-" + template["type_code"] + ".xml"
+        xbrl_result.write(outfile_path)
 
 
-# NOTE: This method does NOT BELONG HERE (Just getting a first version written)
-def generate_xbrl_output(json_result):
+# TODO: This method does NOT BELONG HERE (Just getting a first version written)
+# It is also actually really nasty; contexts are products of all possible combinations of the used dimensions
+# This is the first method to get rewritten and pythonized
+# TODO: This version only supports a SINGLE dimension.  The current taxonomy only uses a single dimension.
+
+def generate_xbrl_tree(json_result):
     """Takes a JSON string and generates an XBRL document from it"""
+
+    # Collect the dimensions used; each one will generate a context
+    dimension_dict = {}
+    for json_fact in json_result:
+        dimensions = json_fact["xbrl_dimensions"]
+        
+        # Go through each specified dimension and store the value specified
+        for dimension, member in dimensions.items():
+            if(dimension not in dimension_dict):
+                dimension_dict[dimension] = []
+            if member not in dimension_dict[dimension]:
+                dimension_dict[dimension].append(member)
+    
+    # Create one context element per dimension combination
+    # contexts = []
+    # for dimension, members in dimension_dict.items():
+    #     new_contexts = []
+    #     for member in members:
+    #         new_contexts.append((dimension, member))
+
+    #     if(contexts == []):
+    #         contexts = new_contexts
+    #     else:
+    #         contexts = list(itertools.product(*[contexts, new_contexts]))
+
+    # TODO: This just uses the first dimension, that's it.  This HAS to change eventually to use all dimensions.
+    dimension_name = dimension_dict.keys()[0]
+    dimension_members = dimension_dict[dimension_name]
+
     root = ET.Element("xbrl", {
         "xmlns":"http://www.xbrl.org/2003/instance",
         "xmlns:xbrli":"http://www.xbrl.org/2003/instance",
@@ -157,7 +191,7 @@ def generate_xbrl_output(json_result):
         "xmlns:xlink":"http://www.w3.org/1999/xlink" ,
         "xmlns:xsi":"http://www.w3.org/2001/XMLSchema-instance" ,
         "xmlns:xbrldi":"http://xbrl.org/2006/xbrldi" ,
-        "xmlns:cafr":"http://www.xbrlsite.com/DigitalFinancialReporting/Metapattern/RollUp" ,
+        "xmlns:cafr":"http://www.opentechstrategies.com/cafr-2015-04-20" ,
         "xmlns:iso4217":"http://www.xbrl.org/2003/iso4217" ,
         "xsi:schemaLocation":"http://xbrl.org/2006/xbrldi http://www.xbrl.org/2006/xbrldi-2006.xsd"
     })
@@ -166,14 +200,30 @@ def generate_xbrl_output(json_result):
         "xlink:href":"cafr-2015-04-20.xsd"
     })
 
-    baseContext = ET.SubElement(root, "context", {
-        "id":"baseContext"
-    })
-    baseContextEntity = ET.SubElement(baseContext, "entity")
-    baseContextEntityIdentifier = ET.SubElement(baseContext, "identifier", {
-        "scheme": "http://www.opentechstrategies.com"
-    })
-    baseContextEntityIdentifier.text = "CAFR"
+    # Create one context per context item
+    contexts = {}
+    for member in dimension_members:
+        contextId = "C-" + member
+        contexts[member] = contextId
+
+        context = ET.SubElement(root, "context", {
+            "id": contextId
+        })
+        contextEntity = ET.SubElement(context, "entity")
+        contextEntityIdentifier = ET.SubElement(contextEntity, "identifier", {
+            "scheme": "http://www.opentechstrategies.com"
+        })
+        contextEntityIdentifier.text = "CAFR"
+        contextPeriod = ET.SubElement(context, "period")
+        contextPeriodInstant = ET.SubElement(contextPeriod, "instant")
+        # TODO: Extract a date somehow
+        contextPeriodInstant.text = "2015-04-21"
+        contextScenario = ET.SubElement(context, "scenario")
+        contextScenarioDimension = ET.SubElement(contextScenario, "xbrldi:explicitMember", {
+            "dimension":"cafr:" + dimension_name
+        })
+        contextScenarioDimension.text = "cafr:" + member
+
 
     moneyUnit = ET.SubElement(root, "unit", {
         "id": "U-Monetary"
@@ -181,20 +231,35 @@ def generate_xbrl_output(json_result):
     moneyUnitMeasure = ET.SubElement(moneyUnit, "measure")
     moneyUnitMeasure.text = "iso4217:USD"
 
-    for i, json_fact in enumerate(json_result):
-        concept = fact["xbrl_concept"]
-        value = fact["value"]
-        dimensions = fact["xbrl_dimensions"]
+    for json_fact in json_result:
+        concept = json_fact["xbrl_concept"]
+        value = json_fact["value"]
+        dimensions = json_fact["xbrl_dimensions"]
+
+        # TODO: This is flat out broken.  It assumes everything has dimension values for the same dimension (in our templates this will be true, but this can't be true forever)
+        contextId = contexts[dimensions[dimension_name]]
         xml_fact = ET.SubElement(root, "cafr:" + concept, {
-            "contextRef": "baseContext",
+            "contextRef": contextId,
             "unitRef": "U-Monetary",
             "decimals": "INF"
         })
-        xml_fact.text = value
+        xml_fact.text = str(value)
 
     tree = ET.ElementTree(root)
-    tree.write("test.xml")
+    return tree
+
+def load_results_json(json_path):
+    with open(json_path) as myFile:
+        results_text = myFile.read()
+    results_json = json.loads(results_text)
+    return results_json
+
 
 ## For now you can test this code by uncommenting and picking a file path
-#process_pdf("data/AL_cafr2010.pdf")
-generate_xbrl_output([])
+#process_pdf("data/NY_cafr2010.pdf")
+#process_pdf("data/NY_cafr2011.pdf")
+#process_pdf("data/NY_cafr2012.pdf")
+process_pdf("data/NY_cafr2013.pdf")
+process_pdf("data/NY_cafr2014.pdf")
+# results_json = load_results_json("results/NY_cafr2010-statement_of_activities.json")
+# generate_xbrl_output(results_json)

@@ -113,7 +113,6 @@
     <label xlink:type="resource" xlink:label="label_statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesPublicWelfare" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en">Primary Government, Governmental Activities, Public Welfare</label>
     <label xlink:type="resource" xlink:label="label_statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesTransportation" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en">Primary Government, Governmental Activities, Transportation</label>
 
-    <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="concept_nr_employees_total" xlink:to="label_nr_employees_total" />
     <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="concept_root" xlink:to="label_root"/>
     <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="concept_statementOfActivitiesFunctionsAndProgramsLineItem" xlink:to="label_statementOfActivitiesFunctionsAndProgramsLineItem"/>
     <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="concept_statementOfActivitiesComponentUnitsTotal" xlink:to="label_statementOfActivitiesComponentUnitsTotal"/>

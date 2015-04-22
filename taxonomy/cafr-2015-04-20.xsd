@@ -29,13 +29,13 @@
 
   <element id="cafr_dimension_statementOfActivitiesActivity" name="dimension_statementOfActivitiesActivity" substitutionGroup="xbrldt:dimensionItem" type="xbrli:stringItemType" abstract="true" xbrli:periodType="instant" />
   <element id="cafr_domain_statementOfActivitiesActivity" name="domain_statementOfActivitiesActivity" substitutionGroup="xbrldt:dimensionItem" type="xbrli:stringItemType" abstract="true" xbrli:periodType="instant" />
-  <element id="cafr_statementOfActivitiesActivityComponentUnits" name="statementOfActivitiesActivityComponentUnits" substitutionGroup="xbrldt:stringItemType" type="xbrli:stringItemType" xbrli:periodType="instant" />
-  <element id="cafr_statementOfActivitiesActivitityExpenses" name="statementOfActivitiesActivitityExpenses" substitutionGroup="xbrldt:stringItemType" type="xbrli:stringItemType" xbrli:periodType="instant" />
-  <element id="cafr_statementOfActivitiesActivitityBusinessTypeActivities" name="statementOfActivitiesActivitityBusinessTypeActivities" substitutionGroup="xbrldt:stringItemType" type="xbrli:stringItemType" xbrli:periodType="instant" />
-  <element id="cafr_statementOfActivitiesActivitityGovernmentalActivities" name="statementOfActivitiesActivitityGovernmentalActivities" substitutionGroup="xbrldt:stringItemType" type="xbrli:stringItemType" xbrli:periodType="instant" />
-  <element id="cafr_statementOfActivitiesActivitityCapitalGrantsAndContributions" name="statementOfActivitiesActivitityCapitalGrantsAndContributions" substitutionGroup="xbrldt:stringItemType" type="xbrli:stringItemType" xbrli:periodType="instant" />
-  <element id="cafr_statementOfActivitiesActivitityChargesForServices" name="statementOfActivitiesActivitityChargesForServices" substitutionGroup="xbrldt:stringItemType" type="xbrli:stringItemType" xbrli:periodType="instant" />
-  <element id="cafr_statementOfActivitiesActivitityOperatingGrantsAndContributions" name="statementOfActivitiesActivitityOperatingGrantsAndContributions" substitutionGroup="xbrldt:stringItemType" type="xbrli:stringItemType" xbrli:periodType="instant" />
+  <element id="cafr_statementOfActivitiesActivityComponentUnits" name="statementOfActivitiesActivityComponentUnits" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant" />
+  <element id="cafr_statementOfActivitiesActivitityExpenses" name="statementOfActivitiesActivitityExpenses" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant" />
+  <element id="cafr_statementOfActivitiesActivitityBusinessTypeActivities" name="statementOfActivitiesActivitityBusinessTypeActivities" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant" />
+  <element id="cafr_statementOfActivitiesActivitityGovernmentalActivities" name="statementOfActivitiesActivitityGovernmentalActivities" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant" />
+  <element id="cafr_statementOfActivitiesActivitityCapitalGrantsAndContributions" name="statementOfActivitiesActivitityCapitalGrantsAndContributions" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant" />
+  <element id="cafr_statementOfActivitiesActivitityChargesForServices" name="statementOfActivitiesActivitityChargesForServices" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant" />
+  <element id="cafr_statementOfActivitiesActivitityOperatingGrantsAndContributions" name="statementOfActivitiesActivitityOperatingGrantsAndContributions" substitutionGroup="xbrli:item" type="xbrli:stringItemType" xbrli:periodType="instant" />
 
   <element id="cafr_statementOfActivities" name="statementOfActivities" xbrli:periodType="instant" type="xbrli:stringItemType" substitutionGroup="xbrli:item" abstract="true" nillable="true"/>
   <element id="cafr_statementOfActivitiesFunctionsAndProgramsLineItem" name="statementOfActivitiesFunctionsAndProgramsLineItem" xbrli:periodType="instant" type="xbrli:monetaryItemType" xbrli:balance="credit" substitutionGroup="xbrli:item" nillable="true"/>

@@ -51,5 +51,4 @@ pip-selfcheck.json
 dev_db.sqlite3
 settings_live.py
 
-
-results/*.json
+results/*.xml

@@ -1,7 +1,7 @@
 {
    "type_code": "statement_of_activities",
    "format": "xbrl:gaap-xgrl",
-   "file_pattern": "AL\\_cafr2010\\.pdf",
+   "file_pattern": "THIS TEMPLATE IS NO LONGER VALID",
    "anchor": "Capital\\s+Grants\\s+and\\s+Contributions\\s+Expenses\\s+Charges\\s+for\\s+Services\\s+Operating\\s+Grants\\s+and\\s+Contributions\\s+FUNCTIONS/PROGRAMS\\s+Primary\\s+Government:\\s+Governmental\\s+Activities:\\s+Economic\\s+Development\\s+and\\s+Regulation\\s+Education\\s+and\\s+Cultural\\s+Resources\\s+Natural\\s+Resources\\s+and\\s+Recreation\\s+Health\\s+Social\\s+Services\\s+Protection\\s+of\\s+Persons\\s+and\\s+Property\\s+Transportation\\s+General\\s+Government\\s+Debt\\s+Service\\s+-\\s+Interest\\s+and\\s+Other\\s+Charges\\s+Total\\s+Governmental\\s+Activities\\s+Business-type\\s+Activities\\s+Unemployment\\s+Compensation\\s+State\\s+Port\\s+Authority\\s+Alabama.*System\\s+Alcoholic\\s+Beverage\\s+Control\\s+Board\\s+Nonmajor\\s+Proprietary\\s+Funds\\s+Total\\s+Business-type\\s+Activities\\s+Total\\s+Primary\\s+Government\\s+Component\\s+Units:\\s+Public\\s+School\\s+and\\s+College\\s+Authority\\s+Mental\\s+Health\\s+Housing\\s+Finance\\s+Authority\\s+Water\\s+Pollution\\s+Control\\s+Authority\\s+University\\s+of\\s+Alabama\\s+Auburn\\s+University\\s+University\\s+of\\s+South\\s+Alabama\\s+Public\\s+Education\\s+Employees'\\s+Health\\s+Insurance\\s+State\\s+Employees'\\s+Health\\s+Insurance\\s+Board\\s+Nonmajor\\s+Component\\s+Units\\s+Total\\s+Component\\s+Units\\s+",
    "lines": [
       {},
