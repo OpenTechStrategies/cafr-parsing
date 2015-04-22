@@ -91,9 +91,9 @@ It may take a while to run, possibly minutes.  When it's done, the results will 
 
 ## Viewing XBRL
 
-XBRL is not particularly useful to humans without software to render the content. Example CSV output, which were created by exporting the XBRL output to CSV with an XBRL viewer, can be found in the `analysis/examples/xbrl-csv_export` directory.
+XBRL is not particularly useful to humans without software to render the content. Example CSV output, which were created by exporting the XBRL output to CSV with an XBRL viewer, can be found in the `example-output/xbrl-csv_export` directory.
 
-Alternatively, examples of XBRL output can be found in the `analysis/examples/xbrl_export` directory
+Alternatively, examples of XBRL output can be found in the `example-output/xbrl_export` directory
 
 To view the XBRL directly:
 
@@ -120,7 +120,7 @@ These are resources that were helpful while exploring:
 
 ## Next Steps
 
-- There are dozens of TODO flags scattered throughout the code base.  Some of are minor, some are major.
+- There are dozens of TODO flags scattered throughout the code base.  Some are minor, some are major.
 - Continued refinement of the taxonomy structure.
 - Creation of additional templates for additional states.
 - Tools to assist in template generation.
