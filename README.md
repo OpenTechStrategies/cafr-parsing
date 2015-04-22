@@ -8,28 +8,6 @@ Automated data extraction from U.S. state Comprehensive Annual Financial Reports
 - **templates**: Where table templates (explained below) should be located.  Any .txt files in this directory will be loaded automatically by `miner.py`.
 - **taxonomy**: The XBRL Taxonomy
 
-## Instructions
-### Generating XBRL
-
-1. Go through the installation process described in this document.
-2. Activate the virtualenv
-3. Run "miner.py" (`python miner.py`)
-
-This process will take approximately 30 seconds per PDF and will generate the XBRL instances inside of the `results` directory.
-
-### Viewing XBRL
-
-XBRL is not particularly useful to humans without software to render the content. Example CSV output, which were created by exporting the XBRL output to CSV with an XBRL viewer, can be found in the `analysis/examples/xbrl-csv_export` directory.
-
-Alternatively, examples of XBRL output can be found in the `analysis/examples/xbrl_export` directory
-
-To view the XBRL directly:
-
-1. Download and install an [XBRL viewer](http://www.arelle.org).
-2. Copy the taxonomy files (located in the taxonomy directory) into a working folder of your choosing.
-3. Copy the results files (located in the results directory) into that working folder.
-4. Open the results files in the XBRL viewer.
-
 ## Installation
 
 ### First-time setup (Linux)
@@ -109,7 +87,20 @@ It may take a while to run, possibly minutes.  When it's done, the results will 
 
 * `data/AL_cafr2011.pdf` is an example CAFR input file
 * `templates/AL_statewidenetassets.txt` is an example template file
-* `results/AL_cafr2011-statewide_net_assets.json` is an example output file (this won't exist until you run `miner.py`)
+* `results/AL_cafr2011-statewide_net_assets.xml` is an example output file (this won't exist until you run `miner.py`)
+
+## Viewing XBRL
+
+XBRL is not particularly useful to humans without software to render the content. Example CSV output, which were created by exporting the XBRL output to CSV with an XBRL viewer, can be found in the `analysis/examples/xbrl-csv_export` directory.
+
+Alternatively, examples of XBRL output can be found in the `analysis/examples/xbrl_export` directory
+
+To view the XBRL directly:
+
+1. Download and install an [XBRL viewer](http://www.arelle.org).
+2. Copy the taxonomy files (located in the taxonomy directory) into a working folder of your choosing.
+3. Copy the results files (located in the results directory) into that working folder.
+4. Open the results files in the XBRL viewer.
 
 ## Resources
 These are resources that were helpful while exploring:
