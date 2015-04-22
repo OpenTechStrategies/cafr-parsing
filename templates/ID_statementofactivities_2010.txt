@@ -1,7 +1,7 @@
 {
    "type_code": "statement_of_activities",
    "format": "xbrl:cafr",
-   "file_pattern": "ID_cafr201[0-2]\\.pdf",
+   "file_pattern": "ID_cafr201[0]\\.pdf",
    "anchor": "Capital\\s+Grants\\s+and\\s+Contributions\\s+Charges\\s+for\\s+Services",
    "lines": [
       { "xbrl_concept": "statementOfActivitiesPrimaryGovernmentGovernmentalActivitiesGeneral", "xbrl_dimensions": { "dimension_statementOfActivitiesActivity": "statementOfActivitiesActivitityChargesForServices" }},
