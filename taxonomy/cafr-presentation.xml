@@ -33,6 +33,7 @@
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesGeneralRevenuesTaxesSales" xlink:label="concept_statementOfActivitiesGeneralRevenuesTaxesSales"/>
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesGeneralRevenuesTobaccoSettlement" xlink:label="concept_statementOfActivitiesGeneralRevenuesTobaccoSettlement"/>
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesPermanentEndowmentContributions" xlink:label="concept_statementOfActivitiesPermanentEndowmentContributions"/>
+    <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesSpecialItem" xlink:label="concept_statementOfActivitiesSpecialItem"/>
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesTransfers" xlink:label="concept_statementOfActivitiesTransfers"/>
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesNetAssetsLineItem" xlink:label="concept_statementOfActivitiesNetAssetsLineItem"/>
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesNetAssetsBeginningOfYear" xlink:label="concept_statementOfActivitiesNetAssetsBeginningOfYear"/>
@@ -77,7 +78,8 @@
 
     <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="concept_statementOfActivitiesGeneralRevenuesContributionsAndTransfersTotal" xlink:to="concept_statementOfActivitiesGeneralRevenuesTotal" order="1" priority="0" use="optional" />
     <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="concept_statementOfActivitiesGeneralRevenuesContributionsAndTransfersTotal" xlink:to="concept_statementOfActivitiesPermanentEndowmentContributions" order="2" priority="0" use="optional" />
-    <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="concept_statementOfActivitiesGeneralRevenuesContributionsAndTransfersTotal" xlink:to="concept_statementOfActivitiesTransfers" order="3" priority="0" use="optional" />
+    <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="concept_statementOfActivitiesGeneralRevenuesContributionsAndTransfersTotal" xlink:to="concept_statementOfActivitiesSpecialItem" order="3" priority="0" use="optional" />
+    <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="concept_statementOfActivitiesGeneralRevenuesContributionsAndTransfersTotal" xlink:to="concept_statementOfActivitiesTransfers" order="4" priority="0" use="optional" />
 
     <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="concept_statementOfActivitiesGeneralRevenuesTotal" xlink:to="concept_statementOfActivitiesGeneralRevenuesGrantsAndContributionsNotRestricted" order="1" priority="0" use="optional" />
     <presentationArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="concept_statementOfActivitiesGeneralRevenuesTotal" xlink:to="concept_statementOfActivitiesGeneralRevenuesInvestmentEarnings" order="2" priority="0" use="optional" />

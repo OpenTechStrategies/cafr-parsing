@@ -135,6 +135,7 @@ def invoke_template(template, text):
         # Set the value for the mapped object based on the value in the cafr
         result_line["value"] = value
         result.append(result_line)
+        print(str(value) + "\t\t" + str(template_line))
 
     return result
 
@@ -275,10 +276,15 @@ def load_results_json(json_path):
 
 
 ## For now you can test this code by uncommenting and picking a file path
-process_pdf("data/ID_cafr2010.pdf")
-process_pdf("data/ID_cafr2011.pdf")
-process_pdf("data/ID_cafr2012.pdf")
-process_pdf("data/ID_cafr2013.pdf")
+# process_pdf("data/ID_cafr2010.pdf")
+# process_pdf("data/ID_cafr2011.pdf")
+# process_pdf("data/ID_cafr2012.pdf")
+# process_pdf("data/ID_cafr2013.pdf")
 process_pdf("data/ID_cafr2014.pdf")
+# process_pdf("data/NY_cafr2010.pdf")
+# process_pdf("data/NY_cafr2011.pdf")
+# process_pdf("data/NY_cafr2012.pdf")
+# process_pdf("data/NY_cafr2013.pdf")
+# process_pdf("data/NY_cafr2014.pdf")
 # results_json = load_results_json("results/NY_cafr2010-statement_of_activities.json")
 # generate_xbrl_output(results_json)

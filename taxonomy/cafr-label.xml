@@ -32,6 +32,7 @@
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesGeneralRevenuesTaxesSales" xlink:label="concept_statementOfActivitiesGeneralRevenuesTaxesSales"/>
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesGeneralRevenuesTobaccoSettlement" xlink:label="concept_statementOfActivitiesGeneralRevenuesTobaccoSettlement"/>
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesPermanentEndowmentContributions" xlink:label="concept_statementOfActivitiesPermanentEndowmentContributions"/>
+    <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesSpecialItem" xlink:label="concept_statementOfActivitiesSpecialItem"/>
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesTransfers" xlink:label="concept_statementOfActivitiesTransfers"/>
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesNetAssetsLineItem" xlink:label="concept_statementOfActivitiesNetAssetsLineItem"/>
     <loc xlink:type="locator" xlink:href="cafr-2015-04-20.xsd#cafr_statementOfActivitiesNetAssetsBeginningOfYear" xlink:label="concept_statementOfActivitiesNetAssetsBeginningOfYear"/>
@@ -85,6 +86,7 @@
     <label xlink:type="resource" xlink:label="label_statementOfActivitiesGeneralRevenuesTaxesSales" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en">General Revenues, Taxes, Sales</label>
     <label xlink:type="resource" xlink:label="label_statementOfActivitiesGeneralRevenuesTobaccoSettlement" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en">General Revenues, Tobacco Settlement</label>
     <label xlink:type="resource" xlink:label="label_statementOfActivitiesPermanentEndowmentContributions" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en">Permanent Endowment Contributions</label>
+    <label xlink:type="resource" xlink:label="label_statementOfActivitiesSpecialItem" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en">Special Item</label>
     <label xlink:type="resource" xlink:label="label_statementOfActivitiesTransfers" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en">Transfers</label>
     <label xlink:type="resource" xlink:label="label_statementOfActivitiesNetAssetsLineItem" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en">Net Asset Summary</label>
     <label xlink:type="resource" xlink:label="label_statementOfActivitiesNetAssetsBeginningOfYear" xlink:role="http://www.xbrl.org/2003/role/label" xml:lang="en">Net Assets, Beginning of Year</label>
@@ -138,6 +140,7 @@
     <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="concept_statementOfActivitiesGeneralRevenuesTaxesSales" xlink:to="label_statementOfActivitiesGeneralRevenuesTaxesSales"/>
     <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="concept_statementOfActivitiesGeneralRevenuesTobaccoSettlement" xlink:to="label_statementOfActivitiesGeneralRevenuesTobaccoSettlement"/>
     <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="concept_statementOfActivitiesPermanentEndowmentContributions" xlink:to="label_statementOfActivitiesPermanentEndowmentContributions"/>
+    <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="concept_statementOfActivitiesSpecialItem" xlink:to="label_statementOfActivitiesSpecialItem"/>
     <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="concept_statementOfActivitiesTransfers" xlink:to="label_statementOfActivitiesTransfers"/>
     <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="concept_statementOfActivitiesNetAssetsLineItem" xlink:to="label_statementOfActivitiesNetAssetsLineItem"/>
     <labelArc xlink:type="arc" xlink:arcrole="http://www.xbrl.org/2003/arcrole/concept-label" xlink:from="concept_statementOfActivitiesNetAssetsBeginningOfYear" xlink:to="label_statementOfActivitiesNetAssetsBeginningOfYear"/>
