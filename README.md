@@ -4,7 +4,7 @@ Automated data extraction from U.S. state Comprehensive Annual Financial Reports
 ## Directory Structure
 - **taxonomy**: The XBRL Taxonomy
 - **templates**: Where table templates (explained below) should be located.  Any .txt files in this directory will be loaded automatically by `miner.py`.
-- **data**: The state CAFR files that have been downloaded thus far.
+- **data**: The state CAFR files we are using as inputs.
 - **example-output**: Some pre-generated examples of the output this system produces, in XBRL-XML format, CSV format, and MS-Excel format.
 - **analysis**: Various explorations performed around XBRL, CAFR, and PDF conversions.  Everything in this folder is purely documented thought process.  Nothing in here is used by the system.
 - **results**: This folder should be empty in the repository.  It is where `miner.py` places its output.
