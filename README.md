@@ -127,3 +127,4 @@ These are resources that were helpful while exploring:
 - Tools to assist in template generation.
 - Command line tools to run the miner from the command line.
 - Validation tools to identify when a template no longer matches the schema.
+- Think about whether this ties in with http://open-data-standards.github.io/ (and thence https://github.com/open-data-standards) in any useful way.
