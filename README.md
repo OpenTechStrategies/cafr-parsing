@@ -128,3 +128,7 @@ These are resources that were helpful while exploring:
 - Command line tools to run the miner from the command line.
 - Validation tools to identify when a template no longer matches the schema.
 - Think about whether this ties in with http://open-data-standards.github.io/ (and thence https://github.com/open-data-standards) in any useful way.
+
+## Related Projects
+
+- [pdftabextract](https://github.com/WZBSocialScienceCenter/pdftabextract) (a set of tools to help "extract tabular data from (OCR-processed) PDF files") might be useful to look at.
