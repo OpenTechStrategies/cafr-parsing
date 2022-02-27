@@ -133,3 +133,4 @@ These are resources that were helpful while exploring:
 
 - [Camelot](https://github.com/socialcopsdev/camelot/): "PDF Table Extraction for Humans".  See also [the docs](https://camelot-py.readthedocs.io/en/master/) and [this writeup at SocialCops](https://blog.socialcops.com/technology/engineering/camelot-python-library-pdf-data/).
 - [pdftabextract](https://github.com/WZBSocialScienceCenter/pdftabextract): a set of tools to help "extract tabular data from (OCR-processed) PDF files".
+- [Tabula](https://github.com/tabulapdf/tabula) "Tabula helps you liberate data tables trapped inside PDF files."
